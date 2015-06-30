@@ -440,48 +440,46 @@ rtmp://180.250.29.12:1935/jhos/beib2_5?byBHFanaticos
 
 ............ MUSIC .............
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“News”,[COLOR yellow] Music [/COLOR]
-
-#EXTINF:-1,USA:Vevo1 HD
+#EXTINF:-1 ,USA:Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1,USA:Vevo2 HD
+#EXTINF:-1, USA:Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:-1,USA:Vevo3 HD
+#EXTINF:-1, USA:Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
-#EXTINF:-1,USA:Kiss Tv Music
+#EXTINF:-1, USA:Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-MTV Hits
+#EXTINF:-1, MTV Hits
 http://edge.ailetv.net/org16/mtvhits_me/playlist.m3u8
 
-MTV Dance Rus
+#EXTINF:-1, MTV Dance Rus
 http://edge.ailetv.net/org6/mtvdance_me/playlist.m3u8
 
-MCM Top
+#EXTINF:-1, MCM Top
 http://edge.ailetv.net/org7/mcmtop_me/playlist.m3u8
 
-VIVA TV
+#EXTINF:-1, VIVA TV
 http://edge.ailetv.net/org17/vivatv_me/playlist.m3u8
 
-Bridge TV
+#EXTINF:-1, Bridge TV
 http://edge.ailetv.net/org6/bridgetv_me/playlist.m3u8
 
-A-One
+#EXTINF:-1, A-One
 http://edge.ailetv.net/org5/aone_me/playlist.m3u8
 
-VH-1 Classic
+#EXTINF:-1, VH-1 Classic
 http://edge.ailetv.net/org13/vh1classic_me/playlist.m3u8
 
-Music Box
+#EXTINF:-1, Music Box
 http://edge.ailetv.net/org17/musicbox_me/playlist.m3u8
 
-U TV
+#EXTINF:-1, U TV
 http://edge.ailetv.net/org17/yutv_me/playlist.m3u8
 
-Music First
+#EXTINF:-1, Music First
 http://edge.ailetv.net/org15/muzikapervogo_me/playlist.m3u8
 
 .......... NEWS ..............
