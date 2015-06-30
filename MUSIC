@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1, USA:Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1, USA:Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1, USA:Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1, USA:Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1, MTV Hits
+http://edge.ailetv.net/org16/mtvhits_me/playlist.m3u8
+
+#EXTINF:-1, MTV Dance Rus
+http://edge.ailetv.net/org6/mtvdance_me/playlist.m3u8
+
+#EXTINF:-1, MCM Top
+http://edge.ailetv.net/org7/mcmtop_me/playlist.m3u8
+
+#EXTINF:-1, VIVA TV
+http://edge.ailetv.net/org17/vivatv_me/playlist.m3u8
+
+Bridge TV
+http://edge.ailetv.net/org6/bridgetv_me/playlist.m3u8
+
+#EXTINF:-1, A-One
+http://edge.ailetv.net/org5/aone_me/playlist.m3u8
+
+#EXTINF:-1, VH-1 Classic
+http://edge.ailetv.net/org13/vh1classic_me/playlist.m3u8
+
+#EXTINF:-1, Music Box
+http://edge.ailetv.net/org17/musicbox_me/playlist.m3u8
+
+#EXTINF:-1, U TV
+http://edge.ailetv.net/org17/yutv_me/playlist.m3u8
+
+#EXTINF:-1, Music First
+http://edge.ailetv.net/org15/muzikapervogo_me/playlist.m3u8
+
+#EXTINF:-1 group-title="Muzik",Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 group-title="Muzik",Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="Muzik",Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="Muzik",FRANSA:Music Box 80 7h-19h
+http://teleclub.fr/musicbox80.mp4
+#EXTINF:-1 group-title="Muzik",VIETNAM VMusic
+http://83.170.111.147:1935/liveStream/mtv_1/HasBahCa.m3u8
+#EXTINF:-1 group-title="Muzik",Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1 group-title="Muzik",VM Channel HD 720
+http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Muzik",Yumor TV
+http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
