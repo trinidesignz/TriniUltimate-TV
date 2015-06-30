@@ -183,7 +183,7 @@ http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasess
 #EXTINF:-1, History Channel
 http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
+#EXTINF:-1, HBO
 http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
 
 #EXTINF:-1, FX
@@ -214,16 +214,10 @@ http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
 
 #EXTINF:-1, TNT
-rtmpe://rtmp.zerocast.tv/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-
-#EXTINF:-1, TNT
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
 
 #EXTINF:-1, TBS
 rtmpe://rtmp.zerocast.tv/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-
-#EXTINF:-1, TBS
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
 
 #EXTINF:-1, TLC
 http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
