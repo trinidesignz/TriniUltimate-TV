@@ -1,6 +1,7 @@
 #EXTM3U
 
 --- US Channels ---
+
 #EXTINF:0,24/7 Comedy Movies
 http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
 #EXTINF:0,24/7 HD Movies 1
@@ -143,119 +144,103 @@ http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
 
 
-#EXTINF:-1 tvg-id="A&E Network" tvg-logo="aetv.png" group-title="U.S.A",[COLOR lightgreen][I][B] A&E Network [/B][/I][/COLOR]
+#EXTINF:-1, A&E Network
 http://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1434703106
 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="abc.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC7 [/B][/I][/COLOR]
+#EXTINF:-1, ABC7
 rtmpe://stream.hdcast.me/goLive playpath=abcsdsc_5rqwvg4t swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=abcsdsc&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="abc.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC7 [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374 timeou=10
-
-#EXTINF:-1 tvg-id="ABC Family" tvg-logo="abcfamily.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC Family [/B][/I][/COLOR]
+#EXTINF:-1, ABC Family
 http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244 timeout=10
 
-#EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC NY [/B][/I][/COLOR]
+#EXTINF:-1, AMC NY
 rtmpe://rtmp.zerocast.tv/goLive playpath=TfRQx7deUAuncJwM0472m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
-#EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network" group-title="U.S.A",[COLOR lightgreen][I][B] Cartoon Network [/B][/I][/COLOR]
+#EXTINF:-1, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS" group-title="U.S.A",[COLOR lightgreen][I][B] CBS [/B][/I][/COLOR]
+#EXTINF:-1, CBS
 rtmpe://rtmp.zerocast.tv/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
 
-#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS" group-title="U.S.A",[COLOR lightgreen][I][B] CBS [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048 timeout=15
-
-#EXTINF:-1 tvg-logo="cw11.png" tvg-id="CW" group-title="U.S.A",[COLOR lightgreen][I][B] CW11 [/B][/I][/COLOR]
+#EXTINF:-1, CW11
 http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868
 
-#EXTINF:-1 tvg-logo="discovery.png" tvg-id="Discovery" group-title="U.S.A",[COLOR lightgreen][I][B] Discovery Channel [/COLOR][/I][/B]
+#EXTINF:-1, Discovery Channel
 http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
 
-#EXTINF:-1 tvg-logo="id.png" tvg-id="Investigation Discovery" group-title="U.S.A",[COLOR lightgreen][I][B] Investergation Discovery [/COLOR][/I][/B]
+#EXTINF:-1, Investergation Discovery
 http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729
 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC [/B][/I][/COLOR]
+#EXTINF:-1, NBC
 http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC [/B][/I][/COLOR]
-rtmpe://stream.hdcast.me/goLive playpath=bcndnn_6wn6mfk4 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=bcndnn&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
-
-#EXTINF:-1 tvg-id="The Oprah Winfrey Network" tvg-logo="own.png" group-title="U.S.A",[COLOR lightgreen][I][B] Oprah Winfrey Network [/B][/I][/COLOR]
+#EXTINF:-1, Oprah Winfrey Network
 http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
 
-
-#EXTINF:-1 tvg-id="Hallmark" tvg-logo="hallmark.png" group-title="U.S.A",[COLOR lightgreen][I][B] Hallmark [/B][/I][/COLOR]
+#EXTINF:-1, Hallmark
 http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
 
-#EXTINF:-1 tvg-id="History" tvg-logo="history.png" group-title="U.S.A",[COLOR lightgreen][I][B] History Channel [/B][/I][/COLOR]
+#EXTINF:-1, History Channel
 http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
-rtmpe://rtmp.zerocast.tv/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
 
 #EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
 http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
 
-#EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX [/B][/I][/COLOR]
+#EXTINF:-1, FX
 http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
 
-#EXTINF:-1 tvg-logo="fox.png" tvg-id="FOX" group-title="U.S.A",[COLOR lightgreen][I][B] FOX [/B][/I][/COLOR]
+#EXTINF:-1, FOX
 rtmpe://rtmp.zerocast.tv/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
-#EXTINF:-1 tvg-logo="food.png" tvg-id="Food Network" group-title="U.S.A",[COLOR lightgreen][I][B] Food Network [/B][/I][/COLOR]
+#EXTINF:-1, Food Network
 http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
 
-#EXTINF:-1 tvg-logo="msnbc.png" tvg-id="msnbc" group-title="U.S.A",[COLOR lightgreen][I][B] MSNBC [/B][/I][/COLOR]
+#EXTINF:-1, MSNBC
 http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
 
-#EXTINF:-1 tvg-logo="nick.png" tvg-id="Nickelodeon" group-title="U.S.A",[COLOR lightgreen][I][B] Nickelodeon [/B][/I][/COLOR]
+#EXTINF:-1, Nickelodeon
 http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
 
-#EXTINF:-1 tvg-logo="natgeo.png" tvg-id="National Geographic" group-title="U.S.A",[COLOR lightgreen][I][B] National Geographic Channel [/B][/I][/COLOR]
+#EXTINF:-1, National Geographic Channel
 http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
 
-#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime [/B][/I][/COLOR]
+#EXTINF:-1, Showtime
 http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/playlist.m3u8?wowzasessionid=1419875151
 
-#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime [/B][/I][/COLOR]
+#EXTINF:-1, Showtime
 http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
 
-#EXTINF:-1 tvg-logo="syfy.png" tvg-id="Syfy" group-title="U.S.A",[COLOR lightgreen][I][B] SyFy [/B][/I][/COLOR]
+#EXTINF:-1, SyFy
 http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
 
-#EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
+#EXTINF:-1, TNT
 rtmpe://rtmp.zerocast.tv/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
-#EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
+#EXTINF:-1, TNT
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
 
-#EXTINF:-1 tvg-logo="tbs.png" tvg-name="TBS" group-title="U.S.A",[COLOR lightgreen][I][B] TBS [/B][/I][/COLOR]
+#EXTINF:-1, TBS
 rtmpe://rtmp.zerocast.tv/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
-#EXTINF:-1 tvg-logo="tbs.png" tvg-name="TBS" group-title="U.S.A",[COLOR lightgreen][I][B] TBS [/B][/I][/COLOR]
+#EXTINF:-1, TBS
 http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
 
-#EXTINF:-1 tvg-logo="tlc.png" tvg-name="TLC" group-title="U.S.A",[COLOR lightgreen][I][B] TLC [/B][/I][/COLOR]
+#EXTINF:-1, TLC
 http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
 
-#EXTINF:-1 tvg-logo="tvland.png" tvg-id="TV Land" group-title="U.S.A",[COLOR lightgreen][I][B] TV Land [/B][/I][/COLOR]
+#EXTINF:-1, TV Land
 http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
 
-#EXTINF:-1 tvg-logo="trutv.png.png" tvg-id="TruTV" group-title="U.S.A",[COLOR lightgreen][I][B] TruTV [/B][/I][/COLOR]
+#EXTINF:-1, TruTV
 http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
 
-#EXTINF:-1 tvg-logo="usa.png" tvg-id="USA Network" group-title="U.S.A",[COLOR lightgreen][I][B] USA Network [/B][/I][/COLOR]
+#EXTINF:-1, USA Network
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420170509
 
-#EXTINF:-1 tvg-logo="vh1.png" tvg-id="VH1" group-title="U.S.A",[COLOR lightgreen][I][B] VH1 [/B][/I][/COLOR]
+#EXTINF:-1, VH1
 http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
 
-#EXTINF:-1 tvg-logo="mtv.png" tvg-id="MTV" group-title="U.S.A",[COLOR lightgreen][I][B] MTV [/B][/I][/COLOR]
+#EXTINF:-1, MTV
 http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
 
 #EXTINF:-1, ESPN HD 
@@ -425,6 +410,7 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
 ............UK CHANNELS.................
+
 #EXTINF:-1,Sky Sports 1 Germany
 http://tinyurl.com/pvshvh9
 #EXTINF:-1,Sky Sports 2 Germany
