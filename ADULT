@@ -149,13 +149,11 @@ http://199.195.195.108:32005
 #EXTINF:0, Canal_06
 http://199.195.195.108:32006
 
-Butgo
+#EXTINF:-1,Butgo
 http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
 
-Spice
-
+#EXTINF:-1,Spice
 http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
 
-Playy
-
+#EXTINF:-1,Playy
 http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
