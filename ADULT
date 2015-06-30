@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,Brazzers TV
+http://serv10.vintera.tv:1935/cdn/brazzers1.stream/playlist.m3u8
+
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+
+#EXTINF:-1,HD Porn TV
+http://188.165.220.116:8081/live/13/chunks.m3u8?nimblesessionid=27584312
+
+#EXTINF:-1,ADULT
+http://188.165.220.116:8081/live/15/playlist.m3u8
+
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
@@ -8,6 +20,9 @@ http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b11000
 
 #EXTINF:-1,Adult Premium 2
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:0, 18+
+http://178.167.1.193:7777/udp/234.5.2.249:1234
 
 #EXTINF:-1,HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
@@ -135,3 +150,27 @@ http://tvdasogra.com:8880/live/trial3/trial20153/266.ts
 http://188.165.220.116:8081/live2/10/playlist.m3u8
 #EXTINF:-1,XXX2 
 http://188.165.220.116:8081/live/35/playlist.m3u8
+
+#EXTINF:0, Canal_01
+http://199.195.195.108:32001
+#EXTINF:0, Canal_02
+http://199.195.195.108:32002
+#EXTINF:0, Canal_03
+http://199.195.195.108:32003
+#EXTINF:0, Canal_04
+http://199.195.195.108:32004
+#EXTINF:0, Canal_05
+http://199.195.195.108:32005
+#EXTINF:0, Canal_06
+http://199.195.195.108:32006
+
+Butgo
+http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
+
+Spice
+
+http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
+
+Playy
+
+http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
