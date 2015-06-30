@@ -1,31 +1,49 @@
 #EXTM3U
 
-#EXTINF:0,Redlight HD
-http://151.80.99.34:56088/live/test1/test1/137.ts
-#EXTINF:0,Hustler HD
-http://151.80.99.34:56088/live/test1/test1/138.ts
-#EXTINF:0,Hustler
-http://151.80.99.34:56088/live/test1/test1/149.ts
-#EXTINF:0,Penthouse
-http://151.80.99.34:56088/live/test1/test1/147.ts
-#EXTINF:0,Super One
-http://151.80.99.34:56088/live/test1/test1/148.ts
-#EXTINF:0,SCT HQ
-http://151.80.99.34:56088/live/test1/test1/144.ts
-#EXTINF:0,SCT HD
-http://151.80.99.34:56088/live/test1/test1/139.ts
-#EXTINF:0,Sexto Senso
-http://151.80.99.34:56088/live/test1/test1/143.ts
-#EXTINF:0,Exotica TV
-http://151.80.99.34:56088/live/test1/test1/140.ts
-#EXTINF:0,Pink o TV
-http://151.80.99.34:56088/live/test1/test1/146.ts
-#EXTINF:0,Boy&Boy
-http://151.80.99.34:56088/live/test1/test1/141.ts
-#EXTINF:0,Privee TV
-http://151.80.99.34:56088/live/test1/test1/142.ts
-#EXTINF:0,Platinum TV
-http://151.80.99.34:56088/live/test1/test1/145.ts
+#EXTINF:-1,Brazzers TV Europe (Для взрослых)
+acestream://652476edd5fecacd9268263bfe8433c74e9f9dc0
+#EXTINF:-1,Candy (Для взрослых)
+acestream://2d95ad7b7c3262359c5ff22333ecfba371a0407b
+#EXTINF:-1,Candyman (Для взрослых)
+acestream://b3a0b8ac20d3a8c20d8893115f480e9b79b48a87
+#EXTINF:-1,CentoXCento TV (Для взрослых)
+acestream://cc21817d6ecd5f42c98c7e5b47a830404c194f17
+#EXTINF:-1,Exotica TV (Для взрослых)
+acestream://014ef7b7cd281456d944e239871697c6c2c4270a
+#EXTINF:-1,French Lover TV (Для взрослых)
+acestream://c64ed62d5a8f931928158d1fe56c236f18a11e89
+#EXTINF:-1,Hustler HD (Для взрослых)
+acestream://a1db7f0abd837e9515a64669f842ef0179975566
+#EXTINF:-1,Hustler TV (Для взрослых)
+acestream://50d880b85bb5594e9a8476aa2c9cd29dd4e9fded
+#EXTINF:-1,Nuart TV (Для взрослых)
+acestream://580c70f9c418d57b5a24dce665dc00afdeed250f
+#EXTINF:-1,O-la-la (Для взрослых)
+acestream://55c9d1ed7f3804757e7a053a30e215d3048f6820
+#EXTINF:-1,Passie XXX (Для взрослых)
+acestream://83250ca43616e2480154d96248460cacafae86db
+#EXTINF:-1,Pink O TV (Для взрослых)
+acestream://b96c011f43af310e9dbfec112121cacf149d0a9c
+#EXTINF:-1,Playboy TV (Для взрослых)
+acestream://19b978daf1ccd076615b829a500d3549d5d6cdc7
+#EXTINF:-1,Private TV (Для взрослых)
+acestream://42d0520e58d1ddb8861c2f02ef7bf6e29a76fbb6
+#EXTINF:-1,Redlight Premium (Для взрослых)
+acestream://7f1e6dbff4553676a941ca45e4f106a7bbb55222
+#EXTINF:-1,SCT (Для взрослых)
+acestream://f0d4fc1efb4b99ca426c215fd0640142338982ae
+#EXTINF:-1,Satisfaction HD (Для взрослых)
+acestream://68ed2e9459212678cf551283a5aea4fe443960d9
+#EXTINF:-1,Sextosenso (Для взрослых)
+acestream://39cc34b6d8333f0f4ec2a2cb9c699f73b2067f62
+#EXTINF:-1,Искушение (Для взрослых)
+acestream://8b6cecbdf2e8f6153a45b2294312f04ede24db47
+#EXTINF:-1,Ночной клуб (Для взрослых)
+acestream://c3b706b94790f6b794393bbd4b9fd1957f9128b1
+#EXTINF:-1,Русская ночь (Для взрослых)
+acestream://7b448f72d4520a76fedfc61ac8ef76e93a2c59f6
+#EXTINF:-1,Эгоист ТВ (Для взрослых)
+acestream://39f3fc2f50a39ddc2e6be850fe1464c8bb4c7622
 
 #EXTINF:-1,Adult Premium
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
