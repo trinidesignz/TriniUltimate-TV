@@ -635,10 +635,10 @@ http://0.0.0.0:1234
 
 .......... ADULT ...........
 
-#EXTINF:-1, Penthouse HD
+#EXTINF:-1,Penthouse HD
 http://145.255.200.18:4022/udp/224.10.20.31:5000
 
-#EXTINF:-1, Adult Premium
+#EXTINF:-1,Adult Premium
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
 
 #EXTINF:-1,HOT SHOTS
