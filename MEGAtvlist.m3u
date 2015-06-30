@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, C-TV (Trinidad)
+http://streema.com/tv/play/CTNT_World_C_TV
 --- CAR CHANNELS ----
 
 #EXTINF:-1, Motor Sport
