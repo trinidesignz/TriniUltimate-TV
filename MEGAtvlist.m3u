@@ -402,14 +402,15 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1,BEIN SPORT 1
+#EXTINF:-1, BEIN-SPORT 1HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 2
+#EXTINF:-1, BEIN-SPORT 2HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 3
+#EXTINF:-1, BEIN-SPORT 3HD
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
+
 #EXTINF:-1,Sky Sports 1 Germany
 http://tinyurl.com/pvshvh9
 #EXTINF:-1,Sky Sports 2 Germany
