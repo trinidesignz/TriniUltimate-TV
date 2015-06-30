@@ -98,9 +98,6 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:-1,Adult:Bella Club
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 
-#EXTINF:-1,HQ Amateurs
-http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
-
 #EXTINF:-1 group-title="Adult",Korea m3u8 Okadai HD
 http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
 #EXTINF:-1 group-title="Adult",Korea m3u8 Okadai
