@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, C-TV (Trinidad)
-http://streema.com/tv/play/CTNT_World_C_TV
+
+#EXTINF:-1, Ctv Trinidad & Tobago
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+
 --- CAR CHANNELS ----
 
 #EXTINF:-1, Motor Sport
