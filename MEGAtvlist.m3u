@@ -427,7 +427,7 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
-
+.................................................
 #EXTINF:-1,Sky Sports 1 Germany
 http://tinyurl.com/pvshvh9
 #EXTINF:-1,Sky Sports 2 Germany
@@ -460,10 +460,173 @@ http://tinyurl.com/ptpmn8q
 http://tinyurl.com/qcxq2ry
 #EXTINF:0,Eurosport 2
 http://tinyurl.com/ojqtgln
-…………..
 #EXTINF:-1,Beinsport 2HD
 rtmp://180.250.29.12:1935/jhos/beib2_5?byBHFanaticos
-
+#EXTINF:-1,Sky 1 UK
+http://37.220.21.210:57088/sdtv/skyuk/planet/Sky_1_UK
+#EXTINF:-1,Sky 1 UK +1
+http://37.220.21.210:57088/sdtv/skyu...et/Sky_1_UK_+1
+#EXTINF:-1,Sky 2 UK
+http://37.220.21.210:57088/sdtv/skyuk/planet/Sky_2_UK
+#EXTINF:-1,Pick UK
+http://37.220.21.210:57088/sdtv/uktv/planet/Pick_UK
+#EXTINF:-1,Pick UK +1
+http://37.220.21.210:57088/sdtv/uktv/planet/Pick_UK_+1
+#EXTINF:-1,More 4 Ireland
+http://37.220.21.210:57088/sdtv/uktv...More_4_Ireland
+#EXTINF:-1,Channel 4 Ireland
+http://37.220.21.210:57088/sdtv/uktv...nnel_4_Ireland
+#EXTINF:-1,Channel 4 Ireland +1
+http://37.220.21.210:57088/sdtv/uktv...l_4_Ireland_+1
+#EXTINF:-1,E4 Ireland +1
+http://37.220.21.210:57088/sdtv/uktv.../E4_Ireland_+1
+#EXTINF:-1,E4 Ireland
+http://37.220.21.210:57088/sdtv/uktv/planet/E4_Ireland
+#EXTINF:-1,Sky Atlantic HD UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Atlantic_UK
+#EXTINF:-1,Sky Atlantic UK +1
+http://37.220.21.210:57088/sdtv/skyu...Atlantic_UK_+1
+#EXTINF:-1,Sky Atlantic HD Ireland
+http://37.220.21.210:57088/sdtv/skyu...tic_HD_Ireland
+#EXTINF:-1,Community Channel
+http://37.220.21.210:57088/sdtv/uktv...munity_Channel
+#EXTINF:-1,Discovery Channel UK
+http://37.220.21.210:57088/sdtv/uktv...ery_Channel_UK
+#EXTINF:-1,Animal Planet Europe
+http://37.220.21.210:57088/sdtv/uktv..._Planet_Europe
+#EXTINF:-1,Discovery Channel UK +1
+http://37.220.21.210:57088/sdtv/uktv..._Channel_UK_+1
+#EXTINF:-1,Discovery Science Channel UK
+http://37.220.21.210:57088/sdtv/uktv...nce_Channel_UK
+#EXTINF:-1,Discovery History
+http://37.220.21.210:57088/sdtv/uktv...covery_History
+#EXTINF:-1,Discovery Home&Health UK
+http://37.220.21.210:57088/sdtv/uktv...me_-_Health_UK
+#EXTINF:-1,Discovery Turbo UK
+http://37.220.21.210:57088/sdtv/uktv...overy_Turbo_UK
+#EXTINF:-1,Discovery Channel Ireland
+http://37.220.21.210:57088/sdtv/uktv...hannel_Ireland
+#EXTINF:-1,Investigation Discovery Ireland
+http://37.220.21.210:57088/sdtv/uktv...covery_Ireland
+#EXTINF:-1,TLC UK
+http://37.220.21.210:57088/sdtv/uktv/planet/TLC_UK
+#EXTINF:-1,TLC Ireland
+http://37.220.21.210:57088/sdtv/uktv/planet/TLC_Ireland
+#EXTINF:-1,Sky Living UK
+http://37.220.21.210:57088/sdtv/skyu.../Sky_Living_UK
+#EXTINF:-1,Sky Living UK +1
+http://37.220.21.210:57088/sdtv/skyu...y_Living_UK_+1
+#EXTINF:-1,Sky Living Ireland
+http://37.220.21.210:57088/sdtv/skyu...Living_Ireland
+#EXTINF:-1,Lifetime UK
+http://37.220.21.210:57088/sdtv/uktv/planet/Lifetime_UK
+#EXTINF:-1,Sky Arts
+http://37.220.21.210:57088/sdtv/skyuk/planet/Sky_Arts
+#EXTINF:-1,Fox UK
+http://37.220.21.210:57088/sdtv/uktv/planet/Fox_UK
+#EXTINF:-1,Fox UK +1
+http://37.220.21.210:57088/sdtv/uktv/planet/Fox_UK_+1
+#EXTINF:-1,Comedy Central UK
+http://37.220.21.210:57088/sdtv/uktv...edy_Central_UK
+#EXTINF:-1,Comedy Central Extra UK
+http://37.220.21.210:57088/sdtv/uktv...ntral_Extra_UK
+#EXTINF:-1,TCM UK
+http://37.220.21.210:57088/sdtv/uktv/planet/TCM_UK
+#EXTINF:-1,Sky Movies Showcase UK
+http://37.220.21.210:57088/sdtv/skyu...es_Showcase_HD
+#EXTINF:-1,Sky Movies Action&Adventure UK
+http://37.220.21.210:57088/sdtv/skyu...n-Adventure_UK
+#EXTINF:-1,Sky Movies Comedy UK
+http://37.220.21.210:57088/sdtv/skyu...vies_Comedy_UK
+#EXTINF:-1,Sky Movies Sci-Fi&Horror UK
+http://37.220.21.210:57088/sdtv/skyu...i-Fi-Horror_UK
+#EXTINF:-1,Sky Movies Select UK
+http://37.220.21.210:57088/sdtv/skyu...vies_Select_UK
+#EXTINF:-1,Sky Movies Disney UK
+http://37.220.21.210:57088/sdtv/skyu...vies_Disney_UK
+#EXTINF:-1,Sky Movies Family UK
+http://37.220.21.210:57088/sdtv/skyu...vies_Family_UK
+#EXTINF:-1,Sky Movies Premiere UK
+http://37.220.21.210:57088/sdtv/skyu...es_Premiere_UK
+#EXTINF:-1,Sky Movies Premiere UK +1
+http://37.220.21.210:57088/sdtv/skyu...Premiere_UK_+1
+#EXTINF:-1,Sky Movies Crime&Thriller UK
+http://37.220.21.210:57088/sdtv/skyu...me-Thriller_UK
+#EXTINF:-1,Sky Movies Drama&Romance UK
+http://37.220.21.210:57088/sdtv/skyu...ama-Romance_UK
+#EXTINF:-1,Sky Movies Greats UK
+http://37.220.21.210:57088/sdtv/skyu...vies_Greats_UK
+#EXTINF:-1,PBS America
+http://37.220.21.210:57088/sdtv/uktv/planet/PBS_America
+#EXTINF:-1,Sky Sports News HQ UK
+http://37.220.21.210:57088/sdtv/skyu...rts_News_HQ_UK
+#EXTINF:-1,Sky Sports 1 UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Sports_1_UK
+#EXTINF:-1,Sky Sports 2 UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Sports_2_UK
+#EXTINF:-1,Sky Sports 3 UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Sports_3_UK
+#EXTINF:-1,Sky Sports 4 UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Sports_4_UK
+#EXTINF:-1,Sky Sports 5 UK
+http://37.220.21.210:57088/sdtv/skyu...ky_Sports_5_UK
+#EXTINF:-1,Sky Sports F1
+http://37.220.21.210:57088/sdtv/skyu.../Sky_Sports_F1
+#EXTINF:-1,BT Sport 1
+http://37.220.21.210:57088/sdtv/uktv/planet/BT_Sport_1
+#EXTINF:-1,BT Sport 2
+http://37.220.21.210:57088/sdtv/uktv/planet/BT_Sport_2
+#EXTINF:-1,BT Sport ESPN
+http://37.220.21.210:57088/sdtv/uktv.../BT_Sport_ESPN
+#EXTINF:-1,BT Sport mosaic
+http://37.220.21.210:57088/sdtv/uktv...T_Sport_mosaic
+#EXTINF:-1,BT Sport Extra
+http://37.220.21.210:57088/sdtv/uktv...BT_Sport_Extra
+#EXTINF:-1,BT Sport Europe promo
+http://37.220.21.210:57088/sdtv/uktv...t_Europe_promo
+#EXTINF:-1,MUTV
+http://37.220.21.210:57088/sdtv/uktv/planet/MUTV
+#EXTINF:-1,Chelsea TV
+http://37.220.21.210:57088/sdtv/uktv/planet/Chelsea_TV
+#EXTINF:-1,Racing UK
+http://37.220.21.210:57088/sdtv/uktv/planet/Racing_UK
+#EXTINF:-1,Motors TV UK
+http://37.220.21.210:57088/sdtv/uktv...t/Motors_TV_UK
+#EXTINF:-1,British Eurosport
+http://37.220.21.210:57088/sdtv/uktv...tish_Eurosport
+#EXTINF:-1,British Eurosport 2
+http://37.220.21.210:57088/sdtv/uktv...sh_Eurosport_2
+#EXTINF:-1,4Music
+http://37.220.21.210:57088/sdtv/uktv/planet/4Music
+#EXTINF:-1,The Box UK
+http://37.220.21.210:57088/sdtv/uktv/planet/The_Box_UK
+#EXTINF:-1,Kiss
+http://37.220.21.210:57088/sdtv/uktv/planet/Kiss
+#EXTINF:-1,Kerrang!
+http://37.220.21.210:57088/sdtv/uktv/planet/Kerrang!
+#EXTINF:-1,Smash! Hits TV
+http://37.220.21.210:57088/sdtv/uktv...Smash!_Hits_TV
+#EXTINF:-1,Quest
+http://37.220.21.210:57088/sdtv/uktv/planet/Quest
+#EXTINF:-1,Cartoonito UK
+http://37.220.21.210:57088/sdtv/uktv.../Cartoonito_UK
+#EXTINF:-1,Disney XD UK
+http://37.220.21.210:57088/sdtv/uktv...t/Disney_XD_UK
+#EXTINF:-1,Disney Channel UK
+http://37.220.21.210:57088/sdtv/uktv...ney_Channel_UK
+#EXTINF:-1,Disney Junior UK
+http://37.220.21.210:57088/sdtv/uktv...sney_Junior_UK
+#EXTINF:-1,Disney XD UK +1
+http://37.220.21.210:57088/sdtv/uktv...isney_XD_UK_+1
+#EXTINF:-1,Disney Channel UK +1
+http://37.220.21.210:57088/sdtv/uktv..._Channel_UK_+1
+#EXTINF:-1,Disney Junior UK +1
+http://37.220.21.210:57088/sdtv/uktv...y_Junior_UK_+1
+#EXTINF:-1,Sky News UK
+http://37.220.21.210:57088/sdtv/skyu...et/Sky_News_UK
+#EXTINF:-1,Sky News Ireland
+http://37.220.21.210:57088/sdtv/skyu...y_News_Ireland
+........................................................
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“News”,[COLOR yellow] Music [/COLOR]
 
