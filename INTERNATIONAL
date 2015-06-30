@@ -1,0 +1,90 @@
+#EXTINF:-1 group-title=\"Caribbean Channels\", CineStream TV Barbados
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", CBC TV Barbados
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", CBC TV Channel 8 Barbados
+rtmp://184.154.57.230/cbcvideo/cbcstream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", ZNS TV Bahamas
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Ctv Trinidad & Tobago
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TV 4 Trinidad & Tobago
+rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+rtmp://162.244.81.145:2163/live//livestream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+rtmp://162.244.81.145:2163/live/livestream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+rtmp://162.244.81.145:2163/live//livestream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", ABS TV Antigua & Barbuda
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", CNC3 Trinidad & Tobago
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Beyond The Tape Trinidad & Tobago
+http://cdn.bimvid.com/TV6/aa6fb73c0054508914f898e3f2d494f5ac964e48_fl9.mp4
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Jamaica News
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TV Jamaica
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", CNS Channel 6 Guyana
+rtmp://184.173.181.2:1935/8262/8262
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Reggae Entertainment Television
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO (2)
+#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Barbados Parliament
+rtmp://fls.7.c3.audiovideoweb.com/lv/6c3flslive2019
+
+
+
+
+
+#EXTINF:-1, CineStream TV Barbados
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:-1, CBC TV Barbados
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+
+#EXTINF:-1, CBC TV Channel 8 Barbados
+rtmp://184.154.57.230/cbcvideo playpath=cbcstream
+
+#EXTINF:-1, ZNS TV Bahamas
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, ABS Television Antigua & Barbuda
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+
+#EXTINF:-1, CBA TV Curaçao
+rtmp://cba-television.tectona-host.com:1935/live playpath=cba-television swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.cba2.tv/livestream.html
+
+#EXTINF:-1, NGV TV Jamaica
+http://iphone-streaming.ustream.tv/ustreamVideo/7716202/streams/live/playlist.m3u8
+
+#EXTINF:-1, Jamaica News (not a dedicated stream)
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
+
+#EXTINF:-1, TV Jamaica (not a dedicated stream)
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
+
+#EXTINF:-1, Reggae Entertainment Television
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
