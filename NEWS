@@ -77,11 +77,5 @@ http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
 #EXTINF:-1 , CCTV news
 http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
 
-#EXTINF:-1 , World News ( BBC News Sometimes)
-rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf 
-
 #EXTINF:-1 , Stock News
 rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
-
-#EXTINF:-1,Arise News
-http://srv2.cdn.tvcatchup.com/pl-millenniumtv.m3u8?
