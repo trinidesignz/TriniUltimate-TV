@@ -1,12 +1,17 @@
 #EXTM3U
+
 #EXTINF:-1, ESPN HD 
 http://80.80.160.168/live/6/live.m3u8
+
 #EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
 #EXTINF:0,ESPN 2 HD
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+
 #EXTINF:0,NBC Sports TV HD
 http://ultra.goldtv.al:8000/live/bigserver/goldtv/106.ts
+
 #EXTINF:1, Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 
