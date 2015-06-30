@@ -82,3 +82,6 @@ rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/pla
 
 #EXTINF:-1 , Stock News
 rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
+
+#EXTINF:-1,Arise News
+http://srv2.cdn.tvcatchup.com/pl-millenniumtv.m3u8?
