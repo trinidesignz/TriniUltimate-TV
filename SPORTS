@@ -140,7 +140,6 @@ rtmp://alpha.skystreaming.net/tv/ playpath=motogphd?c=86ce69ad6adae17d1d3becc84e
 #EXTINF:-1, Sky Sport F1 HD Italia
 rtmp://alpha.skystreaming.net/tv/ playpath=formula1hd?c=86ce69ad6adae17d1d3becc84e5c0eba swfUrl=http://skystreaming.net/assets/j/jwplayer.flash.swf live=1 pageUrl=http://skystreaming.net/embedc.php
 
-
 #EXTINF:-1, SPORT 1 Germany
 http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
 
@@ -216,8 +215,7 @@ http://80.77.52.6:4394/udp/230.0.4.1:12345
 #EXTINF:-1, Eurosport Ru/En
 http://91.193.124.5:8000/eurosport
 
-#EXTINF:0,
-PREMIER SPORTS
+#EXTINF:-0, PREMIER SPORTS
 http://195.154.227.38:1935/Iive/vpremsplsh/playlist.m3u8
 
 #EXTINF:-1, Eurosport 2  Ru/En
