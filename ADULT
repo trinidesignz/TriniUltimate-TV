@@ -138,3 +138,9 @@ http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
 
 #EXTINF:-1,Playy
 http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
+
+#EXTINF:0,XXX EXOTICA TV
+http://78.108.255.7:12349/udp/239.1.1.245:4000
+
+#EXTINF:0,XXX FRENCH LOVER
+http://78.108.255.7:12349/udp/239.1.1.246:4000
