@@ -3,8 +3,11 @@
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
-#EXTINF:-1,Adult Premium
+#‎EXTINF‬:-1,Adult Premium 1
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1,Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
 
 #EXTINF:-1,HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
