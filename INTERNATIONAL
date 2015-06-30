@@ -40,6 +40,9 @@ http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
 #EXTINF:-1 group-title=\"Caribbean Channels\", TV Jamaica
 http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
 
+#EXTINF:-1, Real Jamaican Tv
+http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
+
 #EXTINF:-1 group-title=\"Caribbean Channels\", CNS Channel 6 Guyana
 rtmp://184.173.181.2:1935/8262/8262
 
@@ -54,10 +57,6 @@ rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
 
 #EXTINF:-1 group-title=\"Caribbean Channels\", Barbados Parliament
 rtmp://fls.7.c3.audiovideoweb.com/lv/6c3flslive2019
-
-
-
-
 
 #EXTINF:-1, CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
