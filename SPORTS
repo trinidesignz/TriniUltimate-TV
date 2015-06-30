@@ -1,0 +1,274 @@
+#EXTINF:-1, ESPN HD 
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN SD
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+#EXTINF:0,ESPN 2 HD
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,ESPN 2 SD
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+#EXTINF:0,NBC Sports Network HD
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,NBC Sports Network SD
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:1, Sport1 HD
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:1, Sports Net 360
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/62.m3u8
+
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, SPORTSTV 
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+
+#EXTINF:-1, TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1, CANADA:TVA Sport
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+#EXTINF:-1, RUS 1 Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, RUS Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, RUS Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, RUS Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+
+#EXTINF:-1, RUS RTR Sport
+http://92.50.181.6/tv/1114/index.m3u8
+
+#EXTINF:0, Sport 1 (RU)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#EXTINF:-1,RUS Sport 1 (stream 2)
+http://92.50.181.6/tv/1115/index.m3u8
+
+#EXTINF:0, Sport 2 (RU)
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+
+#EXTINF:0, Football (RU)
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#EXTINF:-1,TURK:A SPOR
+http://hls.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
+
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1,Sky Sports 1 Germany
+http://tinyurl.com/pvshvh9
+#EXTINF:-1,Sky Sports 2 Germany
+http://tinyurl.com/nl6xxqz
+#EXTINF:0,Arena Sport 1 Hr
+http://tinyurl.com/obfbs8t
+#EXTINF:0,Arena Sport 2 Hr
+http://tinyurl.com/qjbgmyv
+#EXTINF:0,Arena Sport 3 Hr
+http://tinyurl.com/pnzta8d
+#EXTINF:0,Arena Sport 4 Hr
+http://tinyurl.com/onvrflh
+#EXTINF:0,Arena Sport 1 Sr
+http://tinyurl.com/n9lmp5l
+#EXTINF:0,Arena Sport 2 Sr
+http://tinyurl.com/oeecwzc
+#EXTINF:0,Arena Sport 3 Sr
+http://tinyurl.com/nufn6n6
+#EXTINF:0,Arena Sport 4 Sr
+http://tinyurl.com/oyqv273
+#EXTINF:0,Arena Sport 5 Sr
+http://tinyurl.com/od75chg
+#EXTINF:0,SportKlub 1 HR
+http://tinyurl.com/o8zacf7
+#EXTINF:0,SportKlub 2 HR
+http://tinyurl.com/psktb58
+#EXTINF:0,SportKlub 3 HR
+http://tinyurl.com/ptpmn8q
+#EXTINF:0,Eurosport 1
+http://tinyurl.com/qcxq2ry
+#EXTINF:0,Eurosport 2
+http://tinyurl.com/ojqtgln
+#EXTINF:-1,Beinsport 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5?byBHFanaticos
+
+#EXTINF:-1, Sky Sport Moto GP HD Italia
+rtmp://alpha.skystreaming.net/tv/ playpath=motogphd?c=86ce69ad6adae17d1d3becc84e5c0eba swfUrl=http://skystreaming.net/assets/j/jwplayer.flash.swf live=1 pageUrl=http://skystreaming.net/embedc.php
+
+#EXTINF:-1, Sky Sport F1 HD Italia
+rtmp://alpha.skystreaming.net/tv/ playpath=formula1hd?c=86ce69ad6adae17d1d3becc84e5c0eba swfUrl=http://skystreaming.net/assets/j/jwplayer.flash.swf live=1 pageUrl=http://skystreaming.net/embedc.php
+
+
+#EXTINF:-1, SPORT 1 Germany
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, ESPN Brasil 
+http://94.242.228.121:1935/live/espnbr/playlist.m3u8
+
+#EXTINF:-1, NBA TV HD (some buffer)
+http://78.56.73.169:4022/udp/239.2.3.114:1234
+
+#EXTINF:-1, Sky sports 1 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Sky sports 2 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky sports 3 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky sports 4 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky sports 5 
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, BT sport 1 Espn 
+rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, WWE
+rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, BT sport 1 
+rtmp://80.82.64.140:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, BT sport 2 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Euro sport 
+rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Euro sport HD 
+rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, SNY SD
+rtmp://kv2.ts33.net/sat/us061
+
+#EXTINF:-1, Fight Club
+http://46.61.226.18/hls/CH_FIGHTCLUB/bw1500000/variant.m3u8
+
+#EXTINF:-1, ESPN 2 SD
+rtmp://kv2.ts33.net/sat/us152
+
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us162
+
+#EXTINF:-1, Eurosport DE 
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1, ESPN Brasil
+http://94.242.228.121:1935/live/espnbr/livestream.m3u8
+
+#EXTINF:-1, C-More SPORT
+http://188.138.9.228:8023 
+
+#EXTINF:-1, ESPN HD EN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1, ITV Takrar
+http://edge.ailetv.net/org7/ictimaitv_me/playlist.m3u8
+
+#EXTINF:-1, Setanta Sports Ru (buffer)
+http://80.77.52.6:4394/udp/230.0.4.1:12345
+
+#EXTINF:-1, Eurosport Ru/En
+http://91.193.124.5:8000/eurosport
+
+#EXTINF:-1, Eurosport 2  Ru/En
+http://91.193.124.5:8000/eurosport2
+
+#EXTINF:-1, RSI la 2
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Sportv Brasil
+rtmp://76.73.108.33/livepkgr/sportv
+
+#EXTINF:-1, Sportv 2 Brasil
+rtmp://76.73.108.33/livepkgr/sportv2
+
+#EXTINF:-1, Sportv 3 Brasil
+rtmp://76.73.108.33/livepkgr/sportv3
+
+#EXTINF:-1, Polsat SPort  (buffer)
+http://95.215.233.11:4022/udp/239.255.2.8:1234
+
+#EXTINF:-1, Extreme 
+http://192.118.76.203:8080/udp/232.1.1.1:50001
+ 
+#EXTINF:-1, Trace Sports Stars 
+http://192.118.76.203:8080/udp/232.1.1.2:50001 
+
+#‎EXTINF‬:0, Sportsport News HD 
+http://81.7.13.162/hls/ss1/index.m3u8 
+
+#EXTINF:0, Supersport 2 al 
+http://81.7.13.162/hls/ss2/index.m3u8 
+
+#EXTINF:0, Supersport 3 al 
+http://81.7.13.162/hls/ss3/index.m3u8
+ 
+#EXTINF:-1, TVA Sport CANADA (French)
+rtmp://cp39414.live.edgefcs.net/live//event1@9756
+
+#EXTINF:-1, Fubotv 
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:fuboTV-Origin_all/chunklist_b2270208.m3u8
+
+#EXTINF:-1,Sport1 voetbal
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, PTV Sports SD
+rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
+
+#EXTINF:-1, Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="SPORTS", SEVILLA FC SPAIN
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+
+#EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1,Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
