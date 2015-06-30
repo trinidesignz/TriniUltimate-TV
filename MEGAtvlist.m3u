@@ -9,7 +9,6 @@ rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
 #EXTINF:-1, group-title=\"Caribbean Channels\", TV 4 Trinidad & Tobago
 rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
 
-#EXTINF:-1, REAL JAMAICAN TV
 http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
 
 --- CAR CHANNELS ----
