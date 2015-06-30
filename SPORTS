@@ -300,13 +300,6 @@ http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.co
 #EXTINF:-1,beIN Sports 9 HD
 http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/35.ch
 
-#EXTINF:-1,MBC PRO SPORT 1
-http://176.53.21.99:8082/TV4133
-#EXTINF:-1,MBC PRO SPORT 2
-http://176.53.21.99:8082/TV4134
-#EXTINF:-1,MBC PRO SPORT 3
-http://176.53.21.99:8082/TV4135
-
 #EXTINF:0,TSN1
 http://195.154.227.38:1935/Iive/tsn1lsh/playlist.m3u8
 #EXTINF:0,TSN2
