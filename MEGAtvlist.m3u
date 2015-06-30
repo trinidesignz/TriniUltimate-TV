@@ -3,6 +3,42 @@
 #EXTINF:-1, Ctv Trinidad & Tobago
 http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
 
+#EXTINF:-1 group-title=\"Caribbean Channels\", CNC3 Trinidad & Tobago
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TV 4 Trinidad & Tobago
+rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
+
+#EXTINF:-1, TVJ
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@191979/master.m3u8
+
+#EXTINF:-1, JNN
+http://rjr_flash-lh.akamaihd.net/i/jnnD_1@28268/master.m3u8
+
+#EXTINF:-1, RETV
+http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
+
+#EXTINF:-1, CBC TV Barbados
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+
+#EXTINF:-1, CBC TV Channel 8 Barbados
+rtmp://184.154.57.230/cbcvideo playpath=cbcstream
+
+#EXTINF:-1, ABS TV Antigua & Barbuda
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+
+#EXTINF:-1, ZNS TV Bahamas
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", Reggae Entertainment Television
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO (2)
+#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
+
 --- CAR CHANNELS ----
 
 #EXTINF:-1, Motor Sport
