@@ -40,9 +40,6 @@ http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
 #EXTINF:-1 group-title=\"Caribbean Channels\", TV Jamaica
 http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
 
-#EXTINF:-1, Real Jamaican Tv
-http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
-
 #EXTINF:-1 group-title=\"Caribbean Channels\", CNS Channel 6 Guyana
 rtmp://184.173.181.2:1935/8262/8262
 
