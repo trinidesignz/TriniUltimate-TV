@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+
 #EXTINF:-1,Adult Premium
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
 
