@@ -402,15 +402,6 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1, BEIN-SPORT 1HD
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
-
-#EXTINF:-1, BEIN-SPORT 2HD
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8
-
-#EXTINF:-1, BEIN-SPORT 3HD
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
-
 #EXTINF:-1,Sky Sports 1 Germany
 http://tinyurl.com/pvshvh9
 #EXTINF:-1,Sky Sports 2 Germany
@@ -644,8 +635,11 @@ http://0.0.0.0:1234
 
 .......... ADULT ...........
 
-#EXTINF:-1, [COLOR pink]--- ADULTS XXX ---[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1, Penthouse HD
+http://145.255.200.18:4022/udp/224.10.20.31:5000
+
+#EXTINF:-1, Adult Premium
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
 
 #EXTINF:-1,HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
