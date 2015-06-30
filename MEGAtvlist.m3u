@@ -402,6 +402,14 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
+#EXTINF:-1,BEIN SPORT 1
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 2
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib2/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 3
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-beib3/playlist.m3u8
 #EXTINF:-1,Sky Sports 1 Germany
 http://tinyurl.com/pvshvh9
 #EXTINF:-1,Sky Sports 2 Germany
@@ -570,25 +578,6 @@ rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e301000
  
 #EXTINF:-1,News Westchester(Stream 1)
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-
-........CANADA CHANNELS.......
-
-#EXTINF:-1 group-title="Muzik",Vevo TV 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",Vevo TV 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",Vevo TV 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",FRANSA:Music Box 80 7h-19h
-http://teleclub.fr/musicbox80.mp4
-#EXTINF:-1 group-title="Muzik",VIETNAM VMusic
-http://83.170.111.147:1935/liveStream/mtv_1/HasBahCa.m3u8
-#EXTINF:-1 group-title="Muzik",Virgin TV
-rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:-1 group-title="Muzik",VM Channel HD 720
-http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",Yumor TV
-http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
 
 ........UK CHANNELS........
 #EXTINF:-1,Pink Premium
