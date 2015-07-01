@@ -18,8 +18,8 @@ http://ultra.goldtv.al:8000/live/bigserver/goldtv/106.ts
 #EXTINF:1, Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:1, Sports Net 360
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/62.m3u8
+#EXTINF:1, Sportsnet 
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_1600_ipad
 
 #EXTINF:-1, NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
