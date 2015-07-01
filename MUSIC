@@ -57,3 +57,5 @@ rtmp://fms.105.net:1935/live/virgin2
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="Muzik",Yumor TV
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:0,Gold
+http://31.220.41.110:80/LiveEdge/gold.stream/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
