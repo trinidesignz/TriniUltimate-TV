@@ -151,6 +151,9 @@ http://94.242.228.121:1935/live/espnbr/playlist.m3u8
 #EXTINF:-1, NBA TV HD (some buffer)
 http://78.56.73.169:4022/udp/239.2.3.114:1234
 
+#EXTINF:-1,NBATVUS
+http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+
 #EXTINF:-1, Sky sports 1 HD 
 rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
  
