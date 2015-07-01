@@ -264,3 +264,6 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpa
 
 #EXTINF:0, Fashion TV
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_FASHIONTV/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, AMERICA TV 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
