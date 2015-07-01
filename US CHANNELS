@@ -156,6 +156,9 @@ http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasess
 #EXTINF:-1, Oprah Winfrey Network
 http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
 
+#EXTINF:-1,Oxygen
+http://142.4.216.60:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA
+
 #EXTINF:-1, Hallmark
 http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
 
