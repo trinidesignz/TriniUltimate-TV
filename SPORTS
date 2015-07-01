@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,UFC - ULTIMATE FIGHTING CHAMPIONSHIP
-http://31.220.41.110:80/LiveEdge/UFCNetworkLA/chunklist_w830320555_b1000000.m3u8?token=46f6ad8ecf310bdebc9979a32b267274
+
 #EXTINF:-1, Gol TV
 http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
 
