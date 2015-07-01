@@ -262,3 +262,5 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpa
 #EXTINF:-1, HSN 2
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
 
+#EXTINF:0, Fashion TV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_FASHIONTV/bw1500000/variant.m3u8?version=2
