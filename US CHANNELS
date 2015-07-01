@@ -19,9 +19,7 @@ http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
 #EXTINF:0,AMC
 http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:-1,BET2
+#EXTINF:-1,BET
 http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
 #EXTINF:0,Bravo
 http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
@@ -87,8 +85,8 @@ http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
 #EXTINF:0,OWN
 http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:0,Oxygen
-http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:-1,Oxygen
+http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419878658
 #EXTINF:0,Science
 http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
 #EXTINF:0,Showtime HD
