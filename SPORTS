@@ -21,10 +21,6 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 #EXTINF:-1, NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:0,NFL
-rtmp://$OPT:rtmp-raw=rtmp://178.132.79.20:80/live swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=mov3 token=%ZZri(nKa@#Z playpath=nfx
-
-
 #EXTINF:-1, SPORTSTV 
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 
