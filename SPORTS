@@ -15,9 +15,6 @@ http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/
 #EXTINF:1, Sports Net
 http://78.129.179.33:1935/edge/581/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
 
-#EXTINF:1,Auto Motor Spor_by_bobankut
-http://5.79.68.7:8888/1139?auth=qera+1bKUehtX
-
 #EXTINF:-1, NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
