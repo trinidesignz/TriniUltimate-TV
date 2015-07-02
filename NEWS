@@ -47,12 +47,6 @@ http://wsvn.mpl.miisolutions.net:1935/wsvn-live01/_definst_/mp4:apple_med/playli
 #EXTINF:-1,Bbc World News
 http://tinyurl.com/m6v9477
 
-#EXTINF:0,BBC News
-http://81.174.163.123:9981/stream/channelid/9?ticket=CD40133158D9EE085024D88536DE70258ADC5C29
-
-#EXTINF:0,BBC Parlament
-http://81.174.163.123:9981/stream/channelid/8?ticket=E8D89F74FA6BAF04B21A7543E69FA0CC3B26853C
-
 #EXTINF:-1,Sky News International
 http://tinyurl.com/oabmxrx
 
@@ -70,6 +64,3 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
 
 #EXTINF:-1, CCTV
 http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
-
-#EXTINF:-1,RAINEWS
-http://93.155.252.134:12349iptv.sat-x.tv/udp/239.1.1.224:4000
