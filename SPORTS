@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=" 12.30 tennis WIMBLEDON - 3rd round ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
 #EXTINF:-1,SN360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
@@ -14,6 +17,9 @@ http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasess
 
 #EXTINF:0,ESPN 2 HD
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+
+#EXTINF:-1,NFL Network
+http://31.220.40.123:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=24312f5d109f1c7e20b42cb99d429339
 
 #EXTINF:1, Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
