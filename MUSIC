@@ -77,6 +77,9 @@ http://173.244.215.163:8470
 
 #EXTINF:-1,Spice Radio
 http://78.129.245.183:8024
+
+#EXTINF:-1,MUSIC
+http://hasbahcaiptv.com/m3u/iptv/iptv/Music_MUZiK.m3u
 .............................
 #EXTINF:-1,Christian Radio – (rEsound)  – CHR COMP.
 http://208.43.60.66:9022/;stream.nsv
