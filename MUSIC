@@ -14,6 +14,9 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1, MTV Hits
 http://edge.ailetv.net/org16/mtvhits_me/playlist.m3u8
 
+#EXTINF:-1,MC Radio – Music Choice – Reggae
+http://arcostream.mp3.miisolutions.net/musicchoice/Reggae_Backup.m3u
+
 #EXTINF:-1, MTV Dance Rus
 http://edge.ailetv.net/org6/mtvdance_me/playlist.m3u8
 
