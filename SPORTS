@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Fox Sports
+rtmp://kv2.ts33.net/sat/us011
+
 #EXTINF:-1, ESPN HD 
 http://80.80.160.168/live/6/live.m3u8
 
