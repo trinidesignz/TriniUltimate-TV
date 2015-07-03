@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Penthouse
+rtmp://edge1.everyon.tv/etv1sb/phd927
+
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
@@ -139,28 +142,6 @@ http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:-1,Playy
 http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
 
-#EXTINF:-1,Redlight Hd
-http://tinyurl.com/ob6ndmr
-#EXTINF:-1,Hustler Hd
-http://tinyurl.com/oyedwy9
-#EXTINF:-1,Satisfaction
-http://tinyurl.com/pcrh6ng
-#EXTINF:-1,Exotica Tv
-http://tinyurl.com/pkgdrst
-#EXTINF:-1,CentoX Tv
-http://tinyurl.com/ou6kdwy
-#EXTINF:-1,Sex T Senso
-http://tinyurl.com/qjhfbzk
-#EXTINF:-1,SCT
-http://tinyurl.com/ohp4f27
-#EXTINF:-1,Pink Tv
-http://tinyurl.com/qcsvsmb
-#EXTINF:-1,Penthouse Tv Hd
-http://tinyurl.com/qfhv36s
-#EXTINF:-1,Super One Tv Hd
-http://tinyurl.com/qjs9pro
-#EXTINF:-1,Hustler Tv
-http://tinyurl.com/nw8usne
 ...................................................
 #EXTINF:-1,*** ALL PRE RECORDED ***
 #EXTINF:-1,***HasBahCa***
