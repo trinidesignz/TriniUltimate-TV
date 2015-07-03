@@ -6,7 +6,7 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 #EXTINF:-1,Fox Sports
 rtmp://kv2.ts33.net/sat/us011
 
-#EXTINF:-1, ESPN HD 
+#EXTINF:-1,ESPN HD 
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:0,ESPN HD
@@ -15,58 +15,61 @@ http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasess
 #EXTINF:0,ESPN 2 HD
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
 
+#EXTINF:0,ESPN3
+http://tinyurl.com/pozbtqs
+
 #EXTINF:-1,NFL Network
 http://31.220.40.123:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=24312f5d109f1c7e20b42cb99d429339
 
-#EXTINF:1, Sport1 HD
+#EXTINF:1,Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:1, Sports Net
+#EXTINF:1,Sports Net
 http://78.129.179.33:1935/edge/581/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
 
-#EXTINF:-1, NBC GOLF 1080p
+#EXTINF:-1,NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1, NBC Sports Network 1080P
+#EXTINF:-1,NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1, SPORTSTV 
+#EXTINF:-1,SPORTSTV 
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
 
 #EXTINF:-1,Warner
 rtmp://kv2.ts33.net/sat/us071
 
-#EXTINF:-1, TileSport TV
+#EXTINF:-1,TileSport TV
 rtmp://tv1.streampulse.eu/tilesport/movie1
 
-#EXTINF:-1, CANADA:TVA Sport
+#EXTINF:-1,CANADA:TVA Sport
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 
-#EXTINF:-1, RUS 1 Football HD
+#EXTINF:-1,RUS 1 Football HD
 http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, RUS Football 2 HD
+#EXTINF:-1,RUS Football 2 HD
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, RUS Football 3 HD
+#EXTINF:-1,RUS Football 3 HD
 http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, RUS Our Football HD
+#EXTINF:-1,RUS Our Football HD
 http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1, RUS RTR Sport
+#EXTINF:-1,RUS RTR Sport
 http://92.50.181.6/tv/1114/index.m3u8
 
-#EXTINF:0, Sport 1 (RU)
+#EXTINF:0,Sport 1 (RU)
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 
 #EXTINF:-1,RUS Sport 1 (stream 2)
 http://92.50.181.6/tv/1115/index.m3u8
 
-#EXTINF:0, Sport 2 (RU)
+#EXTINF:0,Sport 2 (RU)
 http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
 
-#EXTINF:0, Football (RU)
+#EXTINF:0,Football (RU)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 
 #EXTINF:-1,TURK:A SPOR
