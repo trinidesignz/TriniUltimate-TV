@@ -26,12 +26,6 @@ rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
 
-#EXTINF:-1,DJING Dance Floor HD 720
-http://www.djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1,DJING Ibiza HD 720
-http://www.djing.com/tv/ibiza.m3u8
-
 #EXTINF:-1,Film ON TV Clubbing
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 
