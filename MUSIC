@@ -60,3 +60,177 @@ rtmp://fms.105.net:1935/live/virgin2
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="Muzik",Yumor TV
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+.............................
+#EXTINF:-1,Christian Radio – (rEsound)  – CHR COMP.
+http://208.43.60.66:9022/;stream.nsv
+#EXTINF:-1,Dublim, IE Phantom FM – We Are Phantom (Feed For US Markets)
+http://arcostream.mp3.miisolutions.net/communicorp/Phantom_high.m3u
+#EXTINF:-1,KIIS-FM 102.7  Los Angeles, California
+http://kiis-fm.akacast.akamaistream.net/7/572/19773/v1/auth.akacast.akamaistream.net/kiis-fm
+#EXTINF:-1,KLOS-FM  95.5.FM Los Angelos, CA
+http://69.31.54.141/KLOSFMAAC
+#EXTINF:-1,MC Radiio – Music Choice – Easy Listening
+http://arcostream.mp3.miisolutions.net/musicchoice/EasyListening_Backup.m3u
+#EXTINF:-1,MC Radiio – Music Choice – MEXICANA
+http://arcostream.mp3.miisolutions.net/musicchoice/Mexicana_Live.m3u
+#EXTINF:-1,MC Radio – Muisc Choice – Light Classical
+http://arcostream.mp3.miisolutions.net/musicchoice/LightClassical_Backup.m3u
+#EXTINF:-1,MC Radio – Music Chocie – Jazz
+http://arcostream.mp3.miisolutions.net/musicchoice/Jazz_Backup.m3u
+#EXTINF:-1,MC Radio – Music Chocie – Retro Rock
+http://arcostream.mp3.miisolutions.net/musicchoice/RetroRock_QA.m3u
+#EXTINF:-1,MC Radio – Music Chocie – Romance
+http://arcostream.mp3.miisolutions.net/musicchoice/Romances_Backup.m3u
+#EXTINF:-1,MC Radio – Music Chocie – Toddler Tunes
+http://arcostream.mp3.miisolutions.net/musicchoice/ToddlerTunes_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – 70's
+http://arcostream.mp3.miisolutions.net/musicchoice/70s_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – 70's – QA
+http://arcostream.mp3.miisolutions.net/musicchoice/70s_QA.m3u
+#EXTINF:-1,MC RADIO – Music Choice – 80's
+http://arcostream.mp3.miisolutions.net/musicchoice/80s_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – 80's Stream 2
+http://arcostream.mp3.miisolutions.net/musicchoice/80s_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice – 90's
+http://arcostream.mp3.miisolutions.net/musicchoice/90s_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Alternative
+http://arcostream.mp3.miisolutions.net/musicchoice/Alternative_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Blues
+http://arcostream.mp3.miisolutions.net/musicchoice/Blues_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Christian
+http://arcostream.mp3.miisolutions.net/musicchoice/Christian_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Classic Country
+http://arcostream.mp3.miisolutions.net/musicchoice/ClassicCountry_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Classic Rock
+http://arcostream.mp3.miisolutions.net/musicchoice/ClassicRock_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Counrty Hits
+http://arcostream.mp3.miisolutions.net/musicchoice/CountryHits_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Dance Electronica
+http://arcostream.mp3.miisolutions.net/musicchoice/DanceElectronica_QA.m3u
+#EXTINF:-1,MC Radio – Music Choice – DanceEDM
+http://arcostream.mp3.miisolutions.net/musicchoice/DanceEDM_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Gospel
+http://arcostream.mp3.miisolutions.net/musicchoice/Gospel_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Hip Hop Classics
+http://arcostream.mp3.miisolutions.net/musicchoice/HipHopClassics_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Hip Hop RnB
+http://arcostream.mp3.miisolutions.net/musicchoice/HipHopRnB_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Kidz Only
+http://arcostream.mp3.miisolutions.net/musicchoice/KidzOnly_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Love Songs
+http://arcostream.mp3.miisolutions.net/musicchoice/LoveSongs_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – MC Classical Masterpieces
+http://arcostream.mp3.miisolutions.net/musicchoice/Masterpieces_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – MCU
+http://arcostream.mp3.miisolutions.net/musicchoice/MCU_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Metal
+http://arcostream.mp3.miisolutions.net/musicchoice/Metal_QA
+#EXTINF:-1,MC Radio – Music Choice – Musical Urbana
+http://arcostream.mp3.miisolutions.net/musicchoice/MusicaUrbana_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Party Favoirtes
+http://arcostream.mp3.miisolutions.net/musicchoice/PartyFavorites_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Pop Country
+http://arcostream.mp3.miisolutions.net/musicchoice/PopCountry_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Pop Hits
+http://arcostream.mp3.miisolutions.net/musicchoice/PopHits_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Pop Latino
+http://arcostream.mp3.miisolutions.net/musicchoice/PopLatino_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice – Pop Rhythmic
+http://arcostream.mp3.miisolutions.net/musicchoice/PopRhythmic_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Rap
+http://arcostream.mp3.miisolutions.net/musicchoice/Rap_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Reggae
+http://arcostream.mp3.miisolutions.net/musicchoice/Reggae_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – RnB Classics
+http://arcostream.mp3.miisolutions.net/musicchoice/RnBClassics_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – RnB Soul
+http://arcostream.mp3.miisolutions.net/musicchoice/RnBSoul_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Rock
+http://arcostream.mp3.miisolutions.net/musicchoice/Rock_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice – Rock Hits
+http://arcostream.mp3.miisolutions.net/musicchoice/RockHits_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Seasons
+http://arcostream.mp3.miisolutions.net/musicchoice/Seasons_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Smooth Jazz
+http://arcostream.mp3.miisolutions.net/musicchoice/SmoothJazz_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Soft Roclk
+http://arcostream.mp3.miisolutions.net/musicchoice/SoftRock_Live
+#EXTINF:-1,MC Radio – Music Choice – Soild Gold Oldies
+http://arcostream.mp3.miisolutions.net/musicchoice/SolidGoldOldies_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Soundscapes
+http://arcostream.mp3.miisolutions.net/musicchoice/Soundscapes_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Stage and Screen
+http://arcostream.mp3.miisolutions.net/musicchoice/StagenScreen_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Swingers And Swing
+http://arcostream.mp3.miisolutions.net/musicchoice/SingersSwing_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Teen MC
+http://arcostream.mp3.miisolutions.net/musicchoice/TeenMC_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Throwback Jamz
+http://arcostream.mp3.miisolutions.net/musicchoice/ThrowbackJamz_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Today’s Country
+http://arcostream.mp3.miisolutions.net/musicchoice/TodaysCountry_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice – Troicales – Backup
+http://arcostream.mp3.miisolutions.net/musicchoice/Tropicales_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice – Tropicales – Feed Live
+http://arcostream.mp3.miisolutions.net/musicchoice/Tropicales_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice – True Country
+http://arcostream.mp3.miisolutions.net/musicchoice/TrueCountry_QA.m3u
+#EXTINF:-1,MC Radio – Music Choice – Y2K
+http://arcostream.mp3.miisolutions.net/musicchoice/Y2K_Live.m3u
+#EXTINF:-1,MC Radio – Music Choice- Adult Alternative
+http://arcostream.mp3.miisolutions.net/musicchoice/AdultAlternative_Backup.m3u
+#EXTINF:-1,MC Radio – Music Choice- Soft Rock
+http://arcostream.mp3.miisolutions.net/musicchoice/SoftRock_Backup.m3u
+#EXTINF:-1,MC Radio – Trooicales – MUSIC CHOICE
+http://arcostream.mp3.miisolutions.net/musicchoice/Tropicales_QA.m3u
+#EXTINF:-1,Mhz – Big City Radio Boston, MA (PIRATE)
+http://64.150.176.9:8250
+#EXTINF:-1,MHz – COM-HD  ComRadio. College of Communications. PSU, State College, PA
+http://146.186.73.195:8000/;stream.nsv
+#EXTINF:-1,MHz – KDKA-FM ‘The Fan’ Pittsburgh, PA
+http://2443.live.streamtheworld.com:80/KDKAFMAAC_SC
+#EXTINF:-1,MHZ – KJHK-FM Lawrence, KS
+http://kjhkstream.org:8000/stream_high.m3u
+#EXTINF:-1,MHz – WAOB-FM 106.7 MHz – Beaver Falls, Pennsylvania
+http://stream.us.gslb.liquidcompass.net/WAOBEASTERNFMAAC
+#EXTINF:-1,MHz – WCYY-FM Portland, MA
+http://1852.live.streamtheworld.com/WCYYFMAAC
+#EXTINF:-1,MHz – WFUV-FM – The Altenative Side, Bronx, NY
+rtmp://204.93.170.66:80/wfuv-live/tas.stream
+#EXTINF:-1,MHz – WHDX-HD2 – Pittsburgh, PA
+rtmp://penguins.streamguys.net/live/flash.stream
+#EXTINF:-1,MHz – WKST-FM Pittsburgh, PA
+http://wkst-fm.akacast.akamaistream.net/7/284/20062/v1/auth.akacast.akamaistream.net/wkst-fm.m3u
+#EXTINF:-1,MHz – WLKE-FM, Galiztin, PA
+http://sc1.christiannetcast.com:9068/;stream.nsv
+#EXTINF:-1,MHz – WPTS-FM Pittsburgh, PA (U of Pitt)
+http://audio.wpts.pitt.edu:8000/wpts_live_48s.mp3.m3u
+#EXTINF:-1,MHz – WRCT-FM – Pittsbugh, PA (CMU)
+http://stream.wrct.org:8000/wrct-hi.mp3.m3u
+#EXTINF:-1,MHz – WYEP-FM Pittsburgh, PA
+http://wyep.streamguys.net:80/wyep1
+#EXTINF:-1,Mhz WIUP-FM Indiana, PA
+http://144.80.16.164:8000/xstream
+#EXTINF:-1,NO SHOES RADIO – KENNY CHESNEY
+http://6093.live.streamtheworld.com/NSR1AAC
+#EXTINF:-1,Patriots.com Radio
+http://arcostream.mp3.miisolutions.net/nep-icecast/patriots-live-03.m3u
+#EXTINF:-1,Rock FM
+http://80.86.106.35:800/
+#EXTINF:-1,Spin 103.8 FM – The Most Music Station
+http://arcostream.mp3.miisolutions.net/communicorp/Spin1038_high.m3u
+#EXTINF:-1,Spin South West – The Most Music Staton
+http://arcostream.mp3.miisolutions.net/communicorp/SpinSW_high.m3u
+#EXTINF:-1,WBCQ 5.110 Area 51
+http://74.55.244.98:5110/
+#EXTINF:-1,WBCQ-SW Maine 7415 MHz SHORTWAVE
+http://www.splatterbox.us:7415/
+#EXTINF:-1,WFUV-FM 90.7 FM Bronx, NY
+http://wfuv-onair.streamguys.org/onair-hi
+#EXTINF:-1,WNOR-FM 98.7 FM
+http://stream.us.gslb.liquidcompass.net/WNORFMAAC
+#EXTINF:-1,WRAJ Internet Radio
+http://wraj.purestream.net:7008
+#EXTINF:-1,WTZR-FM Z-ROCk 99.3 MHz
+http://2173.live.streamtheworld.com/WTZRFMAAC
+
