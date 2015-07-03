@@ -60,6 +60,23 @@ rtmp://fms.105.net:1935/live/virgin2
 http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="Muzik",Yumor TV
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1, OLD SCHOOL RAP
+http://208.77.21.13:14930
+
+#EXTINF:-1,AddictedToRadio.com - Reggae Roots
+http://208.77.21.13:17110
+
+#EXTINF:-1,181.FM -Reggae
+http://108.61.73.118:8096
+
+#EXTINF:-1,Caribbean Express
+http://174.142.97.228:8170
+
+#EXTINF:-1,GotRadio - Reggae
+http://173.244.215.163:8470
+
+#EXTINF:-1,Spice Radio
+http://78.129.245.183:8024
 .............................
 #EXTINF:-1,Christian Radio – (rEsound)  – CHR COMP.
 http://208.43.60.66:9022/;stream.nsv
@@ -69,9 +86,6 @@ http://arcostream.mp3.miisolutions.net/communicorp/Phantom_high.m3u
 http://kiis-fm.akacast.akamaistream.net/7/572/19773/v1/auth.akacast.akamaistream.net/kiis-fm
 #EXTINF:-1,KLOS-FM  95.5.FM Los Angelos, CA
 http://69.31.54.141/KLOSFMAAC
-
-#EXTINF:-1, OLD SCHOOL RAP
-http://208.77.21.13:14930
 #EXTINF:-1,Mhz – Big City Radio Boston, MA (PIRATE)
 http://64.150.176.9:8250
 #EXTINF:-1,MHz – COM-HD  ComRadio. College of Communications. PSU, State College, PA
