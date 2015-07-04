@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:0,Redlight HD
+http://151.80.99.34:56088/live/test1/test1/137.ts
+
+#EXTINF:0,Hustler HD
+http://151.80.99.34:56088/live/test1/test1/138.ts
+
+#EXTINF:0,Hustler
+http://151.80.99.34:56088/live/test1/test1/149.ts
+
+#EXTINF:0,Penthouse
+http://151.80.99.34:56088/live/test1/test1/147.ts
+
+#EXTINF:0,Super One
+http://151.80.99.34:56088/live/test1/test1/148.ts
+
+#EXTINF:0,SCT HQ
+http://151.80.99.34:56088/live/test1/test1/144.ts
+
+#EXTINF:0,SCT HD
+http://151.80.99.34:56088/live/test1/test1/139.ts
+
+#EXTINF:0,Sexto Senso
+http://151.80.99.34:56088/live/test1/test1/143.ts
+
+#EXTINF:0,Exotica TV
+http://151.80.99.34:56088/live/test1/test1/140.ts
+
+#EXTINF:0,Pink o TV
+http://151.80.99.34:56088/live/test1/test1/146.ts
+
+#EXTINF:0,Privee TV
+http://151.80.99.34:56088/live/test1/test1/142.ts
+
+#EXTINF:0,Platinum TV
+http://151.80.99.34:56088/live/test1/test1/145.ts
+
 #EXTINF:-1,Penthouse
 rtmp://edge1.everyon.tv/etv1sb/phd927
 
