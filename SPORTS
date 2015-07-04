@@ -18,8 +18,17 @@ http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasess
 #EXTINF:0,ESPN3
 http://tinyurl.com/pozbtqs
 
-#EXTINF:-1,NFL Network
-http://31.220.41.103:80/LiveEdge/NFLNetworkUS/playlist.m3u8?
+#EXTINF:-1,SS1 HD
+http://qbza:fbq00wlkfth9gyk@185.75.56.95/ss1$OPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1,SS2 HD
+http://qbza:fbq00wlkfth9gyk@185.75.56.95/ss2$OPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1,SS3 HD
+http://qbza:fbq00wlkfth9gyk@185.75.56.95/ss3$OPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1,SS4 HD
+http://qbza:fbq00wlkfth9gyk@185.75.56.95/ss4$OPT:http-user-agent=Lavf53.32.100ter.m3u8
 
 #EXTINF:1,Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
