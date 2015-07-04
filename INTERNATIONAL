@@ -86,7 +86,7 @@ http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
 #EXTINF:-1, Reggae Entertainment Television
 http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
 
-#EXTINF:-........CANADA CHANNELS........
+#EXTINF:-1,........CANADA CHANNELS........
 
 #EXTINF:-1, TSC The shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
