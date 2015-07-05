@@ -16,7 +16,7 @@ http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
 
 #EXTINF:0,ESPN 3
-rtmp://skystreams.info:1935/live/espn3
+http://tinyurl.com/pozbtqs
 
 #EXTINF:1,Sport1 HD
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
