@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:0,Redlight HD
+http://151.80.99.34:56088/live/test1/test1/137.ts
+
+#EXTINF:0,Hustler HD
+http://151.80.99.34:56088/live/test1/test1/138.ts
+
+#EXTINF:0,Hustler
+http://151.80.99.34:56088/live/test1/test1/149.ts
+
+#EXTINF:0,Penthouse
+http://151.80.99.34:56088/live/test1/test1/147.ts
 
 #EXTINF:-1,Penthouse
 rtmp://edge1.everyon.tv/etv1sb/phd927
