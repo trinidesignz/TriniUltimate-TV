@@ -30,6 +30,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
 
+#EXTINF:1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
 #EXTINF:-1,CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
@@ -38,9 +41,6 @@ rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsn
 
 #EXTINF:-1,Al Jazeera
 http://ift.tt/1CiXyeB
-
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:-1,Euronews
 http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
@@ -54,9 +54,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 #EXTINF:-1, CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
  
-#EXTINF:1,CNN USA
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
- 
 #EXTINF:1,7 NEWS Miami
 http://wsvn.mpl.miisolutions.net:1935/wsvn-live01/_definst_/mp4:apple_med/playlist.m3u8
 
@@ -68,9 +65,6 @@ http://tinyurl.com/oabmxrx
 
 #EXTINF:-1,Cnbc News
 http://tinyurl.com/nwdh2fo
-
-#EXTINF:-1,Cnn News
-http://tinyurl.com/pbl5tlu
 
 #EXTINF:-1, Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
