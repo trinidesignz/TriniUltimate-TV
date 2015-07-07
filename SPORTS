@@ -9,8 +9,8 @@ rtmp://kv2.ts33.net/sat/us011
 #EXTINF:-1,ESPN HD 
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN HD BACKUP
+http://tinyurl.com/q62uawn
 
 #EXTINF:0,ESPN 2 HD
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
