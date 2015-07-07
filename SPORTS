@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,Fox (EN)
+http://ift.tt/1S09fIA
 #EXTINF:-1,TEN CRICKET
 rtmp://$OPT:rtmp-raw=rtmp://46.23.64.52/stream playpath=stencrickpic?id=6046&pk=9660aa3bd0243b5dbb719239f9afeec771e77203cc09e11152f324526cb4bb80 swfUrl=http://www.p3g.tv/resources/scripts/eplayer.swf pageUrl=http://www.p3g.tv/embedplayer/stencrickpic/2/600/420 conn=S:OK
 
