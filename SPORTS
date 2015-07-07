@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,NFLNetworkUS
-http://31.220.2.221:80/LiveEdge/NFLNetworkUS/chunklist_w291124137_b1000000.m3u8?token=5e113e6327f8e91598e94e166086ed5c
-
-#EXTINF:-1,NBATVUS
-http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=5e113e6327f8e91598e94e166086ed5c
 
 #EXTINF:-1,SN360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
