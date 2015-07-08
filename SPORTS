@@ -1,10 +1,33 @@
 #EXTM3U
+#EXTINF:-1,-----TODAY EVENTS-----
+#EXTINF:-1 group-title=" 1.10 arg TIGRE - RIVER PLATE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 1.10 arg TIGRE - RIVER PLATE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 1.10 arg TIGRE - RIVER PLATE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=" 2.00 gold.cup COSTARICA - JAMAICA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 gold.cup COSTARICA - JAMAICA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+#EXTINF:-1 group-title=" 2.00 gold.cup COSTARICA - JAMAICA ",bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 3.00 bra INTERNACIONAL - FLAMENGO ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+
+#EXTINF:-1 group-title=" 4.30 gold.cup EL SALVADOR - CANADA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 4.30 gold.cup EL SALVADOR - CANADA ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
+#EXTINF:-1 group-title=" 4.30 gold.cup EL SALVADOR - CANADA ",bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
 
 #EXTINF:-1,Fox (EN)
 http://ift.tt/1S09fIA
-
-#EXTINF:-1,Sony Turbo
-http://62.122.89.12:4022/udp/238.1.2.61:1234
 
 #EXTINF:-1,SN360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
