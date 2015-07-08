@@ -149,3 +149,111 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
 
 
+#EXTM3U
+#EXTINF:-1,UK:BBC One
+http://195.154.157.95:11000/freeiptv...om/uk_1/386.ch
+#EXTINF:-1,UK:BBC Two
+http://195.154.157.95:11000/freeiptv...om/uk_1/387.ch
+#EXTINF:-1,UK:BBC Three
+http://195.154.157.95:11000/freeiptv...om/uk_1/388.ch
+#EXTINF:-1,UK:BBC ENTERTAINMENT
+http://195.154.157.95:11000/freeiptv...om/uk_1/464.ch
+#EXTINF:-1,UK:BBC Four
+http://195.154.157.95:11000/freeiptv...om/uk_1/389.ch
+#EXTINF:-1,UK:ITV 1 London
+http://195.154.157.95:11000/freeiptv...om/uk_1/390.ch
+#EXTINF:-1,UK:ITV 2
+http://195.154.157.95:11000/freeiptv...om/uk_1/380.ch
+#EXTINF:-1,UK:ITV 3
+http://195.154.157.95:11000/freeiptv...om/uk_1/381.ch
+#EXTINF:-1,UK:ITV 4
+http://195.154.157.95:11000/freeiptv...om/uk_1/382.ch
+#EXTINF:-1,UK:GOLD
+http://195.154.157.95:11000/freeiptv...om/uk_1/917.ch
+#EXTINF:-1,UK:Sky Uk 1 +1
+http://195.154.157.95:11000/freeiptv...om/uk_1/397.ch
+#EXTINF:-1,UK:DRAMA UK
+http://195.154.157.95:11000/freeiptv...om/uk_1/925.ch
+#EXTINF:-1,UK:CBS ACTION
+http://195.154.157.95:11000/freeiptv...om/uk_1/927.ch
+#EXTINF:-1,UK:CBS DRAMA
+http://195.154.157.95:11000/freeiptv...om/uk_1/928.ch
+#EXTINF:-1,UK:CBS REALITY
+http://195.154.157.95:11000/freeiptv...om/uk_1/926.ch
+#EXTINF:-1,UK:Sky Living
+http://195.154.157.95:11000/freeiptv...om/uk_1/398.ch
+#EXTINF:-1,UK:D MAX
+http://195.154.157.95:11000/freeiptv...om/uk_1/924.ch
+#EXTINF:-1,UK:DAVE
+http://195.154.157.95:11000/freeiptv...om/uk_1/916.ch
+#EXTINF:-1,UK:DISCOVERY
+http://195.154.157.95:11000/freeiptv...om/uk_1/918.ch
+#EXTINF:-1,UK:TURBO CHANNEL
+http://195.154.157.95:11000/freeiptv...om/uk_1/919.ch
+#EXTINF:-1,UK:HNH
+http://195.154.157.95:11000/freeiptv...om/uk_1/920.ch
+#EXTINF:-1,UK:Sky Movies Action
+http://195.154.157.95:11000/freeiptv...om/uk_1/191.ch
+#EXTINF:-1,UK:Sky Movies Comedy
+http://195.154.157.95:11000/freeiptv...om/uk_1/192.ch
+#EXTINF:-1,UK:Sky Movies Disney
+http://195.154.157.95:11000/freeiptv...om/uk_1/196.ch
+#EXTINF:-1,UK:Sky Movies Drama & Romance
+http://195.154.157.95:11000/freeiptv...om/uk_1/198.ch
+#EXTINF:-1,UK:Sky Movies Family
+http://195.154.157.95:11000/freeiptv...om/uk_1/197.ch
+#EXTINF:-1,UK:Sky Movies Greats
+http://195.154.157.95:11000/freeiptv...om/uk_1/199.ch
+#EXTINF:-1,UK:Sky Movies Premiere
+http://195.154.157.95:11000/freeiptv...om/uk_1/193.ch
+#EXTINF:-1,UK:Sky Movies Premiere 1
+http://195.154.157.95:11000/freeiptv...om/uk_1/194.ch
+#EXTINF:-1,UK:Sky Movies Select
+http://195.154.157.95:11000/freeiptv...om/uk_1/189.ch
+#EXTINF:-1,UK:Sky Movies Thriller
+http://195.154.157.95:11000/freeiptv...om/uk_1/195.ch
+#EXTINF:-1,UK:Sky Movie Sci-Fi & horror
+http://195.154.157.95:11000/freeiptv...om/uk_1/190.ch
+#EXTINF:-1,UK:Sky Sports 1 HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/202.ch
+#EXTINF:-1,UK:Sky Sports 2 HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/203.ch
+#EXTINF:-1,UK:Sky Sports 3 HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/204.ch
+#EXTINF:-1,UK:Sky Sports 4HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/205.ch
+#EXTINF:-1,UK:Sky Sports 5 HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/206.ch
+#EXTINF:-1,UK:F1 HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/207.ch
+#EXTINF:-1,UK:BT Sport 1
+http://195.154.157.95:11000/freeiptv...om/uk_1/164.ch
+#EXTINF:-1,UK:BT Sport 2
+http://195.154.157.95:11000/freeiptv...om/uk_1/165.ch
+#EXTINF:-1,Arabic:Beinsport 1HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/374.ch
+#EXTINF:-1,Arabic:Beinsport 2HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/375.ch
+#EXTINF:-1,Arabic:Beinsport 3HD
+http://195.154.157.95:11000/freeiptv...om/uk_1/376.ch
+
+#EXTINF:-1,UK:BBC 3(Backup Link)
+http://195.154.157.95:11000/freeiptv...om/uk_1/383.ch
+#EXTINF:-1,UK:BBC 4(Backup Link )
+http://195.154.157.95:11000/freeiptv...om/uk_1/384.ch
+#EXTINF:-1,UK:ITV 1(Backup Links)
+http://195.154.157.95:11000/freeiptv...om/uk_1/379.ch
+#EXTINF:-1,UK:SkySport 1
+http://195.154.157.95:11000/freeiptv...om/uk_1/184.ch
+#EXTINF:-1,UK:SkySport 2
+http://195.154.157.95:11000/freeiptv...om/uk_1/185.ch
+#EXTINF:-1,UK:SkySport 3
+http://195.154.157.95:11000/freeiptv...om/uk_1/186.ch
+#EXTINF:-1,UK:SkySport 4
+http://195.154.157.95:11000/freeiptv...om/uk_1/187.ch
+#EXTINF:-1,UK:SkySport 5
+http://195.154.157.95:11000/freeiptv...om/uk_1/188.ch
+#EXTINF:-1,UK:SkySport F1
+http://195.154.157.95:11000/freeiptv...om/uk_1/183.ch
+
+
