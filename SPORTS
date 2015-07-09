@@ -288,98 +288,95 @@ rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
 
 #EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1,Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 #EXTINF:-1 ,Bein Sports USA
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/95.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/95.ts?.1234
 #EXTINF:-1 ,Bein Sports Max 4
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/93.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/93.ts?.1234
 #EXTINF:-1 ,Bein Sports 1 
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/31.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/31.ts?.1234
 #EXTINF:-1 ,Bein Sports 2
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/36.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/36.ts?.1234
 #EXTINF:-1 ,Bein Sports 3
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/18.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/18.ts?.1234
 #EXTINF:-1 ,Bein Sports 4
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/32.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/32.ts?.1234
 #EXTINF:-1 ,Bein Sports 5
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/20.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/20.ts?.1234
 #EXTINF:-1 ,Bein Sports 6
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/21.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/21.ts?.1234
 #EXTINF:-1 ,Bein Sports 7
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/22.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/22.ts?.1234
 #EXTINF:-1 ,Bein Sports 8
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/23.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/23.ts?.1234
 #EXTINF:-1 ,Bein Sports 9
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/24.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/24.ts?.1234
 #EXTINF:-1 ,Bein Sports 10
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/25.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/25.ts?.1234
 #EXTINF:-1 ,Bein Sports 11
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/26.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/26.ts?.1234
 #EXTINF:-1 ,Bein Sports 13
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/27.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/27.ts?.1234
 #EXTINF:-1 ,Bein Sports 14
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/28.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/28.ts?.1234
 #EXTINF:-1 ,Bein Sports 15
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/29.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/29.ts?.1234
 #EXTINF:-1 ,Bein Sports 2 France
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/36.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/36.ts?.1234
 #EXTINF:-1 ,Bein Sports Max 4
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/93.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/93.ts?.1234
 #EXTINF:-1 ,Bein Sports Max 5
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/94.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/94.ts?.1234
 #EXTINF:-1 ,TSN1
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/34.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/34.ts?.1234
 #EXTINF:-1 ,TSN2
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/35.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/35.ts?.1234
 #EXTINF:-1 ,TSN3
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/135.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...a/135.ts?.1234
 #EXTINF:-1 ,TSN4
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/136.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...a/136.ts?.1234
 #EXTINF:-1 ,TSN5
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/137.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...a/137.ts?.1234
 #EXTINF:-1 ,NBCSN
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/37.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/37.ts?.1234
 #EXTINF:-1 ,Sportsnet World
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/76.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/76.ts?.1234
 #EXTINF:-1 ,Sportsnet Ontario
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/77.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/77.ts?.1234
 #EXTINF:-1 ,Sportsnet One
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/78.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/78.ts?.1234
 #EXTINF:-1 ,Arena Sport 1
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/54.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/54.ts?.1234
 #EXTINF:-1 ,Arena Sport 2
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/55.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/55.ts?.1234
 #EXTINF:-1 ,Arena Sport 3
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/56.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/56.ts?.1234
 #EXTINF:-1 ,Arena Sport 4
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/57.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/57.ts?.1234
 #EXTINF:-1 ,SportKlub 1
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/71.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/71.ts?.1234
 #EXTINF:-1 ,SportKlub 2
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/72.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/72.ts?.1234
 #EXTINF:-1 ,SportKlub 3
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/73.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/73.ts?.1234
 #EXTINF:-1 ,Sportsnet 360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+http://nlds187.cdnak.neulion.com/nld...0_hd_ipad.m3u8
 #EXTINF:-1 ,Sky Sport 1 Germany
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/88.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/88.ts?.1234
 #EXTINF:-1 ,Sky Sport 2 Germany
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/89.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/89.ts?.1234
 #EXTINF:-1 ,Sky Bundesliga 1
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/38.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/38.ts?.1234
 #EXTINF:-1 ,NTV + Futbol
-http://zabava2-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/bw1500000/1436198400/1436200200.ts/0r2_317616600r5469.ts
-#EXTINF:-1  ,NTV + Futbol 1 
-http://zabava2-htlive.cdn.ngenix.net/hls/CH_FUTBALL1SD/bw900000/1436198400/1436200200.ts/0r2_212005156r4247.ts
-#EXTINF:-1 ,NTV + Futbol 2  
-http://zabava2-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/bw3000000/1436198400/1436200200.ts/0r2_657348580r15090.ts
+http://zabava2-htlive.cdn.ngenix.net...616600r5469.ts
+#EXTINF:-1 ,NTV + Futbol 1 
+http://zabava2-htlive.cdn.ngenix.net...005156r4247.ts
+#EXTINF:-1 ,NTV + Futbol 2 
+http://zabava2-htlive.cdn.ngenix.net...48580r15090.ts
 #EXTINF:-1 ,NTV + Futbol 3 
-http://zabava2-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/bw3000000/1436198400/1436200200.ts/0r2_695784992r10281.ts
+http://zabava2-htlive.cdn.ngenix.net...84992r10281.ts
 #EXTINF:-1 ,Willow Cricket
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/33.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/33.ts?.1234
 #EXTINF:-1 ,ESPN 2
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/49.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/49.ts?.1234
 #EXTINF:-1 ,Sky Sport Italia
-http://s1.livetvindia.co.in/live/Sportstv/HeyASfAGlka/50.ts?.1234
+http://s1.livetvindia.co.in/live/Spo...ka/50.ts?.1234
