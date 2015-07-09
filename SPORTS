@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1,NBA HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+#EXTINF:-1,NBA HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+#EXTINF:-1,NBA TV
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=nba1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/
+#EXTINF:-1,NBA TV
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=nba1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/
+#EXTINF:-1,NBA TV HD
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/
+#EXTINF:-1,NBA TV HD
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/
 #EXTINF:-1,Fox (EN)
 http://ift.tt/1S09fIA
 
