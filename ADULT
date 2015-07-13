@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Hot
+http://ip-tv-pt.selfip.com:7411/live/manuel-joao/server/25.ts 
+
+#EXTINF:-1,XXX PLAYBOY XXX
+http://ip-tv-pt.selfip.com:7411/live/manuel-joao/server/26.ts 
+
+#EXTINF:-1,XXX VENUS XXX
+http://ip-tv-pt.selfip.com:7411/live/manuel-joao/server/27.ts
 
 #EXTINF:-1,Penthouse
 rtmp://edge1.everyon.tv/etv1sb/phd927
