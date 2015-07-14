@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,NFL Network(Usa)
-rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,NBA TV(Usa)
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 
 #EXTINF:-1,Fox (EN)
 http://ift.tt/1S09fIA
