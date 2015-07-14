@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Fox Sports 
-http://31.220.40.100:80/LiveEdge/FoxSportsLA/chunklist_w1050846552_b1000000.m3u8?token=53b59e1353e1e5dce9982b0ff8b5e94c
+#EXTINF:-1,FOX SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=12 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1,Fox Sports 2
-http://31.220.40.100:80/LiveEdge/FoxSports2SD /chunklist_w162634941_b1000000.m3u8?token=d23431442a128fff3f8ca5b9a608bcab
-
-#EXTINF:-1,Fox Sports 3
-http://31.220.40.100:80/LiveEdge/FoxSports3SD/chunklist_w121852104_b1000000.m3u8?token=b66059f6e5eaa18ac4bdfb786424c6f6
 #EXTINF:-1,Fox (EN)
 http://ift.tt/1S09fIA
 
