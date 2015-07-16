@@ -42,9 +42,6 @@ rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsn
 #EXTINF:-1,Al Jazeera
 http://ift.tt/1CiXyeB
 
-#EXTINF:0, Al Jazeera International 
-http://edge.ailetv.net/org18/aljazeeraint_me/playlist.m3u8 
-
 #EXTINF:-1,Euronews
 http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
 
