@@ -1,8 +1,8 @@
 #EXTM3U
 EXTINF:0,SPORTS:UNIVISION DEPORTES
 rtmp://$OPT:rtmp-raw=rtmp://5.63.144.244/live playpath=asdfchhivas?id=199564 swfUrl=You can see links before reply live=1 pageUrl=You can see links before reply Conn=S:OK
-#EXTINF:-1, univision
-http://tinyurl.com/pop3rj6
+#EXTINF:-1,Ten Sports
+http://cdn.ebound.tv:1935/tv/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDE1IDE6MjE6MTYgUE0maGFzaF92YWx1ZT1rank2NGlRc0FwMXBUNGtWVXE0ZFNnPT0mdmFsaWRtaW51dGVzPTImaWQ9MQ==
 #EXTINF:-1 group-title=ÓLATINOSÓ,UFC Network
 http://ift.tt/1Hljqm5
 
