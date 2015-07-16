@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 group-title=" 2.30 gold.cup MEXICO - TRINIDAD e TOBAGO ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 gold.cup MEXICO - TRINIDAD e TOBAGO ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/mx001/qW79215FRE
 #EXTINF:-1 Fox Sports 2
 http://31.220.40.100:80/LiveEdge/FoxSports2SD /chunklist_w162634941_b1000000.m3u8?token=d23431442a128fff3f8ca5b9a608bcab
 
