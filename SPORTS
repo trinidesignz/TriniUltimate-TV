@@ -1,6 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1 univision
+EXTINF:0,SPORTS:UNIVISION DEPORTES
+rtmp://$OPT:rtmp-raw=rtmp://5.63.144.244/live playpath=asdfchhivas?id=199564 swfUrl=You can see links before reply live=1 pageUrl=You can see links before reply Conn=S:OK
+#EXTINF:-1, univision
 http://tinyurl.com/pop3rj6
 #EXTINF:-1 group-title=ÓLATINOSÓ,UFC Network
 http://ift.tt/1Hljqm5
