@@ -1,24 +1,43 @@
 #EXTM3U
-#EXTINF:-1, Abc usa
-http://198.27.94.105/hls/abc_1.m3u8
- 
-#EXTINF:-1,AMC USA
-http://198.27.94.105/hls/amc_1.m3u8
- 
-#EXTINF:-1,Cbs usa
-http://198.27.94.105/hls/cbs_1.m3u8
- 
-#EXTINF:-1,CW usa
-http://198.27.94.105/hls/cw_1.m3u8
- 
-#EXTINF:-1,HBO usa
-http://198.27.94.105/hls/hbo_1.m3u8
- 
-#EXTINF:-1,MTV USA
-http://198.27.94.105/hls/mtv_1.m3u8
- 
-#EXTINF:-1,USA hd
-http://198.27.94.105/hls/usa_1.m3u8
+HBO
+http://tinyurl.com/ojox6tr
+
+
+#EXTM3U
+#EXTINF:-1,HBO
+http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+#EXTINF:-1,HBO Family
+http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+#EXTINF:-1,HBO 2
+http://31.220.40.108/LiveEdge/HBO2SD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+#EXTINF:-1,HBO Plus
+http://31.220.40.108/LiveEdge/HBOPlusLASD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+#EXTINF:-1,HBO Plus 2
+http://31.220.40.108/LiveEdge/HBOPus2LASD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+#EXTINF:-1,HBO Signature
+http://31.220.40.108/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=f89329800d9cb65fcf0fd9a41ad89d15
+
+
+
+#EXTINF:-1,HBO plus
+http://31.220.40.114:80/LiveEdge/HBO...d0147e6c54394a
+
+#EXTINF:-1,HBO 2
+http://31.220.41.103:80/LiveEdge/HBO...d0147e6c54394a
+
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+
+HBO PLUS 
+http://31.220.40.100:80/LiveEdge/HBOPus2LASD/chunklist_w1148544765_b1000000.m3u8?token=227d5b6b1b65cc4f818cc721d38a9a29
+
+http://31.220.40.100:80/LiveEdge/HBOSignatureLASD/chunklist_w1529327468_b1000000.m3u8?token=3482ffe934b9d7d942f86b0f142b7f9a
+
+ http://31.220.40.100:80/LiveEdge/HBOFamilyLASD/chunklist_w460514986_b1000000.m3u8?token=fb68d414e3623274286b5e96231a7f7e
 #EXTINF:0,24/7 Comedy Movies
 http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
 #EXTINF:0,24/7 HD Movies 1
