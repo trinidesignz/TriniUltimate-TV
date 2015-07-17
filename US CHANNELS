@@ -1,6 +1,12 @@
 #EXTM3U
-#‎EXTINF:0,HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+#EXTINF:0,HBO Plus
+http://192.99.4.70/hls/HBO_PLUS.m3u8
+#EXTINF:0,HBO 2
+http://192.99.4.70/hls/HBO2.m3u8
+#EXTINF:0,HBO Signature
+http://192.99.4.70/hls/hbo_signature.m3u8
+#EXTINF:0,HBO Family
+http://192.99.4.70/hls/HBO_FAMILY.m3u8
 #EXTINF:0,NCIS
 http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD
