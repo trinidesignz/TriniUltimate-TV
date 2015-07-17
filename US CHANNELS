@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:0,HBO Family
-http://192.99.4.70/hls/HBO_FAMILY.m3u8
-#EXTINF:0,HBO Plus
-http://192.99.4.70/hls/HBO_PLUS.m3u8
-#EXTINF:0,HBO 2
-http://192.99.4.70/hls/HBO2.m3u8
-#EXTINF:0,HBO Signature
-http://192.99.4.70/hls/hbo_signature.m3u8
+#EXTINF:0,ALL HBO & CINEMAX
+http://pastebin.com/raw.php?i=ujXmD4ZV
 #EXTINF:0,24/7 Comedy Movies
 http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
 #EXTINF:0,24/7 HD Movies 1
