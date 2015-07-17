@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:0,ALL HBO & CINEMAX
-http://pastebin.com/raw.php?i=ujXmD4ZV
+#EXTINF:-1,HBO
+http://31.220.40.108/LiveEdge/HBOLASD/playlist.m3u8?token=a9aebcaf566baf8b96c4b7ebfb846d6b
+#EXTINF:-1,HBO Family
+http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=a9aebcaf566baf8b96c4b7ebfb846d6b
+#EXTINF:-1,HBO 2
+http://31.220.40.108/LiveEdge/HBO2SD/playlist.m3u8?token=a9aebcaf566baf8b96c4b7ebfb846d6b
 #EXTINF:0,24/7 Comedy Movies
 http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
 #EXTINF:0,24/7 HD Movies 1
