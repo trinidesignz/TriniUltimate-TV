@@ -14,6 +14,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1, USA:Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
+#EXTINF:0,360 TuneBox
+http://serv19.vintera.tv:8081/boxhd/360Tune/playlist.m3u8
+
+#EXTINF:0,Radio Monte Carlo TV
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+
 #EXTINF:-1,AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
