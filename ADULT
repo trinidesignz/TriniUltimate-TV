@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:0,Redlight HD
-http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/Redlight_HD
-#EXTINF:0,Hustler HD
-http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/Hustler_HD
-#EXTINF:0,SCT HD
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/SCT_HD
-#EXTINF:0,Exotica TV
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Exotica_TV
-#EXTINF:0,Boy&Boy
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Boy-Boy
-#EXTINF:0,Privee TV
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Privee_TV
-#EXTINF:0,Sexto Senso
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Sexto_Senso
-#EXTINF:0,SCT HQ
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/SCT_HQ
-#EXTINF:0,Platinum TV
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Platinum_TV
-#EXTINF:0,Pink o TV
-http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/Pink_o_TV
-#EXTINF:0,Penthouse
-http://planetiptv-test.ddns.net:7088/porno/test/XXX/planet/Penthouse
-#EXTINF:0,Super One
-http://planetiptv-test.ddns.net:7088/porno/test/XXX/planet/Super-One
-#EXTINF:0,Hustler
-http://planetiptv-test.ddns.net:7088/porno/test/XXX/planet/Hustler
-
 
 #EXTINF:-1,Penthouse
 rtmp://edge1.everyon.tv/etv1sb/phd927
