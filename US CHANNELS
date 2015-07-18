@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:0,TLC HD
-http://inea.live.e1-inos.insyscd.net/tlchd.smil/chunklist_b2400000.m3u
+FightBox HD 
+http://serv19.vintera.tv:8081/boxhd/FightboxHD_POL/playlist.m3u8
+FastnFunBox HD
+http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
+DocuBox HD
+http://serv19.vintera.tv:8081/boxhd/DocuHD/playlist.m3u8
+FilmBox ArtHous
+http://serv19.vintera.tv:8081/boxhd/ArthouseHD/playlist.m3u8
+FashionBox HD
+http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
+FilmBox Basic Baltic
+http://serv19.vintera.tv:8081/boxhd/FilmBasicBaltic/playlist.m3u8
+360 TuneBox
+http://serv19.vintera.tv:8081/boxhd/360Tune/playlist.m3u8
+Radio Monte Carlo TV
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+
 #EXTINF:0,NCIS
 http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD
