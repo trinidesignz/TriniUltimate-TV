@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:0,Cinemax
-http://5.79.68.7:8888/1129?auth=qera+1bKUehtX
-#EXTINF:0,HBO 2
-http://192.99.4.70/hls/HBO2.m3u8
-#EXTINF:0,HBO Signature
-http://192.99.4.70/hls/hbo_signature.m3u8
-#EXTINF:0,HBO Family
-http://192.99.4.70/hls/HBO_FAMILY.m3u8
+
 #EXTINF:0,NCIS
 http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD
