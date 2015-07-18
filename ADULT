@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Penthouse
-rtmp://edge1.everyon.tv/etv1sb/phd927
 
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
