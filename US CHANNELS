@@ -1,19 +1,19 @@
 #EXTM3U
-FightBox HD 
+#EXTINF:0,FightBox HD 
 http://serv19.vintera.tv:8081/boxhd/FightboxHD_POL/playlist.m3u8
-FastnFunBox HD
+#EXTINF:0,FastnFunBox HD
 http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
-DocuBox HD
+#EXTINF:0,DocuBox HD
 http://serv19.vintera.tv:8081/boxhd/DocuHD/playlist.m3u8
-FilmBox ArtHous
+#EXTINF:0,FilmBox ArtHous
 http://serv19.vintera.tv:8081/boxhd/ArthouseHD/playlist.m3u8
-FashionBox HD
+#EXTINF:0,FashionBox HD
 http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
-FilmBox Basic Baltic
+#EXTINF:0,FilmBox Basic Baltic
 http://serv19.vintera.tv:8081/boxhd/FilmBasicBaltic/playlist.m3u8
-360 TuneBox
+#EXTINF:0,360 TuneBox
 http://serv19.vintera.tv:8081/boxhd/360Tune/playlist.m3u8
-Radio Monte Carlo TV
+#EXTINF:0,Radio Monte Carlo TV
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 
 #EXTINF:0,NCIS
