@@ -7,6 +7,38 @@ http://serv19.vintera.tv:8081/boxhd/DocuHD/playlist.m3u8
 #EXTINF:0,FashionBox HD
 http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
 
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+ 
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+ 
+#EXTINF:-1,SyFy (Latino)
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+ 
+#EXTINF:-1, TBS East
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F967
+ 
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/ustreamVideo/20487775/streams/live/playlist.m3u8
+ 
+#EXTINF:-1, TNT Drama
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F977
+ 
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+ 
+#EXTINF:-1, UFC Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2923
+ 
+#EXTINF:-1,Unimas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+ 
+#EXTINF:0,Univision
+http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+
+
+
 #EXTINF:0,NCIS
 http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD
