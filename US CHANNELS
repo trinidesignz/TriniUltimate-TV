@@ -7,6 +7,117 @@ http://serv19.vintera.tv:8081/boxhd/DocuHD/playlist.m3u8
 #EXTINF:0,FashionBox HD
 http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
 
+#EXTINF:-1,A&E
+rtmp://89.248.172.145:1935/edge/_definst_/tuc280rbycwnsvs
+#EXTINF:-1,ABC HD
+rtmp://89.248.172.145:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1,AMC HD
+rtmp://89.248.172.145:1935/edge/_definst_/z4cxm7zlfyqs65m
+#EXTINF:-1,BET
+rtmp://89.248.172.145:1935/edge/_definst_/kexkxje3nqi6dtl
+#EXTINF:-1,Bravo
+rtmp://89.248.172.145:1935/edge/_definst_/uw433ikqnrj501l
+#EXTINF:-1,CBS HD
+rtmp://89.248.172.145:1935/edge/_definst_/vp4q2gonwzh2dku
+#EXTINF:-1,CNN HD
+rtmp://89.248.172.145:1935/edge/_definst_/rjxo8hz17q9waiq
+#EXTINF:-1,CW HD
+rtmp://89.248.172.145:1935/edge/fvksu1sp51ijtyd
+#EXTINF:-1,Discovery HD
+rtmp://89.248.172.145:1935/edge/_definst_/ishyd3sopok3p27
+#EXTINF:-1,Discovery Science HD
+rtmp://89.248.172.145:1935/edge/_definst_/ajcjdksbd8wk32z
+#EXTINF:-1,Discovery
+rtmp://89.248.172.145:1935/edge/_definst_/ro7c9eha0z96hpp
+#EXTINF:-1,ESPN 2 HD
+rtmp://89.248.172.145:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,ESPN HD
+rtmp://89.248.172.145:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1,Food Network HD
+rtmp://89.248.172.145:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:-1,FOX HD
+rtmp://89.248.172.145:1935/edge/_definst_/yuu6p5oaa1x4a1p
+#EXTINF:-1,Fox News HD
+rtmp://89.248.172.145:1935/edge/_definst_/ohn58e97er36vjr
+#EXTINF:-1,FX
+rtmp://89.248.172.145:1935/edge/_definst_/hrjtbc6cg6tbtgz
+#EXTINF:-1,Hallmark HD
+rtmp://89.248.172.145:1935/edge/_definst_/v4ynnryunsoxzbq
+#EXTINF:-1,HBO HD
+rtmp://89.248.172.145:1935/edge/_definst_/z28ie9oqoku4qoy
+#EXTINF:-1,HGTV
+rtmp://89.248.172.145:1935/edge/_definst_/gj65q2rg18tpmut
+#EXTINF:-1,History
+rtmp://89.248.172.145:1935/edge/_definst_/dhp0rpd116qyyj6
+#EXTINF:-1,Discovery HD
+rtmp://89.248.172.145:1935/edge/_definst_/yjma618cibkqxeo
+#EXTINF:-1,Lifetime HD
+rtmp://89.248.172.145:1935/edge/_definst_/7b2gr554gyyth8e
+#EXTINF:-1,Marijuana TV
+rtmp://89.248.172.145:1935/edge/_definst_/bncy42xy2eip89d
+#EXTINF:-1,MSNBC HD
+rtmp://89.248.172.145:1935/edge/_definst_/1341ujtliqndod8
+#EXTINF:-1,National Geographic HD
+rtmp://89.248.172.145:1935/edge/_definst_/qzsfigd1y3bgbhs
+#EXTINF:-1,NBC HD
+rtmp://89.248.172.145:1935/edge/_definst_/kjgkefh6la1di6g
+rtmp://89.248.172.145:1935/edge/_definst_/2qmiwfydbj6yu89
+#EXTINF:-1,NBC Sport Network HD
+rtmp://89.248.172.145:1935/edge/_definst_/0fm1lstybe4a0j4
+#EXTINF:-1,NFL Network
+rtmp://89.248.172.145:1935/edge/_definst_/fzasab6vz02yuf7
+#EXTINF:-1,Nickelodeon
+rtmp://89.248.172.145:1935/edge/_definst_/q2hs5fqm8b039y0
+#EXTINF:-1,Showtime HD
+rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+#EXTINF:-1,Showtime Movie
+rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
+#EXTINF:-1,Spike
+rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
+#EXTINF:-1,Syfy HD
+rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+#EXTINF:-1,TBS
+rtmp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh
+#EXTINF:-1,TLC
+rtmp://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck
+#EXTINF:-1,TNT HD
+rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
+#EXTINF:-1,Travel Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d
+#EXTINF:-1,TruTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
+#EXTINF:-1,TV Land
+rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
+#EXTINF:-1,USA Network
+rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
+#EXTINF:-1,VH1
+rtmp://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq
+rtmp://89.248.172.145:1935/edge/_definst_/uehgy5htiasffj3
+#EXTINF:-1, StarZ movie channel
+rtmp://93.174.95.125:1935/edge/_definst_/8g7x80ozu6hz2ds
+#EXTINF:-1, CNN HD
+rtmp://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq
+#EXTINF:-1, Food Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:-1, CARTOON NETWORK
+rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws
+#EXTINF:-1,CBS NY HD
+rtmp://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku
+#EXTINF:-1,NBC NY HD
+rtmp://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp
+#EXTINF:-1,CW44 HD FLORIDA
+rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd
+#EXTINF:-1,CW44 FLORIDA
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:-1, ABC22 OHIO HD
+rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1, FOX45 SD
+rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
+#EXTINF:-1, FOX45 HD
+rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
+
+
+
 #EXTINF:0,NCIS
 http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
 #EXTINF:0,ABC 22 HD
