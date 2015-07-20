@@ -597,4 +597,2421 @@ http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/SCT_HQ
 http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Platinum_TV
 #EXTINF:0,Pink o TV
 http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Pink_o_TV
+............................
 
+
+ 
+#EXTINF:0,OSN
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/902.ts
+#EXTINF:0,OSN Ya Hala Shabeb
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1704.ts
+#EXTINF:0,OSN Ya Hala Drama
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1705.ts
+#EXTINF:0,OSN Ya Hala
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1707.ts
+#EXTINF:0,Musalalat-1
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1948.ts
+#EXTINF:0,OSN Serie
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1709.ts
+#EXTINF:0,OSN Al Yawm
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1711.ts
+#EXTINF:0,OSN STARMOVIES HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1968.ts
+#EXTINF:0,osn orbit Musalalat 4
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1969.ts
+#EXTINF:0,osn orbit 1 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1967.ts
+#EXTINF:0,OSN DISCOVERY SC HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1977.ts
+#EXTINF:0,ART Aflam 2
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/949.ts
+#EXTINF:0,ART Cinema
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/948.ts
+#EXTINF:0,OSN MBC Drama
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2017.ts
+#EXTINF:0,MBC2
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1421.ts
+#EXTINF:0,Toyor Aljannah
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1927.ts
+#EXTINF:0,Rotana massria
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1926.ts
+#EXTINF:0,Rotan Cinema Classic
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1925.ts
+#EXTINF:0,Alhayat
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1898.ts
+#EXTINF:0,Al oula maroc
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1896.ts
+#EXTINF:0,2m maroc
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1895.ts
+#EXTINF:0,Rotana Clip
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1924.ts
+#EXTINF:0,Nessma
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1922.ts
+#EXTINF:0,Medi1
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1920.ts
+#EXTINF:0,MBC4
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1919.ts
+#EXTINF:0,MBC masr
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1917.ts
+#EXTINF:0,MBC bollywood
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1916.ts
+#EXTINF:0,MBC action
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1915.ts
+#EXTINF:0,MBC
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1914.ts
+#EXTINF:0,CBC drama
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1904.ts
+#EXTINF:0,CBC
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1905.ts
+#EXTINF:0,alnahar
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1900.ts
+#EXTINF:0,CBC PLUS
+http://50.23.65.8/live/cbc_plus/index.m3u8
+#EXTINF:0,CBC EXTRA
+http://50.23.65.8/live/cbc_extra/index.m3u8
+#EXTINF:0,CBC SOFRA
+http://50.23.65.8/live/cbc_sofra/index.m3u8
+#EXTINF:0,CBC DRAMA
+http://50.23.65.8/live/cbc_drama/index.m3u8
+#EXTINF:0,CBC EXTRA PLUS
+http://50.23.65.8/live/cbc_extra_plus/index.m3u8
+#EXTINF:0,CBC SOFRA PLUS
+http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
+#EXTINF:0,CBC DRAMA PLUS
+http://50.23.65.8/live/cbc_drama_plus/index.m3u8
+#EXTINF:0,NILE CINEMA
+http://50.23.65.8/live/nile_cinema/index.m3u8
+#EXTINF:0,NILE COMEDY
+http://50.23.65.8/live/nile_comedy/index.m3u8
+#EXTINF:0,NILE NEWS
+http://50.23.65.8/live/nile_news/index.m3u8
+#EXTINF:0,NILE FAMILY
+http://50.23.65.8/live/nile_family/index.m3u8
+#EXTINF:0,NILE CULTURE
+http://50.23.65.8/live/nile_culture/index.m3u8
+#EXTINF:0,NILE LIFE
+http://50.23.65.8/live/nile_life/index.m3u8
+ 
+#EXTINF:0,Film Komedi
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2053.ts
+#EXTINF:0,Film Hits Plus 1
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2054.ts
+#EXTINF:0,Film Hits
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2055.ts
+#EXTINF:0,Film DramÎ
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2057.ts
+#EXTINF:0,Film Autor
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2058.ts
+#EXTINF:0,Explorer ShkencÎ
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2059.ts
+#EXTINF:0,Explorer Natyra
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2060.ts
+#EXTINF:0,Explorer Histori
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2061.ts
+#EXTINF:0,Film Thriller
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2051.ts
+#EXTINF:0,TVSH
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2052.ts
+ 
+#EXTINF:0,beIN SPORTS 1HD
+http://star7arab.zapto.org:8082/TV4001
+#EXTINF:0,beIN SPORTS 2HD
+http://star7arab.zapto.org:8082/TV4002
+#EXTINF:0,beIN SPORTS 3HD
+http://star7arab.zapto.org:8082/TV4003
+#EXTINF:0,beIN SPORTS 4HD
+http://star7arab.zapto.org:8082/TV4004
+#EXTINF:0,beIN SPORTS 5HD
+http://star7arab.zapto.org:8082/TV4005
+#EXTINF:0,beIN SPORTS 6HD
+http://star7arab.zapto.org:8082/TV4006
+#EXTINF:0,beIN SPORTS 7HD
+http://star7arab.zapto.org:8082/TV4007
+#EXTINF:0,beIN SPORTS 8HD
+http://star7arab.zapto.org:8082/TV4008
+#EXTINF:0,beIN SPORTS 9HD
+http://star7arab.zapto.org:8082/TV4009
+#EXTINF:0,beIN SPORTS 10HD
+http://star7arab.zapto.org:8082/TV4010
+#EXTINF:0,beIN SPORTS 11HD
+http://star7arab.zapto.org:8082/TV4011
+#EXTINF:0,beIN SPORTS 1HD
+http://star7arab.zapto.org:8082/TV4012
+#EXTINF:0,beIN SPORTS 1HD FR
+http://star7arab.zapto.org:8082/TV4013
+#EXTINF:0,beIN SPORTS 2HD FR
+http://star7arab.zapto.org:8082/TV4014
+#EXTINF:0,BEINSPORT 1HD
+http://188.93.234.112:8082/TV4001
+#EXTINF:0,BEINSPORT 2HD
+http://188.93.234.112:8082/TV4002
+#EXTINF:0,BEINSPORT 3HD
+http://188.93.234.112:8082/TV4003
+#EXTINF:0,BEINSPORT 4HD
+http://188.93.234.112:8082/TV4004
+#EXTINF:0,BEINSPORT 5HD
+http://188.93.234.112:8082/TV4005
+#EXTINF:0,BEINSPORT 6HD
+http://188.93.234.112:8082/TV4006
+#EXTINF:0,BEINSPORT 7HD
+http://188.93.234.112:8082/TV4007
+#EXTINF:0,BEINSPORT 8HD
+http://188.93.234.112:8082/TV4008
+#EXTINF:0,BEINSPORT 9HD
+http://188.93.234.112:8082/TV4009
+#EXTINF:0,BEINSPORT 10HD
+http://188.93.234.112:8082/TV4010
+#EXTINF:0,BEINSPORT 11HD
+http://188.93.234.112:8082/TV4011
+#EXTINF:0,BEINSPORT 1HDEN
+http://188.93.234.112:8082/TV4012
+#EXTINF:0,BEINSPORT 1HDFR
+http://188.93.234.112:8082/TV4013
+#EXTINF:0,BEINSPORT 2HDFR
+http://188.93.234.112:8082/TV4014
+ 
+ 
+#EXTINF:0,D8
+http://188.93.234.112:8082/TV6048
+#EXTINF:0,NATIONAL GEO
+http://mystreams.fr.mu/80E803/Scam/hls/National_Geo_FR_HD.m3u8
+#EXTINF:0,PLANETE+ THALASSA
+http://mystreams.fr.mu/80E803/Scam/hls/Planet_Thalassa_HD.m3u8
+#EXTINF:0,PLANETE+
+http://mystreams.fr.mu/80E803/Scam/hls/Planet_Plus_HD.m3u8
+ 
+ 
+#EXTINF:0,SONY MAX
+http://5.189.129.84:8888/ipvt_001
+#EXTINF:0,Z ACTION
+http://5.189.129.84:8888/ipvt_002
+#EXTINF:0,MOVIE NOW
+http://5.189.129.84:8888/ipvt_003
+#EXTINF:0,Life OK
+http://5.189.129.84:8888/ipvt_005
+#EXTINF:0,VIJAY
+http://5.189.129.84:8888/ipvt_006
+#EXTINF:0,STAR MOVIES
+http://5.189.129.84:8888/ipvt_007
+#EXTINF:0,STAR HD
+http://5.189.129.84:8888/ipvt_008
+ 
+#EXTINF:0,FightBox HD
+http://serv19.vintera.tv:8081/boxhd/FightboxHD_POL/playlist.m3u8
+#EXTINF:0,FastnFunBox HD
+http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
+#EXTINF:0,DocuBox HD
+http://serv19.vintera.tv:8081/boxhd/DocuHD/playlist.m3u8
+#EXTINF:0,FilmBox ArtHous
+http://serv19.vintera.tv:8081/boxhd/ArthouseHD/playlist.m3u8
+#EXTINF:0,FashionBox HD
+http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
+#EXTINF:0,FilmBox Basic Baltic
+http://serv19.vintera.tv:8081/boxhd/FilmBasicBaltic/playlist.m3u8
+#EXTINF:0,360 TuneBox
+http://serv19.vintera.tv:8081/boxhd/360Tune/playlist.m3u8
+#EXTINF:0,Radio Monte Carlo TV
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+ 
+#EXTINF:0,Discovery Channel
+http://80.77.52.6:3917/udp/226.0.3.17:12345
+#EXTINF:0,Discovery World
+http://80.77.52.6:3917/udp/226.0.3.3:12345
+#EXTINF:0,Discovery Science
+http://80.77.52.6:3917/udp/226.0.3.4:12345
+#EXTINF:0,Animal Planet
+http://80.77.52.6:3917/udp/226.0.3.19:12345
+#EXTINF:0,Nat Geo Wild
+http://80.77.52.6:3917/udp/226.0.3.23:12345
+#EXTINF:0,NGC
+http://80.77.52.6:3917/udp/226.0.3.24:12345
+ 
+ 
+#EXTINF:0,Das Erste
+http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
+#EXTINF:0,ZDF
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-p.m3u8
+#EXTINF:0,RTL
+http://streaming-hub.com/tv/i/rtl_1@97459/index_1300_av-p.m3u8
+#EXTINF:0,Sat.1
+http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8
+#EXTINF:0,ProSieben
+http://streaming-hub.com/tv/i/prosieben_1@97456/index_1300_av-p.m3u8
+#EXTINF:0,kabel eins
+http://streaming-hub.com/tv/i/kabeleins_1@97453/index_1300_av-p.m3u8
+#EXTINF:0,RTL II
+http://streaming-hub.com/tv/i/rtl2_1@97460/index_1300_av-p.m3u8
+#EXTINF:0,VOX
+http://streaming-hub.com/tv/i/vox_1@97466/index_1300_av-p.m3u8
+#EXTINF:0,arte
+http://streaming-hub.com/tv/i/artede_1@97463/index_1300_av-p.m3u8
+#EXTINF:0,3sat
+http://streaming-hub.com/tv/i/3sat_1@97480/index_1300_av-p.m3u8
+#EXTINF:0,NDR Hamburg
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_1992_av-p.m3u8
+#EXTINF:0,NDR Hamburg HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+#EXTINF:0,NDR Meck.-Vorp.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8
+#EXTINF:0,NDR Meck.-Vorp. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+#EXTINF:0,NDR Niedersachsen
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_***@119224/index_1992_av-p.m3u8
+#EXTINF:0,NDR Niedersachsen HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_***@119224/index_3776_av-p.m3u8
+#EXTINF:0,NDR Schleswig-Hol.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
+#EXTINF:0,NDR Schleswig-Hol. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:0,WDR
+http://streaming-hub.com/tv/i/wdr_1@97490/index_1300_av-p.m3u8
+#EXTINF:0,BR
+http://streaming-hub.com/tv/i/br3_1@97517/index_1300_av-p.m3u8
+#EXTINF:0,SWR
+http://streaming-hub.com/tv/i/swr_1@97485/index_1300_av-p.m3u8
+#EXTINF:0,Phoenix
+http://streaming-hub.com/tv/i/phoenix_1@97476/index_1300_av-p.m3u8
+#EXTINF:0,N24
+http://streaming-hub.com/tv/i/n24_1@97406/index_1300_av-p.m3u8
+#EXTINF:0,n-tv
+http://streaming-hub.com/tv/i/ntv_1@97405/index_1300_av-p.m3u8
+#EXTINF:0,Sixx
+http://streaming-hub.com/tv/i/sixx_1@97462/index_1300_av-p.m3u8
+#EXTINF:0,ServusTV DE
+http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_1112_av-b.m3u8
+#EXTINF:0,ServusTV DE HD
+http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-b.m3u8
+#EXTINF:0,RTL NITRO
+http://streaming-hub.com/tv/i/rtlnitro_1@97458/index_1300_av-p.m3u8
+#EXTINF:0,JOIZ DE
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
+#EXTINF:0,JOIZ DE HD
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
+#EXTINF:0,Nickelodeon
+http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-p.m3u8
+#EXTINF:0,Viva/Comedy Central
+http://streaming-hub.com/tv/i/viva_1@97493/index_1300_av-p.m3u8
+#EXTINF:0,Super RTL
+http://streaming-hub.com/tv/i/superrtl_1@97463/index_1300_av-p.m3u8
+#EXTINF:0,KiKA
+http://streaming-hub.com/tv/i/kika_1@97487/index_1300_av-p.m3u8
+#EXTINF:0,Eurosport
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8
+#EXTINF:0,SPORT1
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8
+#EXTINF:0,DMAX
+http://streaming-hub.com/tv/i/dmax_1@97398/index_1300_av-p.m3u8
+#EXTINF:0,ZDFneo
+http://streaming-hub.com/tv/i/zdfneo_1@97479/index_1300_av-p.m3u8
+#EXTINF:0,Deutsche Welle
+http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
+#EXTINF:0,DAF
+rtmp://fms.daf.tmt.de:1935/live/dafstream100
+#EXTINF:0,ORF eins
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8
+#EXTINF:0,ORF 2
+http://streaming-hub.com/tv/i/orf2_1@97574/index_1300_av-p.m3u8
+#EXTINF:0,ATV
+http://streaming-hub.com/tv/i/atv_1@97491/index_1300_av-p.m3u8
+#EXTINF:0,gotv Music
+http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8
+#EXTINF:0,ServusTV AT
+http://streaming-hub.com/tv/i/servus_1@97488/index_1300_av-p.m3u8
+#EXTINF:0,SRF 1
+http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-p.m3u8
+#EXTINF:0,SRF info
+http://streaming-hub.com/tv/i/sfinfo_1@97408/index_1300_av-p.m3u8
+#EXTINF:0,3plus
+http://streaming-hub.com/tv/i/3plus_1@97489/index_1300_av-p.m3u8
+#EXTINF:0,JOIZ CH
+http://streaming-hub.com/tv/i/joiz_1@135266/index_1300_av-p.m3u8
+#EXTINF:0,Tele Z?ri
+http://streaming-hub.com/tv/i/tzurich_1@135275/index_1300_av-p.m3u8
+#EXTINF:0,Tele B?rn
+http://streaming-hub.com/tv/i/tbarn_1@135272/index_1300_av-p.m3u8
+#EXTINF:0,Tele Basel
+http://streaming-hub.com/tv/i/tbasel_1@135273/index_1300_av-p.m3u8
+#EXTINF:0,Tele Bielingue
+http://streaming-hub.com/tv/i/tbielingue_1@135280/index_1300_av-p.m3u8
+#EXTINF:0,Tele S?dostschweiz
+http://streaming-hub.com/tv/i/tsudost_1@135274/index_1300_av-p.m3u8
+#EXTINF:0,Tele Ostschweiz
+http://streaming-hub.com/tv/i/tost_1@135270/index_1300_av-p.m3u8
+#EXTINF:0,Tele Top SH
+http://streaming-hub.com/tv/i/ttsh_1@135279/index_1300_av-p.m3u8
+#EXTINF:0,Tele Top TG
+http://streaming-hub.com/tv/i/tttg_1@135278/index_1300_av-p.m3u8
+#EXTINF:0,Tele Top ZH
+http://streaming-hub.com/tv/i/ttzh_1@135271/index_1300_av-p.m3u8
+#EXTINF:0,Tele M1 Ost
+http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
+ 
+ 
+ 
+#EXTINF:0,MBC
+http://50.23.65.8/live/mbc/index.m3u8
+#EXTINF:0,DREAM1
+http://50.23.65.8/live/dream1/index.m3u8
+#EXTINF:0,DREAM2
+http://50.23.65.8/live/dream2/index.m3u8
+#EXTINF:0,rotana_classic
+http://50.23.65.8/live/rotana_classic/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_massriya/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_khalijiah/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/set_el_bait/index.m3u8
+#EXTINF:0,rotana_massriya
+http://50.23.65.8/live/set_el_bait_plus/index.m3u8
+#EXTINF:0,ON TV
+http://50.23.65.8/live/ontv/index.m3u
+#EXTINF:0,ON TV LIVE
+http://50.23.65.8/live/ontv_live/index.m3u8
+#EXTINF:0,ON TV PLUS
+http://50.23.65.8live/ontv_plus/index.m3u8
+#EXTINF:0,ON TV LIVE PLUS
+http://50.23.65.8/live/ontv_live_plus/index.m3u8
+#EXTINF:0,el_mehwar_plus
+http://50.23.65.8/live/el_mehwar_plus/index.m3u8
+#EXTINF:0,al nahar + 2
+http://50.23.65.8/live/al-nahar_plus2/index.m3u8
+#EXTINF:0,al-nahar_drama
+http://50.23.65.8/live/al-nahar_drama/index.m3u8
+#EXTINF:0,al-nahar_al_youm
+http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
+#EXTINF:0,al-nahar_al_youm
+http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
+#EXTINF:0,mbc
+http://stream.magictvbox.com/live/mbc/index.m3u8
+
+ 
+ 
+#EXTINF:0,STAR TV
+http://31.186.24.232:8000/1
+#EXTINF:0,NTV
+http://31.186.24.232:8000/2
+#EXTINF:0,NTV SPOR
+http://31.186.24.232:8000/3
+#EXTINF:0,CNBC-E
+http://31.186.24.232:8000/4
+#EXTINF:0,E2
+http://31.186.24.232:8000/5
+#EXTINF:0,SHOWTV
+http://31.186.24.232:8000/80
+#EXTINF:0,FOX TV
+http://31.186.24.232:8000/81
+#EXTINF:0,ATV
+http://31.186.24.232:8000/120
+#EXTINF:0,KANAL D
+http://31.186.24.233:8002/62
+#EXTINF:0,A HABER
+http://31.186.24.232:8000/121
+#EXTINF:0,A SPOR
+http://31.186.24.232:8000/122
+#EXTINF:0,TRT 1
+http://31.186.24.234:8000/27
+#EXTINF:0,TRT HABER
+http://31.186.24.234:8000/28
+#EXTINF:0,TRT TURK
+http://31.186.24.234:8000/29
+#EXTINF:0,TRT MUZIK
+http://31.186.24.234:8000/30
+#EXTINF:0,HALK TV
+http://31.186.24.232:8000/113
+#EXTINF:0,BEYAZ TV
+http://31.186.24.232:8000/114
+#EXTINF:0,KANAL A
+http://31.186.24.232:8000/115
+#EXTINF:0,EGE TV
+http://31.186.24.232:8000/6
+#EXTINF:0,FLASH TV
+http://31.186.24.232:8000/8
+#EXTINF:0,KRT TV
+http://31.186.24.232:8000/10
+#EXTINF:0,MCJ MEDIASA
+http://31.186.24.232:8000/11
+#EXTINF:0,NR1 TURK TV
+http://31.186.24.232:8000/13
+#EXTINF:0,NR1 TV
+http://31.186.24.232:8000/14
+#EXTINF:0,RUMELI TV
+http://31.186.24.232:8000/15
+#EXTINF:0,YABAN TV
+http://31.186.24.232:8000/16
+#EXTINF:0,CAY TV
+http://31.186.24.232:8000/17
+#EXTINF:0,VTV
+http://31.186.24.232:8000/18
+#EXTINF:0,YASIN TV
+http://31.186.24.232:8000/19
+#EXTINF:0,CNN TURK
+http://31.186.24.232:8000/20
+#EXTINF:0,TV2
+http://31.186.24.232:8000/21
+#EXTINF:0,DREAM TV
+http://31.186.24.232:8000/22
+#EXTINF:0,DREAM TURK
+http://31.186.24.232:8000/23
+#EXTINF:0,EURO D
+http://31.186.24.232:8000/24
+#EXTINF:0,TV 8 INT
+http://31.186.24.232:8000/25
+#EXTINF:0,PINAR TV
+http://31.186.24.232:8000/26
+#EXTINF:0,TEK DAMAR TV
+http://31.186.24.232:8000/27
+#EXTINF:0,ANI TV
+http://31.186.24.232:8000/28
+#EXTINF:0,TOP POP TV
+http://31.186.24.232:8000/29
+#EXTINF:0,CLUB MAX TV
+http://31.186.24.232:8000/30
+#EXTINF:0,CA?LA TV
+http://31.186.24.232:8000/31
+#EXTINF:0,H?T TV
+http://31.186.24.232:8000/32
+#EXTINF:0,R?TM?X TV
+http://31.186.24.232:8000/33
+#EXTINF:0,MUZ?K TURK
+http://31.186.24.232:8000/34
+#EXTINF:0,GALA TV
+http://31.186.24.232:8000/35
+#EXTINF:0,DO?U TV
+http://31.186.24.232:8000/36
+#EXTINF:0,CAN TV
+http://31.186.24.232:8000/37
+#EXTINF:0,MAST?KA TV
+http://31.186.24.232:8000/38
+#EXTINF:0,TV 41
+http://31.186.24.232:8000/39
+#EXTINF:0,CEM TV
+http://31.186.24.232:8000/40
+#EXTINF:0,TV 5
+http://31.186.24.232:8000/41
+#EXTINF:0,ADANA TV
+http://31.186.24.232:8000/42
+#EXTINF:0,KOZA TV
+http://31.186.24.232:8000/43
+#EXTINF:0,BARIS TV
+http://31.186.24.232:8000/44
+#EXTINF:0,SRT 1
+http://31.186.24.232:8000/45
+#EXTINF:0,BEDIR TV
+http://31.186.24.232:8000/46
+#EXTINF:0,CIFTCI TV
+http://31.186.24.232:8000/47
+#EXTINF:0,POWER TV
+http://31.186.24.232:8000/48
+#EXTINF:0,POWERTURK TV
+http://31.186.24.232:8000/49
+#EXTINF:0,TARZ MODA TV
+http://31.186.24.232:8000/50
+#EXTINF:0,DINAMIK TV
+http://31.186.24.232:8000/51
+#EXTINF:0,MEGAM TV
+http://31.186.24.232:8000/52
+#EXTINF:0,ILGAZ TV
+http://31.186.24.232:8000/53
+#EXTINF:0,MEGACAN TV
+http://31.186.24.232:8000/54
+#EXTINF:0,THE BOX TV
+http://31.186.24.232:8000/55
+#EXTINF:0,LISTEPOP
+http://31.186.24.232:8000/56
+#EXTINF:0,DANISMAN TV
+http://31.186.24.232:8000/57
+#EXTINF:0,YANKI
+http://31.186.24.232:8000/58
+#EXTINF:0,KANAL 34
+http://31.186.24.232:8000/59
+#EXTINF:0,RITIM
+http://31.186.24.232:8000/60
+#EXTINF:0,NIYAZ
+http://31.186.24.232:8000/61
+#EXTINF:0,ARMONI TV
+http://31.186.24.232:8000/62
+#EXTINF:0,YENI SINEMA TV
+http://31.186.24.232:8000/63
+#EXTINF:0,AVANTAJ TV
+http://31.186.24.232:8000/64
+#EXTINF:0,PLUS LIFE TV
+http://31.186.24.232:8000/65
+#EXTINF:0,SEYYAH TV
+http://31.186.24.232:8000/66
+#EXTINF:0,MACRO BELGESEL TV
+http://31.186.24.232:8000/67
+#EXTINF:0,ANL TV
+http://31.186.24.232:8000/68
+#EXTINF:0,ARABESK DAMAR TV
+http://31.186.24.232:8000/69
+#EXTINF:0,AL TV
+http://31.186.24.232:8000/70
+#EXTINF:0,GENC TV
+http://31.186.24.232:8000/71
+#EXTINF:0,GAZIANTEP OLAY TV
+http://31.186.24.232:8000/72
+#EXTINF:0,A9 TV
+http://31.186.24.232:8000/73
+#EXTINF:0,AKILLI TV
+http://31.186.24.232:8000/74
+#EXTINF:0,HAYAT TV
+http://31.186.24.232:8000/75
+#EXTINF:0,HRT TV
+http://31.186.24.232:8000/76
+#EXTINF:0,TIVITI TV
+http://31.186.24.232:8000/77
+#EXTINF:0,LINE TV
+http://31.186.24.232:8000/78
+#EXTINF:0,IMC TV
+http://31.186.24.232:8000/79
+#EXTINF:0,Cine5
+http://31.186.24.232:8000/82
+#EXTINF:0,KANAL 58
+http://31.186.24.232:8000/83
+#EXTINF:0,BEREKET TV
+http://31.186.24.232:8000/84
+#EXTINF:0,BEYKENT TV
+http://31.186.24.232:8000/85
+#EXTINF:0,ALJAZEERA INTERNATIONAL
+http://31.186.24.232:8000/86
+#EXTINF:0,ALJAZEERA CHANNEL
+http://31.186.24.232:8000/87
+#EXTINF:0,BEST TV
+http://31.186.24.232:8000/88
+#EXTINF:0,ASU TV
+http://31.186.24.232:8000/89
+#EXTINF:0,EVIN TV
+http://31.186.24.232:8000/90
+#EXTINF:0,KULTURTURK
+http://31.186.24.232:8000/91
+#EXTINF:0,KANAL 33
+http://31.186.24.232:8000/92
+#EXTINF:0,SKY TV
+http://31.186.24.232:8000/93
+#EXTINF:0,HABERAKS TV
+http://31.186.24.232:8000/94
+#EXTINF:0,MANISA MEDYA TV
+http://31.186.24.232:8000/95
+#EXTINF:0,TGRT HABER
+http://31.186.24.232:8000/96
+#EXTINF:0,TGRT BELGESEL
+http://31.186.24.232:8000/97
+#EXTINF:0,TGRT EU
+http://31.186.24.232:8000/98
+#EXTINF:0,EM TV
+http://31.186.24.232:8000/99
+#EXTINF:0,FB TV
+http://31.186.24.232:8000/100
+#EXTINF:0,MCJ MEDIASA
+http://31.186.24.232:8000/101
+#EXTINF:0,SPORTS TV
+http://31.186.24.232:8000/102
+#EXTINF:0,AS TV
+http://31.186.24.232:8000/103
+#EXTINF:0,ALTAS TV
+http://31.186.24.232:8000/104
+#EXTINF:0,TURKIYEM TV
+http://31.186.24.232:8000/105
+#EXTINF:0,MAXI TV
+http://31.186.24.232:8000/106
+#EXTINF:0,GALA TV
+http://31.186.24.232:8000/107
+#EXTINF:0,YILDIZ TV
+http://31.186.24.232:8000/108
+#EXTINF:0,KONYA TV
+http://31.186.24.232:8000/109
+#EXTINF:0,ON 4 TV
+http://31.186.24.232:8000/111
+#EXTINF:0,UZAY HABER
+http://31.186.24.232:8000/112
+#EXTINF:0,DRT DENIZLI
+http://31.186.24.232:8000/116
+#EXTINF:0,KANAL 32
+http://31.186.24.232:8000/117
+#EXTINF:0,BEREKET HAYVANCILIK
+http://31.186.24.232:8000/118
+#EXTINF:0,PAMUKKALE TV
+http://31.186.24.232:8000/119
+#EXTINF:0,minikaCOCUK
+http://31.186.24.232:8000/123
+#EXTINF:0,minikaGO
+http://31.186.24.232:8000/124
+#EXTINF:0,Ruha TV
+http://31.186.24.232:8000/125
+#EXTINF:0,Dolunay TV
+http://31.186.24.232:8000/126
+#EXTINF:0,Kanal 15
+http://31.186.24.232:8000/127
+#EXTINF:0,Kanal 52
+http://31.186.24.232:8000/128
+#EXTINF:0,Karabuk BRTV
+http://31.186.24.232:8000/129
+#EXTINF:0,BTV
+http://31.186.24.232:8000/130
+#EXTINF:0,Diyar TV
+http://31.186.24.232:8000/131
+#EXTINF:0,Ton TV
+http://31.186.24.232:8000/132
+#EXTINF:0,Ordu TV
+http://31.186.24.232:8000/133
+#EXTINF:0,AKSARAY KANAL68
+http://31.186.24.232:8000/134
+#EXTINF:0,Corum TV CRT
+http://31.186.24.232:8000/135
+#EXTINF:0,Bursa TV
+http://31.186.24.232:8000/136
+#EXTINF:0,Aksaray ART
+http://31.186.24.232:8000/137
+#EXTINF:0,Sivas SRT
+http://31.186.24.232:8000/138
+#EXTINF:0,MARAL TV
+http://31.186.24.232:8000/139
+#EXTINF:0,Z?RVE TURK TV
+http://31.186.24.232:8000/140
+#EXTINF:0,TUANA TV
+http://31.186.24.232:8000/141
+#EXTINF:0,BENGUTURK
+http://31.186.24.232:8000/142
+#EXTINF:0,ULUSAL TV
+http://31.186.24.232:8000/143
+#EXTINF:0,KON TV
+http://31.186.24.232:8000/144
+#EXTINF:0,AKDENIZ TV
+http://31.186.24.232:8000/145
+#EXTINF:0,SMART TV MARKET
+http://31.186.24.232:8000/146
+#EXTINF:0,KACKAR TV
+http://31.186.24.232:8000/147
+#EXTINF:0,VIZYONTURK
+http://31.186.24.232:8000/148
+#EXTINF:0,REHBER TV
+http://31.186.24.232:8000/149
+#EXTINF:0,NR1 HD
+http://31.186.24.232:8000/150
+#EXTINF:0,24
+http://31.186.24.233:8000/1
+#EXTINF:0,TV4
+http://31.186.24.233:8000/2
+#EXTINF:0,ISTANBUL TV
+http://31.186.24.233:8000/3
+#EXTINF:0,GELISIM TV
+http://31.186.24.233:8000/4
+#EXTINF:0,KANAL 56
+http://31.186.24.233:8000/5
+#EXTINF:0,GOVEND TV
+http://31.186.24.233:8000/6
+#EXTINF:0,OSMANLI
+http://31.186.24.233:8000/8
+#EXTINF:0,MUHACIR TV
+http://31.186.24.233:8000/9
+#EXTINF:0,HAK TV
+http://31.186.24.233:8000/10
+#EXTINF:0,TV HMS
+http://31.186.24.233:8000/11
+#EXTINF:0,CANKIRI TV
+http://31.186.24.233:8000/12
+#EXTINF:0,ESKI FILMLER
+http://31.186.24.233:8000/13
+#EXTINF:0,TV AVRASYA
+http://31.186.24.233:8000/14
+#EXTINF:0,YESILCAM AVRUPA
+http://31.186.24.233:8000/15
+#EXTINF:0,TV FHM
+http://31.186.24.233:8000/17
+#EXTINF:0,HAVIN TV
+http://31.186.24.233:8000/18
+#EXTINF:0,MASTIKA TV
+http://31.186.24.233:8000/19
+#EXTINF:0,EMAN TV
+http://31.186.24.233:8000/20
+#EXTINF:0,ANADOLU HALK
+http://31.186.24.233:8000/21
+#EXTINF:0,TARZ TV
+http://31.186.24.233:8000/22
+#EXTINF:0,CINERAMA
+http://31.186.24.233:8000/23
+#EXTINF:0,ZEYNO
+http://31.186.24.233:8000/24
+#EXTINF:0,TV 28
+http://31.186.24.233:8000/25
+#EXTINF:0,MEZOPOTAMYA TV
+http://31.186.24.233:8000/26
+#EXTINF:0,ASINEMA TV
+http://31.186.24.233:8000/27
+#EXTINF:0,HANEDAN TV
+http://31.186.24.233:8000/28
+#EXTINF:0,24 SAAT FILM
+http://31.186.24.233:8000/29
+#EXTINF:0,A SELCUKLU TV
+http://31.186.24.233:8000/30
+#EXTINF:0,MEGASINEMA TV
+http://31.186.24.233:8000/31
+#EXTINF:0,DANS TV
+http://31.186.24.233:8000/33
+#EXTINF:0,360
+http://31.186.24.233:8000/105
+#EXTINF:0,360
+http://31.186.24.234:8000/1
+#EXTINF:0,1 TV GEORGIA
+http://31.186.24.234:8000/2
+#EXTINF:0,MAESTRO
+http://31.186.24.234:8000/3
+#EXTINF:0,RUSTAVI2
+http://31.186.24.234:8000/4
+#EXTINF:0,IMEDI TV
+http://31.186.24.234:8000/5
+#EXTINF:0,ADJARA TV
+http://31.186.24.234:8000/6
+#EXTINF:0,TV 25
+http://31.186.24.234:8000/7
+#EXTINF:0,GDS TV
+http://31.186.24.234:8000/8
+#EXTINF:0,STV AVRUPA
+http://31.186.24.234:8000/9
+#EXTINF:0,MEHTAP TV
+http://31.186.24.234:8000/10
+#EXTINF:0,S HABER TV
+http://31.186.24.234:8000/11
+#EXTINF:0,YUMURCAK TV
+http://31.186.24.234:8000/12
+#EXTINF:0,MC TV
+http://31.186.24.234:8000/13
+#EXTINF:0,DUNYA TV
+http://31.186.24.234:8000/14
+#EXTINF:0,TUNA SHOPPING TV
+http://31.186.24.234:8000/15
+#EXTINF:0,IRMAK TV
+http://31.186.24.234:8000/16
+#EXTINF:0,HAZAR TV
+http://31.186.24.234:8000/17
+#EXTINF:0,WORLD TRAVEL CHANNEL
+http://31.186.24.234:8000/18
+#EXTINF:0,VIVA TV
+http://31.186.24.234:8000/19
+#EXTINF:0,PLANET MUTFAK
+http://31.186.24.234:8000/20
+#EXTINF:0,PLANET TURK
+http://31.186.24.234:8000/21
+#EXTINF:0,PLANET PEMBE
+http://31.186.24.234:8000/22
+#EXTINF:0,SEMERKAND TV
+http://31.186.24.234:8000/24
+#EXTINF:0,SEYMEN TV
+http://31.186.24.234:8000/25
+#EXTINF:0,PLANET COCUK
+http://31.186.24.234:8000/26
+#EXTINF:0,TRT COCUK
+http://31.186.24.234:8000/31
+#EXTINF:0,TRT AVAZ
+http://31.186.24.234:8000/32
+#EXTINF:0,TRT SPOR
+http://31.186.24.234:8000/33
+#EXTINF:0,TRT KURDI
+http://31.186.24.234:8000/34
+#EXTINF:0,TRT DIYANET
+http://31.186.24.234:8000/35
+#EXTINF:0,BUGUN
+http://31.186.24.234:8000/37
+#EXTINF:0,KARDELEN TV
+http://31.186.24.234:8000/38
+#EXTINF:0,ABANT TV
+http://31.186.24.234:8000/39
+#EXTINF:0,DOST TV
+http://31.186.24.234:8000/40
+#EXTINF:0,DOLUNAY INT
+http://31.186.24.234:8000/41
+#EXTINF:0,KANAL 26
+http://31.186.24.234:8000/42
+#EXTINF:0,GUNEYDOGU TV
+http://31.186.24.234:8000/43
+#EXTINF:0,KANAL TEK
+http://31.186.24.234:8000/44
+#EXTINF:0,TV 2000
+http://31.186.24.234:8000/45
+#EXTINF:0,KANAL 5
+http://31.186.24.234:8000/46
+#EXTINF:0,YURDUM TV
+http://31.186.24.234:8000/86
+#EXTINF:0,VIZYON 58
+http://31.186.24.234:8000/87
+#EXTINF:0,CAN ERZINCAN TV
+http://31.186.24.234:8000/88
+#EXTINF:0,ONE DAMLA TV
+http://31.186.24.234:8000/89
+#EXTINF:0,KUDUS TV
+http://31.186.24.234:8000/90
+#EXTINF:0,AZADI TV
+http://31.186.24.234:8000/91
+#EXTINF:0,KANAL 24
+http://31.186.24.234:8000/92
+#EXTINF:0,RTV 23
+http://31.186.24.234:8000/93
+#EXTINF:0,UCANKUS TV
+http://31.186.24.234:8000/94
+#EXTINF:0,Rai 1
+http://31.186.24.231:8000/1
+#EXTINF:0,Rai 2
+http://31.186.24.231:8000/2
+#EXTINF:0,Rai 3
+http://31.186.24.231:8000/3
+#EXTINF:0,Rai News 24
+http://31.186.24.231:8000/4
+#EXTINF:0,THT
+http://31.186.24.231:8000/5
+#EXTINF:0,Shanson TV
+http://31.186.24.231:8000/6
+#EXTINF:0,2M Monde
+http://31.186.24.231:8000/7
+#EXTINF:0,CCTV-News
+http://31.186.24.231:8000/8
+#EXTINF:0,STS International
+http://31.186.24.231:8000/9
+#EXTINF:0,RTR
+http://31.186.24.231:8000/10
+#EXTINF:0,Rossiya 24
+http://31.186.24.231:8000/11
+#EXTINF:0,ZDF
+http://31.186.24.231:8000/12
+#EXTINF:0,R1
+http://31.186.24.231:8000/13
+#EXTINF:0,CNBC PE Hot
+http://31.186.24.231:8000/14
+#EXTINF:0,Bloomberg European TV
+http://31.186.24.231:8000/15
+#EXTINF:0,TV5MONDE FBS
+http://31.186.24.231:8000/16
+#EXTINF:0,TV5MONDE EUROPE
+http://31.186.24.231:8000/17
+#EXTINF:0,DAS ERSTE
+http://31.186.24.231:8000/18
+#EXTINF:0,Mjuzik TV
+http://31.186.24.231:8000/29
+#EXTINF:0,TV Disco
+http://31.186.24.231:8000/30
+#EXTINF:0,4FUN TV
+http://31.186.24.231:8000/31
+#EXTINF:0,BELARUS 24
+http://31.186.24.231:8000/32
+#EXTINF:0,RIKSat
+http://31.186.24.231:8000/33
+#EXTINF:0,DW Europe
+http://31.186.24.231:8000/35
+#EXTINF:0,Dubai TV
+http://31.186.24.231:8000/36
+#EXTINF:0,Dubai Sports 3
+http://31.186.24.231:8000/37
+#EXTINF:0,Sama Dubai
+http://31.186.24.231:8000/38
+#EXTINF:0,AD SPORT1
+http://31.186.24.231:8000/39
+#EXTINF:0,YAS Sports
+http://31.186.24.231:8000/40
+#EXTINF:0,Rai Sport 2
+http://31.186.24.231:8000/41
+#EXTINF:0,Rai Sport 1
+http://31.186.24.231:8000/42
+#EXTINF:0,Rai Storia
+http://31.186.24.231:8000/43
+#EXTINF:0,Khabar TV
+http://31.186.24.231:8000/44
+#EXTINF:0,LIDER TV AZERBAIJAN
+http://31.186.24.231:8000/45
+#EXTINF:0,CCTV4
+http://31.186.24.231:8000/46
+#EXTINF:0,RBC-TV
+http://31.186.24.231:8000/47
+#EXTINF:0,BBC World News
+http://31.186.24.231:8000/48
+#EXTINF:0,1TVRUS Europe
+http://31.186.24.231:8000/49
+#EXTINF:0,Euronews
+http://31.186.24.231:8000/50
+#EXTINF:0,BRT 1 KKTC
+http://31.186.24.233:8001/48
+#EXTINF:0,BRT 2 KKTC
+http://31.186.24.233:8001/49
+#EXTINF:0,KIBRIS ADA TV
+http://31.186.24.233:8001/50
+#EXTINF:0,KIBRIS GENC TV
+http://31.186.24.233:8001/51
+#EXTINF:0,KIBRIS TV
+http://31.186.24.233:8001/52
+#EXTINF:0,KANAL SIM
+http://31.186.24.233:8001/53
+#EXTINF:0,AS TV
+http://31.186.24.233:8001/54
+#EXTINF:0,GENC TURKU TV
+http://31.186.24.233:8001/55
+#EXTINF:0,STAR SHOPPING ONE TV
+http://31.186.24.233:8001/56
+#EXTINF:0,RAHMET TV
+http://31.186.24.233:8001/57
+#EXTINF:0,STAR SINEM-A TV
+http://31.186.24.233:8001/58
+#EXTINF:0,DIYALOG TV
+http://31.186.24.233:8001/59
+#EXTINF:0,TURKISH TV
+http://31.186.24.233:8001/60
+#EXTINF:0,SEVVAL TV
+http://31.186.24.233:8001/61
+#EXTINF:0,KANAL T
+http://31.186.24.233:8001/105
+#EXTINF:0,A SHOPPING
+http://31.186.24.233:8002/63
+#EXTINF:0,NHK WORLD TV
+http://31.186.24.233:8002/64
+#EXTINF:0,CARTOON NETWORK
+http://31.186.24.233:8002/65
+#EXTINF:0,MUZ?K ANKARA TV
+http://31.186.24.233:8002/66
+#EXTINF:0,ARABESK MELOD? TV
+http://31.186.24.233:8002/67
+#EXTINF:0,MODA L?FE TV
+http://31.186.24.233:8002/68
+#EXTINF:0,MAXI TV
+http://31.186.24.233:8002/69
+#EXTINF:0,SEVDA TV
+http://31.186.24.233:8002/70
+#EXTINF:0,KOCAEL? TV
+http://31.186.24.233:8002/71
+#EXTINF:0,TOP SHOP TV
+http://31.186.24.233:8002/72
+#EXTINF:0,CINAR TV
+http://31.186.24.233:8002/73
+#EXTINF:0,B?TL?S TV
+http://31.186.24.233:8002/74
+#EXTINF:0,TV LIFE
+http://31.186.24.233:8002/75
+#EXTINF:0,C?VAN TV
+http://31.186.24.233:8002/76
+#EXTINF:0,AVANTAJ TV
+http://31.186.24.233:8002/77
+#EXTINF:0,ANADOLU YURDUM
+http://31.186.24.233:8002/78
+#EXTINF:0,KAPLAN TV
+http://31.186.24.233:8002/79
+#EXTINF:0,ANC TV
+http://31.186.24.233:8002/80
+#EXTINF:0,AL TV
+http://31.186.24.233:8002/81
+#EXTINF:0,OUTLET TV
+http://31.186.24.233:8002/82
+#EXTINF:0,ANADOLU TV
+http://31.186.24.233:8002/83
+#EXTINF:0,EZO TV
+http://31.186.24.233:8002/84
+#EXTINF:0,CEYLAN TV
+http://31.186.24.233:8002/85
+#EXTINF:0,TMB TV
+http://31.186.24.233:8003/94
+#EXTINF:0,TARIMTURK
+http://31.186.24.233:8003/95
+#EXTINF:0,KARADENIZTURK TV
+http://31.186.24.233:8003/96
+#EXTINF:0,KANAL C
+http://31.186.24.233:8003/97
+#EXTINF:0,TEMPO TV
+http://31.186.24.233:8003/98
+#EXTINF:0,VAN TV
+http://31.186.24.233:8003/99
+#EXTINF:0,HLT TV
+http://31.186.24.233:8003/100
+#EXTINF:0,LALEGUL TV
+http://31.186.24.233:8003/101
+#EXTINF:0,JIYAN TV
+http://31.186.24.233:8003/102
+#EXTINF:0,ONE BAL TV
+http://31.186.24.233:8003/103
+#EXTINF:0,BER TV
+http://31.186.24.233:8003/104
+#EXTINF:0,FIL TV
+http://31.186.24.233:8004/1
+#EXTINF:0,KIDZ/ANIMEZ
+http://31.186.24.233:8004/2
+#EXTINF:0,TOPRAK YILDIZ TV
+http://31.186.24.233:8004/3
+#EXTINF:0,BAHARTURK TV
+http://31.186.24.233:8004/4
+#EXTINF:0,TV 27
+http://31.186.24.233:8004/5
+#EXTINF:0,KANAL 60
+http://31.186.24.233:8005/1
+#EXTINF:0,YOL TV
+http://31.186.24.233:8005/2
+#EXTINF:0,KANAL AVRUPA
+http://31.186.24.233:8005/3
+#EXTINF:0,MPL TV
+http://31.186.24.233:8005/4
+#EXTINF:0,NUR TV
+http://31.186.24.233:8005/5
+#EXTINF:0,KABE(CANLI) AL QURAN
+http://31.186.24.233:8005/6
+#EXTINF:0,MESCID-I NEBEVI AL SUNNAH
+http://31.186.24.233:8005/7
+#EXTINF:0,RUDAW TV
+http://31.186.24.233:8005/8
+#EXTINF:0,ONUR TV
+http://31.186.24.233:8006/1
+#EXTINF:0,SEBIL SUFI
+http://31.186.24.233:8006/2
+#EXTINF:0,UMMET TV
+http://31.186.24.233:8006/3
+#EXTINF:0,SINIR TV
+http://31.186.24.233:8006/4
+#EXTINF:0,DURU TV
+http://31.186.24.233:8006/5
+#EXTINF:0,HUNKAR TV
+http://31.186.24.233:8006/6
+#EXTINF:0,68 AKSARAYSPOR TV
+http://31.186.24.233:8006/7
+#EXTINF:0,365 TV
+http://31.186.24.233:8006/8
+#EXTINF:0,SUPERPOP
+http://31.186.24.233:8006/9
+#EXTINF:0,OSMANLI AVRUPA
+http://31.186.24.233:8006/10
+#EXTINF:0,HALKSTAR
+http://31.186.24.233:8006/11
+#EXTINF:0,MEGA SHOP
+http://31.186.24.233:8006/12
+#EXTINF:0,KRDNZ TURK
+http://31.186.24.233:8006/13
+#EXTINF:0,ANADOLUTURK
+http://31.186.24.233:8006/14
+#EXTINF:0,BERAT SUFI
+http://31.186.24.233:8006/15
+#EXTINF:0,AKDENIZTURK TV
+http://31.186.24.233:8006/16
+#EXTINF:0,NEHIR TV
+http://31.186.24.233:8006/17
+#EXTINF:0,MEGA TV
+http://31.186.24.233:8006/18
+#EXTINF:0,OZGUR GUN TV
+http://31.186.24.233:8006/19
+#EXTINF:0,TV YEK
+http://31.186.24.233:8006/20
+#EXTINF:0,VIDEYON
+http://31.186.24.233:8006/21
+#EXTINF:0,ZELAL TV
+http://31.186.24.233:8006/22
+#EXTINF:0,MMC
+http://31.186.24.233:8006/23
+#EXTINF:0,VADITURK
+http://31.186.24.233:8006/24
+#EXTINF:0,YESILCAM
+http://31.186.24.233:8006/25
+#EXTINF:0,TV A
+http://31.186.24.233:8006/26
+#EXTINF:0,BUSINESSTURK CHANNEL
+http://31.186.24.233:8006/27
+#EXTINF:0,ARABESQTURK
+http://31.186.24.233:8006/28
+#EXTINF:0,MEDYAM 14
+http://31.186.24.233:8007/1
+#EXTINF:0,EGETURK TV
+http://31.186.24.233:8007/2
+#EXTINF:0,ES TV
+http://31.186.24.233:8007/3
+#EXTINF:0,AGI TV
+http://31.186.24.233:8007/4
+#EXTINF:0,NURS TV
+http://31.186.24.233:8007/5
+#EXTINF:0,ONE SUPER TV
+http://31.186.24.233:8007/6
+#EXTINF:0,EXPO CHANNEL
+http://31.186.24.233:8007/7
+#EXTINF:0,4 EYLUL TV
+http://31.186.24.233:8007/8
+#EXTINF:0,TV KAYSERI
+http://31.186.24.233:8008/1
+#EXTINF:0,OLAY TV
+http://31.186.24.233:8008/2
+#EXTINF:0,TV6
+http://31.186.24.233:8008/3
+#EXTINF:0,TV 1
+http://31.186.24.233:8008/4
+#EXTINF:0,7/24 TV
+http://31.186.24.233:8008/5
+#EXTINF:0,SHOPPING CHANNEL
+http://31.186.24.233:8008/6
+#EXTINF:0,MGC TV
+http://31.186.24.233:8008/7
+#EXTINF:0,BALIKESIR TV 100
+http://31.186.24.233:8008/8
+#EXTINF:0,DENGE TV
+http://31.186.24.233:8008/9
+#EXTINF:0,KANAL FIRAT
+http://31.186.24.233:8008/10
+#EXTINF:0,ZAROK TV
+http://31.186.24.233:8008/11
+#EXTINF:0,POWERTV HD
+http://31.186.24.233:8009/1
+#EXTINF:0,POWERTURK HD
+http://31.186.24.233:8009/2
+#EXTINF:0,DENGBEJ
+http://31.186.24.233:8009/3
+#EXTINF:0,B&B
+http://31.186.24.233:8009/4
+#EXTINF:0,BELGESEL BOX
+http://31.186.24.233:8009/5
+#EXTINF:0,IZDIVAC TV
+http://31.186.24.233:8009/6
+#EXTINF:0,DOGU SINEMA
+http://31.186.24.233:8009/7
+#EXTINF:0,WESTERN TV
+http://31.186.24.233:8009/8
+#EXTINF:0,ALFA 1
+http://31.186.24.233:8009/9
+#EXTINF:0,VENUS TV
+http://31.186.24.233:8009/10
+#EXTINF:0,ACTION BOX EURO
+http://31.186.24.233:8009/11
+#EXTINF:0,REALITY TV
+http://31.186.24.233:8009/12
+#EXTINF:0,FUL ARABESK
+http://31.186.24.233:8009/13
+#EXTINF:0,TURK BOX EURO
+http://31.186.24.233:8009/14
+#EXTINF:0,TURKU PLUS
+http://31.186.24.233:8009/15
+#EXTINF:0,DELAL
+http://31.186.24.233:8009/16
+#EXTINF:0,SARK TV
+http://31.186.24.233:8009/17
+#EXTINF:0,HEVAL
+http://31.186.24.233:8009/18
+#EXTINF:0,MACA TV
+http://31.186.24.233:8009/19
+#EXTINF:0,ASYA 1
+http://31.186.24.233:8009/20
+#EXTINF:0,RAKS TV
+http://31.186.24.233:8009/21
+#EXTINF:0,NISBET TV
+http://31.186.24.233:8009/22
+#EXTINF:0,C7
+http://31.186.24.233:8009/23
+#EXTINF:0,BODY GYM
+http://31.186.24.233:8009/24
+#EXTINF:0,CINEMAONE
+http://31.186.24.233:8009/25
+#EXTINF:0,TELE BOX
+http://31.186.24.233:8009/26
+ 
+ 
+#EXTINF:0,Arena Sport1
+http://balkanstream.com/stream/arenasport1hr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport2
+http://balkanstream.com/stream/arenasport2hr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport3
+http://balkanstream.com/stream/arenasport3hr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport4
+http://balkanstream.com/stream/arenasport4hr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport1
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport2
+http://balkanstream.com/stream/arenasport2sr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport3
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport4
+http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+#EXTINF:0,Arena Sport5
+http://balkanstream.com/stream/arenasport5sr/putidoma22/udhfbu
+#EXTINF:0,SportKlub1
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:0,SportKlub2
+http://balkanstream.com/stream/sportklub2hr/putidoma22/udhfbu
+#EXTINF:0,SportKlub3
+http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
+#EXTINF:0,Eurosport1
+http://balkanstream.com/stream/eurosport1/putidoma22/udhfbu
+#EXTINF:0,Eurosport2
+http://balkanstream.com/stream/eurosport2/putidoma22/udhfbu
+#EXTINF:0,Super Sport1
+http://balkanstream.com/stream/supersport1/putidoma22/udhfbu
+#EXTINF:0,Super Sport2
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:0,Super Sport3
+http://balkanstream.com/stream/supersport3/putidoma22/udhfbu
+#EXTINF:0,Super Sport4
+http://balkanstream.com/stream/supersport4/putidoma22/udhfbu
+#EXTINF:0,Super Sport1
+http://balkanstream.com/stream/supersport1/mx001/qW79215FRE
+#EXTINF:0,Super Sport2
+http://balkanstream.com/stream/supersport2/mx001/qW79215FRE
+#EXTINF:0,Super Sport3
+http://balkanstream.com/stream/supersport3/mx001/qW79215FRE
+#EXTINF:0,Super Sport4
+http://balkanstream.com/stream/supersport4/mx001/qW79215FRE
+#EXTINF:0,TringSport1
+http://balkanstream.com/stream/TringSport1/mx001/qW79215FRE
+#EXTINF:0,MotorsTV
+http://balkanstream.com/stream/MotorsTV/mx001/qW79215FRE
+#EXTINF:0,BIG.BR.2-CufoTV
+http://balkanstream.com/stream/BIG.BR.2-CufoTV/mx001/qW79215FRE
+#EXTINF:0,Bang Bang
+http://balkanstream.com/stream/bangbang/mx001/qW79215FRE
+#EXTINF:0,Tring Tring
+http://balkanstream.com/stream/tringtring/mx001/qW79215FRE
+#EXTINF:0,Rtv Islam
+http://balkanstream.com/stream/RtvIslam/mx001/qW79215FRE
+#EXTINF:0,Kanal D
+http://balkanstream.com/stream/KanalD/mx001/qW79215FRE
+#EXTINF:0,Kanal 7
+http://balkanstream.com/stream/kanal7/mx001/qW79215FRE
+#EXTINF:0,Samanyolu
+http://balkanstream.com/stream/samanyolu/mx001/qW79215FRE
+#EXTINF:0,Atv
+http://balkanstream.com/stream/atv/mx001/qW79215FRE
+#EXTINF:0,Showtv
+http://balkanstream.com/stream/Showtv/mx001/qW79215FRE
+#EXTINF:0,TV 8
+http://balkanstream.com/stream/tv8/mx001/qW79215FRE
+#EXTINF:0,StarTV
+http://balkanstream.com/stream/star/mx001/qW79215FRE
+#EXTINF:0,HBO Adria
+http://balkanstream.com/stream/hboadria/mx001/qW79215FRE
+#EXTINF:0,HBO Comedy
+http://balkanstream.com/stream/hbocomedy/mx001/qW79215FRE
+#EXTINF:0,Cinestar
+http://balkanstream.com/stream/cinestar/mx001/qW79215FRE
+#EXTINF:0,Cinestar aktion
+http://balkanstream.com/stream/cinestaraktion/mx001/qW79215FRE
+#EXTINF:0,Cinemax
+http://balkanstream.com/stream/Cinemax/mx001/qW79215FRE
+#EXTINF:0,Klasik TV
+http://balkanstream.com/stream/klasiktv/mx001/qW79215FRE
+#EXTINF:0,Fox
+http://balkanstream.com/stream/fox/mx001/qW79215FRE
+#EXTINF:0,Fox Life
+http://balkanstream.com/stream/foxlife/mx001/qW79215FRE
+#EXTINF:0,Fox Crime
+http://balkanstream.com/stream/foxcrime/mx001/qW79215FRE
+#EXTINF:0,TV 1000
+http://balkanstream.com/stream/tv1000/mx001/qW79215FRE
+#EXTINF:0,SciFi
+http://balkanstream.com/stream/scifi/mx001/qW79215FRE
+#EXTINF:0,Axn
+http://balkanstream.com/stream/axn/mx001/qW79215FRE
+#EXTINF:0,Axn Spin
+http://balkanstream.com/stream/axnspin/mx001/qW79215FRE
+#EXTINF:0,Tlc
+http://balkanstream.com/stream/Tlc/mx001/qW79215FRE
+#EXTINF:0,IDextra
+http://balkanstream.com/stream/ID-extra/mx001/qW79215FRE
+#EXTINF:0,History
+http://balkanstream.com/stream/history/mx001/qW79215FRE
+#EXTINF:0,24 Kitchen
+http://balkanstream.com/stream/24kitchen/mx001/qW79215FRE
+#EXTINF:0,Discovery
+http://balkanstream.com/stream/discovery/mx001/qW79215FRE
+#EXTINF:0,Discavery ID
+http://balkanstream.com/stream/discaveryID/mx001/qW79215FRE
+#EXTINF:0,National Geo.
+http://balkanstream.com/stream/national/mx001/qW79215FRE
+#EXTINF:0,Viasat History
+http://balkanstream.com/stream/viasathistory/mx001/qW79215FRE
+ 
+ 
+#EXTINF:0,OTE CINEMA 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2043.ts
+#EXTINF:0,OTE CINEMA 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2044.ts
+#EXTINF:0,OTE CINEMA 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2047.ts
+#EXTINF:0,OTE CINEMA 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2055.ts
+#EXTINF:0,VILLAGE HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2789.ts
+#EXTINF:0,SUNDANCE
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/838.ts
+#EXTINF:0,FOX
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2003.ts
+#EXTINF:0,FOX LIFE
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2004.ts
+#EXTINF:0,TLC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2392.ts
+#EXTINF:0,BEST CINEMA 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2570.ts
+#EXTINF:0,SPORT PLUS www.thesportplus.com
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1743.ts
+#EXTINF:0,NOVASPORTS 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/6.ts
+#EXTINF:0,NOVASPORTS 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/7.ts
+#EXTINF:0,OTE SPORT 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1579.ts
+#EXTINF:0,OTE SPORT 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1580.ts
+#EXTINF:0,OTE SPORT 1-6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1585.ts
+#EXTINF:0,ACTION 24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1018.ts
+#EXTINF:0,EUROSPORT 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2082.ts
+#EXTINF:0,EUROSPORT 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2083.ts
+#EXTINF:0,MOTOR VISION
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2011.ts
+#EXTINF:0,ANIMAL PLANET
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1986.ts
+#EXTINF:0,HISTORY
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2006.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2018.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2023.ts
+#EXTINF:0,TRAVEL
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2053.ts
+#EXTINF:0,DISCOVERY
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1990.ts
+#EXTINF:0,DISCOVERY ID
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1992.ts
+#EXTINF:0,DISCOVERY SCIENCE
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1995.ts
+#EXTINF:0,DISCOVERY SHOWCASE
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2000.ts
+#EXTINF:0,E!
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/57.ts
+#EXTINF:0,NOVA MAD GREEKz
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1149.ts
+#EXTINF:0,MAD HITS
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2009.ts
+#EXTINF:0,MAD TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2008.ts
+#EXTINF:0,MTV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2012.ts
+#EXTINF:0,BABY TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1988.ts
+#EXTINF:0,BOOMERANG
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1989.ts
+#EXTINF:0,DISNEY
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2001.ts
+#EXTINF:0,DISNEY JUNIOR
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2002.ts
+#EXTINF:0,DISNEY XD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/54.ts
+#EXTINF:0,KIDS CHANNEL
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2005.ts
+#EXTINF:0,NICKELODEON
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2042.ts
+#EXTINF:0,ERT HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2039.ts
+#EXTINF:0,ERT 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1851.ts
+#EXTINF:0,ERT 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/14.ts
+#EXTINF:0,ERT 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1046.ts
+#EXTINF:0,ERT WEB TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2694.ts
+#EXTINF:0,MEGA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2010.ts
+#EXTINF:0,MEGA (B)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/15.ts
+#EXTINF:0,MEGA (C)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2728.ts
+#EXTINF:0,MEGA COSMOS (USA)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2692.ts
+#EXTINF:0,SKAI
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2051.ts
+#EXTINF:0,SKAI (B)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/19.ts
+#EXTINF:0,STAR
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2052.ts
+#EXTINF:0,STAR (B)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/18.ts
+#EXTINF:0,ANT1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1987.ts
+#EXTINF:0,ANT1 (B)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/16.ts
+#EXTINF:0,ANT SAT (USA)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2454.ts
+#EXTINF:0,ALPHA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1985.ts
+#EXTINF:0,ALPHA (B)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/17.ts
+#EXTINF:0,ALPHA (C)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2732.ts
+#EXTINF:0,ALPHA SAT (USA)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2693.ts
+#EXTINF:0,AB
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2114.ts
+#EXTINF:0,KONTRA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2007.ts
+#EXTINF:0,MAKEDONIA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/21.ts
+#EXTINF:0,EPIRUS TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1045.ts
+#EXTINF:0,GR Epsilon
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/20.ts
+#EXTINF:0,GR Kontra TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/22.ts
+#EXTINF:0,GR Euronews
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/63.ts
+#EXTINF:0,GR ASTRA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1033.ts
+#EXTINF:0,GR BEST TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1034.ts
+#EXTINF:0,GR BLUE SKY
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1035.ts
+#EXTINF:0,GR CORFU CHANNEL
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1036.ts
+#EXTINF:0,GR DION TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1039.ts
+#EXTINF:0,GR ELLADA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1043.ts
+#EXTINF:0,GR EXTRA 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1049.ts
+#EXTINF:0,GR Faros Web TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1050.ts
+#EXTINF:0,GR Flash TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1051.ts
+#EXTINF:0,GR GRA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1053.ts
+#EXTINF:0,GR 4E TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1022.ts
+#EXTINF:0,GR Kriti TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/25.ts
+#EXTINF:0,GR NEA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/839.ts
+#EXTINF:0,GR Aigaio TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1029.ts
+#EXTINF:0,GR ZOUGLA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1079.ts
+#EXTINF:0,GR West Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1077.ts
+#EXTINF:0,GR VOULI
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1076.ts
+#EXTINF:0,GR VIMA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1075.ts
+#EXTINF:0,GR TVM
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1073.ts
+#EXTINF:0,GR TV Kosmos
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1072.ts
+#EXTINF:0,GR Tile Sport TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1071.ts
+#EXTINF:0,GR TELE EPILOGES
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1070.ts
+#EXTINF:0,GR STAR TV DRAMA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1081.ts
+#EXTINF:0,GR SAMIAKI TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1069.ts
+#EXTINF:0,GR OMEGA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1066.ts
+#EXTINF:0,GR ODIE TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1065.ts
+#EXTINF:0,GR LePanto TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1062.ts
+#EXTINF:0,GR KOSMOS TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1059.ts
+#EXTINF:0,GR Kissamos TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1058.ts
+#EXTINF:0,GR Kanali 6 Xanthi
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1057.ts
+#EXTINF:0,GR IOANNINA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1055.ts
+#EXTINF:0,RIK1 (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1979.ts
+#EXTINF:0,RIK2 (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1980.ts
+#EXTINF:0,GR CY RIK Sat
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1017.ts
+#EXTINF:0,SIGMA (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1983.ts
+#EXTINF:0,ANTENNA (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1963.ts
+#EXTINF:0,MEGA (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1968.ts
+#EXTINF:0,CAPITAL (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1965.ts
+#EXTINF:0,EXTRA (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1966.ts
+#EXTINF:0,PLUS (CYPRUS)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1978.ts
+#EXTINF:0,GR CY Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1030.ts
+#EXTINF:0,GR Test
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2291.ts
+#EXTINF:0,IT Alice
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1668.ts
+#EXTINF:0,IT AXN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/170.ts
+#EXTINF:0,IT Caccia e Pesca
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/202.ts
+#EXTINF:0,IT Canale 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/115.ts
+#EXTINF:0,IT CI Crime Investigation
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1225.ts
+#EXTINF:0,IT Cielo
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/199.ts
+#EXTINF:0,IT Deejay TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3047.ts
+#EXTINF:0,IT Discovery
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/124.ts
+#EXTINF:0,IT Discovery Science
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/189.ts
+#EXTINF:0,IT Discovery World
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1236.ts
+#EXTINF:0,IT E!
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1673.ts
+#EXTINF:0,IT Eagle Cinema 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3075.ts
+#EXTINF:0,IT Eagle Kids
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3073.ts
+#EXTINF:0,IT Eagle Red Carpet
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3071.ts
+#EXTINF:0,IT Eagle Serie
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3069.ts
+#EXTINF:0,IT Fine Living
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1674.ts
+#EXTINF:0,IT Fox
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/164.ts
+#EXTINF:0,IT Fox Animation
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/168.ts
+#EXTINF:0,IT Fox Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/197.ts
+#EXTINF:0,IT Fox Crime
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/106.ts
+#EXTINF:0,IT Fox Life
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/166.ts
+#EXTINF:0,IT Fox Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/132.ts
+#EXTINF:0,IT Fox Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/207.ts
+#EXTINF:0,IT HIstory
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/194.ts
+#EXTINF:0,IT Iris
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/144.ts
+#EXTINF:0,IT Inter Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3043.ts
+#EXTINF:0,IT Italia 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1179.ts
+#EXTINF:0,IT Italia 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/147.ts
+#EXTINF:0,IT Juventus TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2967.ts
+#EXTINF:0,IT LA 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1217.ts
+#EXTINF:0,IT La 7d
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1667.ts
+#EXTINF:0,IT Leonardo
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3042.ts
+#EXTINF:0,IT Marcopolo
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3041.ts
+#EXTINF:0,IT Mediaset Extra
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1665.ts
+#EXTINF:0,IT Milan Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/211.ts
+#EXTINF:0,IT MTV Italia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1684.ts
+#EXTINF:0,IT MTV Music Italia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1686.ts
+#EXTINF:0,IT Nat Geo People
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1235.ts
+#EXTINF:0,IT NatGeo Wild
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/178.ts
+#EXTINF:0,IT National Geographic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/107.ts
+#EXTINF:0,IT Pemium Discovery World
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1246.ts
+#EXTINF:0,IT Premium Action
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1180.ts
+#EXTINF:0,IT Premium BBC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1247.ts
+#EXTINF:0,IT Premium Calcio
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/127.ts
+#EXTINF:0,IT Premium Calcio 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/126.ts
+#EXTINF:0,IT Premium Calcio 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/181.ts
+#EXTINF:0,IT Premium Calcio 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/200.ts
+#EXTINF:0,IT Premium Calcio 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/182.ts
+#EXTINF:0,IT Premium Calcio 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/183.ts
+#EXTINF:0,IT Premium Cartoon Network
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1254.ts
+#EXTINF:0,IT Premium Cinema
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/118.ts
+#EXTINF:0,IT Premium Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1181.ts
+#EXTINF:0,IT Premium Crime
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/119.ts
+#EXTINF:0,IT Premium Crime +24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2976.ts
+#EXTINF:0,IT Premium Discovery World
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1552.ts
+#EXTINF:0,IT Premium Disney Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1251.ts
+#EXTINF:0,IT Premium Disney Junior
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1253.ts
+#EXTINF:0,IT Premium Energy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/122.ts
+#EXTINF:0,IT Premium Eurosport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1249.ts
+#EXTINF:0,IT Premium Eurosport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1250.ts
+#EXTINF:0,IT Premium Mya
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/120.ts
+#EXTINF:0,IT Premium Stories
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3057.ts
+#EXTINF:0,IT Premium Studio Universal
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/125.ts
+#EXTINF:0,IT Radio 105 TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1245.ts
+#EXTINF:0,IT Radio Italia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1244.ts
+#EXTINF:0,IT Radio MonteCarlo TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1243.ts
+#EXTINF:0,IT Rai 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/134.ts
+#EXTINF:0,IT Rai 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/140.ts
+#EXTINF:0,IT Rai 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/143.ts
+#EXTINF:0,IT Rai 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1609.ts
+#EXTINF:0,IT Rai 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1666.ts
+#EXTINF:0,IT Rai Movie
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1670.ts
+#EXTINF:0,IT Rai News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1242.ts
+#EXTINF:0,IT Rai Premium
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1671.ts
+#EXTINF:0,IT Rai Storia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2962.ts
+#EXTINF:0,IT Real Time
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/196.ts
+#EXTINF:0,IT Rete 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/116.ts
+#EXTINF:0,IT Roma Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2350.ts
+#EXTINF:0,IT RSi LA 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3065.ts
+#EXTINF:0,IT RSi LA 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3067.ts
+#EXTINF:0,IT Sky 3D
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/156.ts
+#EXTINF:0,IT Sky Atlantic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/195.ts
+#EXTINF:0,IT Sky Calcio 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/133.ts
+#EXTINF:0,IT Sky Calcio 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/135.ts
+#EXTINF:0,IT Sky Calcio 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/191.ts
+#EXTINF:0,IT Sky Calcio 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/190.ts
+#EXTINF:0,IT Sky Calcio 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1227.ts
+#EXTINF:0,IT Sky Calcio 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1228.ts
+#EXTINF:0,IT Sky Calcio 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1229.ts
+#EXTINF:0,IT Sky Cartoon Network
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1232.ts
+#EXTINF:0,IT Sky Cinema
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1002.ts
+#EXTINF:0,IT Sky Cinema +1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/136.ts
+#EXTINF:0,IT Sky Cinema +24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/151.ts
+#EXTINF:0,IT Sky Cinema 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1554.ts
+#EXTINF:0,IT Sky Cinema Classics
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/184.ts
+#EXTINF:0,IT Sky Cinema Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/185.ts
+#EXTINF:0,IT Sky Cinema Cult
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/192.ts
+#EXTINF:0,IT Sky Cinema Family
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/117.ts
+#EXTINF:0,IT Sky Cinema Hits
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/130.ts
+#EXTINF:0,IT Sky Cinema Max
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/188.ts
+#EXTINF:0,IT Sky Cinema Passion
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/153.ts
+#EXTINF:0,IT Sky Disney Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1676.ts
+#EXTINF:0,IT Sky Disney Junior
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1678.ts
+#EXTINF:0,IT Sky Disney XD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1677.ts
+#EXTINF:0,IT Sky Moto GP
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/208.ts
+#EXTINF:0,IT Sky Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/131.ts
+#EXTINF:0,IT Sky Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/186.ts
+#EXTINF:0,IT Sky Sport 24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/129.ts
+#EXTINF:0,IT Sky Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/206.ts
+#EXTINF:0,IT Sky Sport F1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/150.ts
+#EXTINF:0,IT Sky Sport Plus
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/180.ts
+#EXTINF:0,IT Sky Supercalcio
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/128.ts
+#EXTINF:0,IT Sky Tg 24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1219.ts
+#EXTINF:0,IT Sky Uno
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/193.ts
+#EXTINF:0,IT Super Tennis
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/213.ts
+#EXTINF:0,IT TG Com 24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1220.ts
+#EXTINF:0,IT Top Crime
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1331.ts
+#EXTINF:0,IT Videolina
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1683.ts
+#EXTINF:0,IT Virgin Radio
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1685.ts
+#EXTINF:0,BEIN SPORTS 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1622.ts
+#EXTINF:0,BEIN SPORTS 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1623.ts
+#EXTINF:0,BEIN SPORTS 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1624.ts
+#EXTINF:0,BEIN SPORTS 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1625.ts
+#EXTINF:0,BEIN SPORTS 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1626.ts
+#EXTINF:0,BEIN SPORTS 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1627.ts
+#EXTINF:0,Bein Sports 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2184.ts
+#EXTINF:0,BEIN SPORTS 8
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1629.ts
+#EXTINF:0,BEIN SPORTS 9
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1630.ts
+#EXTINF:0,BEIN SPORTS 10
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1631.ts
+#EXTINF:0,BEIN SPORTS 11
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1632.ts
+#EXTINF:0,BEIN SPORTS 12
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1633.ts
+#EXTINF:0,BEIN SPORTS 13
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1634.ts
+#EXTINF:0,BEIN SPORTS 14
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1635.ts
+#EXTINF:0,BEIN SPORTS 15
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1636.ts
+#EXTINF:0,DE 13th Street
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2545.ts
+#EXTINF:0,DE 3sat
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2304.ts
+#EXTINF:0,DE A&E
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2656.ts
+#EXTINF:0,DE ARD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2724.ts
+#EXTINF:0,DE Arte
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2782.ts
+#EXTINF:0,DE AXN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1599.ts
+#EXTINF:0,DE Boomerang
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2655.ts
+#EXTINF:0,DE BR3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2894.ts
+#EXTINF:0,DE Cartoon Network
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2654.ts
+#EXTINF:0,DE Deluxe Music
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2183.ts
+#EXTINF:0,DE Discovery Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/274.ts
+#EXTINF:0,DE Disney Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2822.ts
+#EXTINF:0,DE Disney Junior
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2653.ts
+#EXTINF:0,DE Dmax
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2182.ts
+#EXTINF:0,DE Eins Festival
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2831.ts
+#EXTINF:0,DE Eins Plus
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2830.ts
+#EXTINF:0,DE Euronews
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2836.ts
+#EXTINF:0,DE Eurosport
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2835.ts
+#EXTINF:0,DE FOX
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2302.ts
+#EXTINF:0,DE FOX life
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1396.ts
+#EXTINF:0,DE Hainmatkanal
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2650.ts
+#EXTINF:0,DE Halle TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2547.ts
+#EXTINF:0,DE History Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2825.ts
+#EXTINF:0,DE HR Fernsehen
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2838.ts
+#EXTINF:0,DE Junior
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2649.ts
+#EXTINF:0,DE Kabel 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/842.ts
+#EXTINF:0,DE Kika
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/278.ts
+#EXTINF:0,DE MDR
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2829.ts
+#EXTINF:0,DE MGM
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2820.ts
+#EXTINF:0,DE N-TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2106.ts
+#EXTINF:0,DE N24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1023.ts
+#EXTINF:0,DE Nat Geo wild
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/280.ts
+#EXTINF:0,DE National Geographic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1613.ts
+#EXTINF:0,DE NDR
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2783.ts
+#EXTINF:0,DE Nickelodeon
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2437.ts
+#EXTINF:0,DE ORF 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1025.ts
+#EXTINF:0,DE ORF Eins
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1024.ts
+#EXTINF:0,DE Phoenix
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2832.ts
+#EXTINF:0,DE Pro 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1010.ts
+#EXTINF:0,DE Pro 7 Max
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2181.ts
+#EXTINF:0,DE RBB Berlin
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2828.ts
+#EXTINF:0,DE Romance TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2648.ts
+#EXTINF:0,DE RTL
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/239.ts
+#EXTINF:0,DE RTL 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/240.ts
+#EXTINF:0,DE RTL Nitro
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/266.ts
+#EXTINF:0,DE RTL Passion
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/267.ts
+#EXTINF:0,DE Sat 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1009.ts
+#EXTINF:0,DE Sat1 Gold
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2180.ts
+#EXTINF:0,DE Servus TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2896.ts
+#EXTINF:0,DE Sixx
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1021.ts
+#EXTINF:0,DE Sky 3D
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2892.ts
+#EXTINF:0,DE Sky Action
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/259.ts
+#EXTINF:0,DE Sky Atlantic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/262.ts
+#EXTINF:0,DE SKY Bundesliga 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/286.ts
+#EXTINF:0,DE Sky Champions
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2548.ts
+#EXTINF:0,DE SKY Cinema
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/260.ts
+#EXTINF:0,DE Sky Cinema +1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2713.ts
+#EXTINF:0,DE SKY Cinema +24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/261.ts
+#EXTINF:0,DE Sky Cinema 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2179.ts
+#EXTINF:0,DE SKY Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/263.ts
+#EXTINF:0,DE Sky Drama
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2897.ts
+#EXTINF:0,DE Sky Emotion
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1555.ts
+#EXTINF:0,DE SKY HITS
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/829.ts
+#EXTINF:0,DE Sky Krimi
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2546.ts
+#EXTINF:0,DE Sky Select 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2326.ts
+#EXTINF:0,DE Sky Select 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2327.ts
+#EXTINF:0,DE Sky Select 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2328.ts
+#EXTINF:0,DE Sky Select 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2329.ts
+#EXTINF:0,DE Sky Select 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2330.ts
+#EXTINF:0,DE Sky Select 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2331.ts
+#EXTINF:0,DE Sky Select 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2332.ts
+#EXTINF:0,DE Sky Select 8
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2333.ts
+#EXTINF:0,DE Sky Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/284.ts
+#EXTINF:0,DE Sky Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/285.ts
+#EXTINF:0,DE Sport Time 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2714.ts
+#EXTINF:0,DE Sport Time 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2715.ts
+#EXTINF:0,DE Sport Time 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2716.ts
+#EXTINF:0,DE Sport Time 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2784.ts
+#EXTINF:0,DE Sport Time 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2717.ts
+#EXTINF:0,DE Sport Time 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2718.ts
+#EXTINF:0,DE Sport Time 7
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2719.ts
+#EXTINF:0,DE Sport1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2826.ts
+#EXTINF:0,DE Sport1+
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2827.ts
+#EXTINF:0,DE SRF 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2833.ts
+#EXTINF:0,DE SRF 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2834.ts
+#EXTINF:0,DE SRF Info
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1612.ts
+#EXTINF:0,DE Super RTL
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/279.ts
+#EXTINF:0,DE SWR
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2893.ts
+#EXTINF:0,DE SyFy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2647.ts
+#EXTINF:0,DE Tagesschau 24
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2837.ts
+#EXTINF:0,DE Tele Zuri
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2895.ts
+#EXTINF:0,DE TNT Film
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2646.ts
+#EXTINF:0,DE TNT Serie
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2645.ts
+#EXTINF:0,DE Viva / Comedy Central
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2178.ts
+#EXTINF:0,DE VOX
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/241.ts
+#EXTINF:0,DE Wdr
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2723.ts
+#EXTINF:0,DE ZDF
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/238.ts
+#EXTINF:0,DE ZDF Info
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2819.ts
+#EXTINF:0,DE ZDF Kultur
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2260.ts
+#EXTINF:0,DE ZDF Neo
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2435.ts
+#EXTINF:0,UK 3e
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1335.ts
+#EXTINF:0,UK 5 Star
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/693.ts
+#EXTINF:0,UK 5 USA
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/687.ts
+#EXTINF:0,UK Alibi
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1332.ts
+#EXTINF:0,UK Animal Planet
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/579.ts
+#EXTINF:0,UK At The Races
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/577.ts
+#EXTINF:0,UK BBC 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/526.ts
+#EXTINF:0,UK BBC 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/527.ts
+#EXTINF:0,UK BBC 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/528.ts
+#EXTINF:0,UK BBC 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/529.ts
+#EXTINF:0,UK BBC World News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2349.ts
+#EXTINF:0,UK Bloomberg
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/711.ts
+#EXTINF:0,UK Boxnation
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/700.ts
+#EXTINF:0,UK BT Sports 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/522.ts
+#EXTINF:0,UK BT Sports 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/523.ts
+#EXTINF:0,UK BT Sport ESPN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3141.ts
+#EXTINF:0,UK BT Sport 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3131.ts
+#EXTINF:0,UK BT Sport 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3132.ts
+#EXTINF:0,UK CBS Action
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3123.ts
+#EXTINF:0,UK CBS Drama
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3154.ts
+#EXTINF:0,UK CBS Reality
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3113.ts
+#EXTINF:0,UK Channel 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1496.ts
+#EXTINF:0,UK Channel 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/845.ts
+#EXTINF:0,UK Chelsea FC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/551.ts
+#EXTINF:0,UK CNN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/704.ts
+#EXTINF:0,UK Comedy Central
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/539.ts
+#EXTINF:0,UK Comedy Central Extra
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3114.ts
+#EXTINF:0,UK Crime & Investigation
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/709.ts
+#EXTINF:0,UK Dave
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/589.ts
+#EXTINF:0,UK Discovery Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/580.ts
+#EXTINF:0,UK Discovery History
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/581.ts
+#EXTINF:0,UK Discovery Home
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3122.ts
+#EXTINF:0,UK Discovery Science
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/582.ts
+#EXTINF:0,UK Discovery Shed
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3121.ts
+#EXTINF:0,UK Discovery Turbo
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3120.ts
+#EXTINF:0,UK Disney Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/555.ts
+#EXTINF:0,UK Disney Junior
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1739.ts
+#EXTINF:0,UK Disney XD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3119.ts
+#EXTINF:0,UK Dmax
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/561.ts
+#EXTINF:0,UK Drama
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1732.ts
+#EXTINF:0,UK E4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/553.ts
+#EXTINF:0,UK ESPN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/710.ts
+#EXTINF:0,UK Eurosport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/697.ts
+#EXTINF:0,UK Eurosport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/698.ts
+#EXTINF:0,UK Film 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/541.ts
+#EXTINF:0,UK Five
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/542.ts
+#EXTINF:0,UK Flava
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1735.ts
+#EXTINF:0,UK Food Network
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1336.ts
+#EXTINF:0,UK Gold
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1334.ts
+#EXTINF:0,UK History Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/554.ts
+#EXTINF:0,UK ITV 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/546.ts
+#EXTINF:0,UK ITV 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/545.ts
+#EXTINF:0,UK ITV 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/544.ts
+#EXTINF:0,UK ITV 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/543.ts
+#EXTINF:0,UK ITV Be
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3118.ts
+#EXTINF:0,UK ITV Encore
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3117.ts
+#EXTINF:0,UK Liverpool FC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/548.ts
+#EXTINF:0,UK Magic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1734.ts
+#EXTINF:0,UK Manchester United FC
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1852.ts
+#EXTINF:0,UK More 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1333.ts
+#EXTINF:0,UK Motors TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/699.ts
+#EXTINF:0,UK Movies 4 Men +1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3115.ts
+#EXTINF:0,UK MTV Classic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1737.ts
+#EXTINF:0,UK MTV Hits
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/556.ts
+#EXTINF:0,UK MTV Music
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/540.ts
+#EXTINF:0,UK National Geographic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/706.ts
+#EXTINF:0,UK National Geographic Wild
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/707.ts
+#EXTINF:0,UK Nickelodeon
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1738.ts
+#EXTINF:0,UK Nicktoons
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/563.ts
+#EXTINF:0,UK Quest
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1733.ts
+#EXTINF:0,UK Racing UK
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1338.ts
+#EXTINF:0,UK RTE 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/564.ts
+#EXTINF:0,UK RTE 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/565.ts
+#EXTINF:0,UK Pick TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3116.ts
+#EXTINF:0,UK Setanta Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/524.ts
+#EXTINF:0,UK Sky Arts 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1736.ts
+#EXTINF:0,UK Sky Atlantic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/549.ts
+#EXTINF:0,UK Sky Living UK
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/552.ts
+#EXTINF:0,UK Sky Movies Action
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/531.ts
+#EXTINF:0,UK Sky Movies Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/530.ts
+#EXTINF:0,UK Sky Movies Drama
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/532.ts
+#EXTINF:0,UK Sky Movies Family
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/533.ts
+#EXTINF:0,UK Sky Movies Modern Greats
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1729.ts
+#EXTINF:0,UK Sky Movies Premiere
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/536.ts
+#EXTINF:0,UK Sky Movies Scifi / Horror
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/537.ts
+#EXTINF:0,UK Sky Movies Showcase
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3092.ts
+#EXTINF:0,UK Sky Movies Select
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1730.ts
+#EXTINF:0,UK Sky Movies Thriller
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/538.ts
+#EXTINF:0,UK SKY News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/703.ts
+#EXTINF:0,UK Sky One
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/535.ts
+#EXTINF:0,UK Sky Premiere Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/547.ts
+#EXTINF:0,UK Sky Sports 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/670.ts
+#EXTINF:0,UK Sky Sports 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/671.ts
+#EXTINF:0,UK Sky Sports 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/519.ts
+#EXTINF:0,UK Sky Sports 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/520.ts
+#EXTINF:0,UK Sky Sports 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/672.ts
+#EXTINF:0,UK Sky Sports F1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/369.ts
+#EXTINF:0,UK Sky Sports 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3126.ts
+#EXTINF:0,UK Sky Sports 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3127.ts
+#EXTINF:0,UK Sky Sports 3 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3128.ts
+#EXTINF:0,UK Sky Sports 4 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3129.ts
+#EXTINF:0,UK Sky Sports 5 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3130.ts
+#EXTINF:0,UK Sky Sports F1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3093.ts
+#EXTINF:0,UK Sky Sports News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/521.ts
+#EXTINF:0,UK Sky Two
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/557.ts
+#EXTINF:0,UK SyFy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/568.ts
+#EXTINF:0,UK TG 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/570.ts
+#EXTINF:0,UK The Vault
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1731.ts
+#EXTINF:0,UK Travel Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/578.ts
+#EXTINF:0,UK True Drama
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3125.ts
+#EXTINF:0,UK True Movies 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/534.ts
+#EXTINF:0,UK True Movies 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3124.ts
+#EXTINF:0,UK TV 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/569.ts
+#EXTINF:0,UK VH1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1359.ts
+#EXTINF:0,UK Vivo 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/572.ts
+#EXTINF:0,UK Vivo 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/571.ts
+#EXTINF:0,UK Vivo 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/573.ts
+#EXTINF:0,UK Watch
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/3091.ts
+#EXTINF:0,UK Yesterday
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2348.ts
+#EXTINF:0,SPORTS Arena sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/364.ts
+#EXTINF:0,SPORTS Arena sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/365.ts
+#EXTINF:0,SPORTS Arena sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/366.ts
+#EXTINF:0,SPORTS Arena sport 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/367.ts
+#EXTINF:0,SPORTS Arena Sport 1 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1778.ts
+#EXTINF:0,SPORTS Arena Sport 2 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1779.ts
+#EXTINF:0,SPORTS Arena Sport 3 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1780.ts
+#EXTINF:0,SPORTS Arena Sport 4 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1781.ts
+#EXTINF:0,SPORTS Astro Supersport 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1203.ts
+#EXTINF:0,SPORTS Astro Supersport 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1204.ts
+#EXTINF:0,SPORTS Astro Supersport 3 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1205.ts
+#EXTINF:0,SPORTS Astro Supersport 4 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2636.ts
+#EXTINF:0,SPORTS LIG TV1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/659.ts
+#EXTINF:0,SPORTS LIG TV2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/660.ts
+#EXTINF:0,SPORTS LIG TV3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/661.ts
+#EXTINF:0,SPORTS BIG TEN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2309.ts
+#EXTINF:0,SPORTS Digi Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1206.ts
+#EXTINF:0,SPORTS Digi Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1207.ts
+#EXTINF:0,SPORTS Digi Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1208.ts
+#EXTINF:0,SPORTS CTH Stadium 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/663.ts
+#EXTINF:0,SPORTS CTH Stadium 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/664.ts
+#EXTINF:0,SPORTS CTH Stadium 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/665.ts
+#EXTINF:0,SPORTS CTH Stadium 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/666.ts
+#EXTINF:0,SPORTS CTH Stadium 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/667.ts
+#EXTINF:0,SPORTS CTH Stadium 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/668.ts
+#EXTINF:0,SPORTS CTH Stadium
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/669.ts
+#EXTINF:0,SPORTS NBA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/662.ts
+#EXTINF:0,SPORTS OSN Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1000.ts
+#EXTINF:0,SPORTS Smart Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/370.ts
+#EXTINF:0,SPORTS Sport Klub 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/656.ts
+#EXTINF:0,SPORTS Sport Klub 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/657.ts
+#EXTINF:0,SPORTS Sport Klub 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/658.ts
+#EXTINF:0,SPORTS Sport Klub 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1557.ts
+#EXTINF:0,SPORTS Sport TV 1 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1157.ts
+#EXTINF:0,SPORTS Sport TV 2 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1158.ts
+#EXTINF:0,SPORTS Sport TV 3 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1159.ts
+#EXTINF:0,SPORTS VIASAT Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1164.ts
+#EXTINF:0,SPORTS VIASAT Football
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1165.ts
+#EXTINF:0,SPORTS SuperSport News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1476.ts
+#EXTINF:0,SPORTS Silk Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1160.ts
+#EXTINF:0,SPORTS Silk Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1161.ts
+#EXTINF:0,SPORTS Silk Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1162.ts
+#EXTINF:0,SPORTS Silk Sport 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1163.ts
+#EXTINF:0,SPORTS Hunting-Fishing
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1531.ts
+#EXTINF:0,SPORTS Hunting-Fishing
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1529.ts
+#EXTINF:0,FR 13 eme Rue
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2779.ts
+#EXTINF:0,FR 6TER
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1548.ts
+#EXTINF:0,FR AB1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2557.ts
+#EXTINF:0,FR Animaux
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2917.ts
+#EXTINF:0,FR Arte
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1357.ts
+#EXTINF:0,FR Bein Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1773.ts
+#EXTINF:0,FR Bein Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1774.ts
+#EXTINF:0,FR Bein Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2900.ts
+#EXTINF:0,FR BFMTV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1356.ts
+#EXTINF:0,FR Boing
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1601.ts
+#EXTINF:0,FR Canal+
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/602.ts
+#EXTINF:0,FR Canal+ Cinema
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/601.ts
+#EXTINF:0,FR Canal+ Comedy
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2899.ts
+#EXTINF:0,FR Canal+ Decale
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/605.ts
+#EXTINF:0,FR Canal+ Emotion
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1355.ts
+#EXTINF:0,FR Canal+ Family
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/604.ts
+#EXTINF:0,FR Canal+ Infosport
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/606.ts
+#EXTINF:0,FR Canal+ Series
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2780.ts
+#EXTINF:0,FR Canal+ Sport
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/600.ts
+#EXTINF:0,FR Cartoon Network
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/599.ts
+#EXTINF:0,FR Chasse e Peche
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1527.ts
+#EXTINF:0,FR Cine Etoilie
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2778.ts
+#EXTINF:0,FR Cine Fil
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2777.ts
+#EXTINF:0,FR Cine+ Classic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1358.ts
+#EXTINF:0,FR Cine+ Club
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2901.ts
+#EXTINF:0,FR Cine+ Emotion
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1538.ts
+#EXTINF:0,FR Cine+ Famiz
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1539.ts
+#EXTINF:0,FR Cine+ Frisson
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1537.ts
+#EXTINF:0,FR Cine+ Premier
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1352.ts
+#EXTINF:0,FR Club 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2776.ts
+#EXTINF:0,FR Comedy Plus
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/595.ts
+#EXTINF:0,FR D17
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/594.ts
+#EXTINF:0,FR D8
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/593.ts
+#EXTINF:0,FR Disney Channel
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1602.ts
+#EXTINF:0,FR Disney Cine Magic
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2909.ts
+#EXTINF:0,FR E!
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1600.ts
+#EXTINF:0,FR Enorme
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2775.ts
+#EXTINF:0,FR Euronews
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2781.ts
+#EXTINF:0,FR Eurosport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1183.ts
+#EXTINF:0,FR Eurosport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1184.ts
