@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:0,NBA Tv
+rtmp://$OPT:rtmp-raw=rtmpe://146.185.31.234:1935/redirect
+playpath=nbatv swfUrl=http://cdn.watchjsc.us/jwplayer.swf
+pageUrl=http://cdn.watchjsc.us/embed.php?u=nbatv&vw=640&vh=460&domain=funkeysports.com
+live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
+ 
+#EXTINF:0,NBA TV HD
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/
+playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf
+live=schuster92 pageUrl=http://04stream.com/
+ 
+#EXTINF:0,NBA TV HD 2
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.157:1935/stream/
+playpath=y8m0NU0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf
+live=1 pageUrl=http://www.04stream.com/
+ 
+#EXTINF:0,USA – ESPN
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/
+playpath=46terg.stream swfUrl=http://04stream.com/p/stv39/boopo.swf
+live=1
+pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
+ 
+#EXTINF:0,USA – ESPNb
+rtmp://$OPT:rtmp-raw=rtmp://31.7.58.250:1935/stream/
+playpath=42q5retrgh.stream swfUrl=http://04stream.com/p/stv39/boopo.swf
+live=1
+pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPNb
+ 
+#EXTINF:0,USA – NBA TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/
+playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/stv39/boopo.swf
+live=1
 
 #EXTINF:0,NBA Basketball
 http://2co1.vp9.tv/chn/nba/v.m3u8
