@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0,NBA Basketball
+http://2co1.vp9.tv/chn/nba/v.m3u8
+
 #EXTINF:0,FightBox HD 
 http://serv19.vintera.tv:8081/boxhd/FightboxHD_POL/playlist.m3u8
 
