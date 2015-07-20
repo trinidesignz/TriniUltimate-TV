@@ -1,161 +1,600 @@
-#EXTINF:-1,Pink Premium
-http://tinyurl.com/n9gbapx
-#EXTINF:-1,Pink Comedy
-http://tinyurl.com/qyppbu8
-#EXTINF:-1,Pink Action 2
-http://tinyurl.com/q7umoqn
-#EXTINF:-1,Pink Action 3
-http://tinyurl.com/ox3ot77
-#EXTINF:-1,Pink Film
-http://tinyurl.com/p59gg2l
-#EXTINF:-1,Pink Movies 2
-http://tinyurl.com/qaugdkb
-#EXTINF:-1,Pink Movies 3
-http://tinyurl.com/qhaqwsj
-#EXTINF:-1,Cine Max
-http://tinyurl.com/pxmse6v
-#EXTINF:-1,Cinestar Action
-http://tinyurl.com/p3ologd
-#EXTINF:-1,Cinestar
-http://tinyurl.com/oyf62ug
-#EXTINF:-1,Animal Planet
-http://tinyurl.com/pal7flr
-#EXTINF:-1,Viasat Nature
-http://tinyurl.com/q62bhxw
-#EXTINF:-1,Viasat History
-http://tinyurl.com/pzljomt
-#EXTINF:-1,Nat Geo 
-http://tinyurl.com/pyg947w
-#EXTINF:-1,Discovery
-http://tinyurl.com/ofsp9ru
-#EXTINF:-1,Id Extra
-http://tinyurl.com/ope6k5w
-#EXTINF:-1,Tlc
-http://tinyurl.com/ombh4xg
-#EXTINF:-1,Axn Spin
-http://tinyurl.com/qe5jkdt
-#EXTINF:-1,Axn
-http://tinyurl.com/qb6te7y
-#EXTINF:-1,Scfi
-http://tinyurl.com/qf7h55j
-#EXTINF:-1,Fox Crime
-http://tinyurl.com/pgl22ws
-#EXTINF:-1,Fox Life
-http://tinyurl.com/q25vot9
-#EXTINF:-1,Fox
-http://tinyurl.com/ofd3osj
-#EXTINF:-1,Hbo Comedy
-http://tinyurl.com/ngx4b9v
-#EXTINF:-1,Pink and Roll 
-http://tinyurl.com/nmu8a8p
-#EXTINF:-1,Pink Music 3
-http://tinyurl.com/oblpd4s
-#EXTINF:-1,Pink Live
-http://tinyurl.com/nrysb5v
-#EXTINF:-1 group-title="SKANDINAV",S SPORT VIASAT FOTBOOL
-http://188.138.9.228:8033
-#EXTINF:-1,Sky Bundesliga
-http://tinyurl.com/o6sggme
-#EXTINF:-1,Bbc 1 UK
-http://tinyurl.com/nkjf548
-#EXTINF:-1,Bbc2 UK
-http://tinyurl.com/qxvdtrx
-#EXTINF:-1,Itv 1 UK
-http://tinyurl.com/oou4bzf
-#EXTINF:-1,Itv 2 UK
-http://tinyurl.com/ohr8nsv
-#EXTINF:-1,Itv 3 UK
-http://tinyurl.com/o59fb5p
-#EXTINF:-1,Itv 4 UK
-http://tinyurl.com/p2sakub
-#EXTINF:-1,Sky Movie Premiere
-http://tinyurl.com/oa2o7l6
-#EXTINF:-1,Sky Movie Action & Adventure
-http://tinyurl.com/ozzqdqy
-#EXTINF:-1,Sky Movie Comedy
-http://tinyurl.com/naw8gy4
-#EXTINF:-1,Sky Movie Crime & Thriller
-http://tinyurl.com/pupdws5
-#EXTINF:-1,Sky Movie Drama
-http://tinyurl.com/nwnpzu7
-#EXTINF:-1,Sky Movie Family
-http://tinyurl.com/oe3j8ag
-#EXTINF:-1,Sky Movie Modern Greats
-http://tinyurl.com/pzf4kko
-#EXTINF:-1,Sky Movie SciFi & Horror
-http://tinyurl.com/oe9yq4g
-#EXTINF:0,24/7 HD Movies 1
-http://tinyurl.com/ojb2h8d
-#EXTINF:0,24/7 HD Movies 2
-http://tinyurl.com/qy6amzb
-#EXTINF:0, DW Europa
-http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
-................................
-#EXTINF:-1,ID (EN)
-http://80.77.52.6:3917/udp/226.0.3.1:12345
-#EXTINF:-1,CN (EN)
-http://80.77.52.6:3917/udp/226.0.3.2:12345
-#EXTINF:-1,Disc. World (EN)
-http://80.77.52.6:3917/udp/226.0.3.3:12345
-#EXTINF:-1,Disc. Sc. (EN)
-http://80.77.52.6:3917/udp/226.0.3.4:12345
-#EXTINF:-1,AMC (EN)
-http://80.77.52.6:3917/udp/226.0.3.5:12345
-#EXTINF:-1,CBS Reality (EN)
-http://80.77.52.6:3917/udp/226.0.3.6:12345
-#EXTINF:-1,Extreme Sports (EN)
-http://80.77.52.6:3917/udp/226.0.3.7:12345
-#EXTINF:-1,Jim Jam (EN)
-http://80.77.52.6:3917/udp/226.0.3.8:12345
-#EXTINF:-1,Disc. Ch. (EN)
-http://80.77.52.6:3917/udp/226.0.3.17:12345
-#EXTINF:-1,Nick Jr. (EN)
-http://80.77.52.6:3917/udp/226.0.3.18:12345
-#EXTINF:-1,Animal Planet (EN)
-http://80.77.52.6:3917/udp/226.0.3.19:12345
-#EXTINF:-1,TLC (EN)
-http://80.77.52.6:3917/udp/226.0.3.20:12345
-#EXTINF:-1,Eurosport (EN)
-http://80.77.52.6:3917/udp/226.0.3.21:12345
-#EXTINF:-1,Nat Geo Wild (EN)
-http://80.77.52.6:3917/udp/226.0.3.23:12345
-#EXTINF:-1,NGC (EN)
-http://80.77.52.6:3917/udp/226.0.3.24:12345
-#EXTINF:-1,Fox (EN)
-http://80.77.52.6:3917/udp/226.0.7.13:12345
-#EXTINF:-1,MTV Rocks
-http://80.77.52.6:3917/udp/226.0.7.15:12345
-#EXTINF:-1,Fox Life (EN)
-http://80.77.52.6:3917/udp/226.0.7.16:12345
-#EXTINF:-1,MTV Hits
-http://80.77.52.6:3917/udp/226.0.7.17:12345
-#EXTINF:-1,Fine Living (EN)
-http://80.77.52.6:3917/udp/226.0.7.24:12345
-#EXTINF:-1,Al Jazeera
-http://80.77.52.6:3917/udp/226.0.1.4:12345
-#EXTINF:-1,CCTV News
-http://80.77.52.6:3917/udp/226.0.1.5:12345
-#EXTINF:-1,WF HD
-http://80.77.52.6:3917/udp/226.0.1.10:12345
-#EXTINF:-1,DW
-http://80.77.52.6:3917/udp/226.0.1.17:12345
-#EXTINF:-1,Rai Sport2
-http://80.77.52.6:3917/udp/226.0.1.25:12345
-#EXTINF:-1,France 24
-http://80.77.52.6:3917/udp/226.0.1.33:12345
-#EXTINF:-1,France 24 (EN)
-http://80.77.52.6:3917/udp/226.0.1.34:12345
-#EXTINF:-1,Fashion TV HD
-http://80.77.52.6:3917/udp/226.0.1.41:12345
-#EXTINF:-1,Fashion TV
-http://80.77.52.6:3917/udp/226.0.1.42:12345
-#EXTINF:-1,Bloomberg
-http://80.77.52.6:3917/udp/226.0.1.49:12345
-#EXTINF:-1,TV5 Monde FBS
-http://80.77.52.6:3917/udp/226.0.1.50:12345
-#EXTINF:-1,Tv5 Monde Europe
-http://80.77.52.6:3917/udp/226.0.1.51:12345
-#EXTINF:-1,NHK World
-http://80.77.52.6:3917/udp/226.0.1.52:12345
-#EXTINF:-1,Fashion One
-http://80.77.52.6:3917/udp/226.0.1.61:12345
+#EXTM3U
+#EXTINF:0,Sky Sport 24
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_24
+#EXTINF:0,Sky Sport 24 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Sport_24
+#EXTINF:0,Sky Sport 1
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_1
+#EXTINF:0,Sky Sports 1 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sports_1_HD
+#EXTINF:0,Sky Sport 2
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_2
+#EXTINF:0,Sky Sports 2 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sports_2_HD
+#EXTINF:0,Sky Sport 3
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_3_Italy
+#EXTINF:0,Sky Sport 3 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Sport_3_HD
+#EXTINF:0,Sky SuperCalcio
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_SuperCalcio
+#EXTINF:0,Sky Supercalcio HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Supercalcio
+#EXTINF:0,Sky Sport Plus
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_Plus
+#EXTINF:0,Sky Sport F1
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_F1
+#EXTINF:0,Sky Sport F1 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Sport_F1
+#EXTINF:0,Sky Sport Moto GP
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_Moto_GP
+#EXTINF:0,Sky Moto GP HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Moto_GP
+#EXTINF:0,Eurosport Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Eurosport_Italia
+#EXTINF:0,Eurosport 2 Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Eurosport2_Italia
+#EXTINF:0,Eurosport
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Eurosport
+#EXTINF:0,Eurosport 2
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Eurosport_2
+#EXTINF:0,Eurosport 2 North-East
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Eurosport_2_NE
+#EXTINF:0,Poker Italia 24
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Poker_Italia_24
+#EXTINF:0,Rai Sport 1
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Sport_1
+#EXTINF:0,Rai Sport 2
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Sport_2
+#EXTINF:0,Automoto TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Automoto_TV
+#EXTINF:0,SuperTennis HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Super_Tennis_HD
+#EXTINF:0,Class Horse TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Class_Horse_TV
+#EXTINF:0,Milan Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Milan_Channel
+#EXTINF:0,Inter Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Inter_Channel
+#EXTINF:0,Juventus TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Juventus_TV
+#EXTINF:0,Roma TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Roma_TV
+#EXTINF:0,Lazio Style TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Lazio_Style_TV
+#EXTINF:0,Fox Sports Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Fox_Sports_Italia
+#EXTINF:0,Sky Calcio 1
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_1
+#EXTINF:0,Calcio 1 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Calcio_1_HD
+#EXTINF:0,Premium Calcio 1 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Premium_Calcio_1
+#EXTINF:0,Sky Calcio 2
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_2
+#EXTINF:0,Sky Calcio 3
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_3
+#EXTINF:0,Sky Calcio 4
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_4
+#EXTINF:0,Sky Calcio 5
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_5
+#EXTINF:0,Sky Calcio 6
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_6
+#EXTINF:0,Sky Calcio 7
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_7
+#EXTINF:0,Sky Calcio 8
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Calcio_8
+#EXTINF:0,Sky Sport Active 1
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_Active_1
+#EXTINF:0,Sky Sport Active 2
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Sport_Active_2
+#EXTINF:0,National Geographic Channel Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/National_Geographic_Channel_Italia
+#EXTINF:0,National Geographic Channel Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/National_Geographic_Channel_Italia_+1
+#EXTINF:0,Nat Geo Wild Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nat_Geo_Wild_Italia
+#EXTINF:0,Nat Geo Wild Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nat_Geo_Wild_Italia_+1
+#EXTINF:0,Discovery Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Discovery_Channel
+#EXTINF:0,Discovery Channel Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Discovery_Channel_Italia_+1
+#EXTINF:0,Discovery Science Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Discovery_Science_Channel
+#EXTINF:0,Discovery World Italia
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Discovery_World
+#EXTINF:0,Focus
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Focus
+#EXTINF:0,DMAX Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/DMAX_Italia
+#EXTINF:0,DMAX Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/DMAX_Italia_+1
+#EXTINF:0,Animal planet/iptv Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Animal_planet/iptv_Italia
+#EXTINF:0,The History Channel Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/The_History_Channel_Italia
+#EXTINF:0,The History Channel Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/The_History_Channel_Italia_+1
+#EXTINF:0,Gambero Rosso Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Gambero_Rosso_Channel
+#EXTINF:0,Dove TV Italy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Dove_TV_Italy
+#EXTINF:0,Reteconomy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Reteconomy
+#EXTINF:0,Caccia e Pesca
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Caccia_e_Pesca
+#EXTINF:0,Caccia e Pesca +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Caccia_e_Pesca_+1
+#EXTINF:0,Italian Fishing TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Italian_Fishing_TV
+#EXTINF:0,Rai Storia
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Storia
+#EXTINF:0,Rai Scuola
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Scuola
+#EXTINF:0,Uninettuno University TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Uninettuno_University_TV
+#EXTINF:0,TG Architettura
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/TG_Architettura
+#EXTINF:0,AB Channel Italy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/AB_Channel_Italy
+#EXTINF:0,La 9
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/La_9
+#EXTINF:0,La Nuova TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/La_Nuova_TV
+#EXTINF:0,MD
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MD
+#EXTINF:0,New TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/New_TV_Italy
+#EXTINF:0,Orler Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Orler_Channel
+#EXTINF:0,La 8
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/La_8
+#EXTINF:0,Star Sat
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Star_Sat
+#EXTINF:0,Canale Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Canale_Italia
+#EXTINF:0,Roma Uno
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Roma_Uno
+#EXTINF:0,Teleitalia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Teleitalia
+#EXTINF:0,Telereporter
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Telereporter
+#EXTINF:0,Lazio TV Latina
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Lazio_TV_Latina
+#EXTINF:0,Telemontegiove
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Telemontegiove
+#EXTINF:0,Lombardia Sat
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Lombardia_Sat
+#EXTINF:0,Family TV Germany
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Family_TV_Germany
+#EXTINF:0,Canale 5
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Canale_5
+#EXTINF:0,MTV Live HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/MTV_Live_HD
+#EXTINF:0,MTV Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Italia
+#EXTINF:0,MTV Music Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Music_Italia
+#EXTINF:0,MTV Dance
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Dance
+#EXTINF:0,MTV Rocks
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Rocks
+#EXTINF:0,MTV Hits Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Hits_Italia
+#EXTINF:0,MTV Classic Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Classic_Italia
+#EXTINF:0,MTV Polska
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MTV_Polska
+#EXTINF:0,Viva Polska
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Viva_Polska
+#EXTINF:0,VH1 Polska
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/VH1_Polska
+#EXTINF:0,MyDeejay TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/MyDeejay_TV
+#EXTINF:0,Deejay TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Deejay_TV
+#EXTINF:0,Hip Hop TV Italy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Hip_Hop_TV_Italy
+#EXTINF:0,Rock TV Italy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Rock_TV_Italy
+#EXTINF:0,Radio Capital TiVu
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Radio_Capital_TiVu
+#EXTINF:0,Muzic TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Muzic_TV
+#EXTINF:0,Disney Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Disney_Channel
+#EXTINF:0,Disney Junior
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Disney_Junior
+#EXTINF:0,Disney XD Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Disney_XD_Italia
+#EXTINF:0,Cartoon Network Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Cartoon_Network_Italia
+#EXTINF:0,Premium Cartoon Network HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Premium_Cartoon_Network
+#EXTINF:0,Boomerang Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Boomerang_Italia
+#EXTINF:0,Nickelodeon Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nickelodeon_Italia
+#EXTINF:0,Nickelodeon Europe
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nickelodeon_Europe
+#EXTINF:0,Nick Jr Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nick_Jr_Italia
+#EXTINF:0,Nick Jr Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nick_Jr_Italia_+1
+#EXTINF:0,Nick Jr Polska
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Nick_Jr_Polska
+#EXTINF:0,JimJam Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/JimJam_Italia
+#EXTINF:0,JimJam Italia +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/JimJam_Italia_+1
+#EXTINF:0,Baby TV Europe
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Baby_TV_Europe
+#EXTINF:0,Dea Kids
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Dea_Kids
+#EXTINF:0,DeA Kids +1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/DeA_Kids_+1
+#EXTINF:0,DeA Junior
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/DeA_Junior
+#EXTINF:0,Man-Ga
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Man+Ga
+#EXTINF:0,Super!
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Super!
+#EXTINF:0,K2
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/K2
+#EXTINF:0,Frisbee
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Frisbee
+#EXTINF:0,Rai Yoyo
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Yoyo
+#EXTINF:0,Rai Gulp
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_Gulp
+#EXTINF:0,Boing Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Boing_Italia
+#EXTINF:0,Easy Baby
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Easy_Baby
+#EXTINF:0,Sky TG 24
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_TG_24
+#EXTINF:0,Sky Tg 24 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Sky_Tg_24
+#EXTINF:0,Sky Meteo 24
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_Meteo_24
+#EXTINF:0,CNN International
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/CNN_International
+#EXTINF:0,Class CNBC
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Class_CNBC
+#EXTINF:0,Fox News Channel
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Fox_News_Channel
+#EXTINF:0,Fox Business
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Fox_Business
+#EXTINF:0,Sky News International
+http://planetiptv-test.ddns.net:7088/hbird/skyit/planet/iptv/Sky_News_International
+#EXTINF:0,Rai News 24
+http://planetiptv-test.ddns.net:7088/hbird/tivu/planet/iptv/Rai_News_24
+#EXTINF:0,Senato TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Senato_TV
+#EXTINF:0,Camera dei Deputati
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Camera_dei_Deputati
+#EXTINF:0,TGCom 24
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/TGCom_24
+#EXTINF:0,90 numeri sat
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/90_numeri_sat
+#EXTINF:0,QVC Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/QVC_Italia
+#EXTINF:0,HSE 24 Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/HSE_24_Italia
+#EXTINF:0,Primafila 1 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_1
+#EXTINF:0,Primafila 2 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_2
+#EXTINF:0,Primafila 3 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_3
+#EXTINF:0,Primafila 4 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_4
+#EXTINF:0,Primafila 5 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_5
+#EXTINF:0,Primafila 6 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_6
+#EXTINF:0,Primafila 7 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_7
+#EXTINF:0,Primafila 8 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_8
+#EXTINF:0,Primafila 9 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_9
+#EXTINF:0,Primafila 10 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_10
+#EXTINF:0,Primafila 11 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_11
+#EXTINF:0,Primafila 12 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_12
+#EXTINF:0,Primafila 13 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_13
+#EXTINF:0,Primafila 14 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_14
+#EXTINF:0,Primafila 15 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_15
+#EXTINF:0,Primafila 16 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_16
+#EXTINF:0,Primafila 17 HD
+http://planetiptv-test.ddns.net:7088/hdtv/relay/it/planet/iptv/Primafila_17
+#EXTINF:0,Das Erste
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Das_Erste
+#EXTINF:0,France 24 Francais
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/France_24_Francais
+#EXTINF:0,France 24 English
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/France_24_English
+#EXTINF:0,RT English HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/RT_English_HD
+#EXTINF:0,RT D HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/RT_D_HD
+#EXTINF:0,Telepace HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Telepace_HD
+#EXTINF:0,BBC Brit Polska HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/BBC_Brit_Polska_HD
+#EXTINF:0,KBS World
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/KBS_World
+#EXTINF:0,ARTE Francais
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/ARTE_FranÁais
+#EXTINF:0,ITV Poland
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/ITV_Poland
+#EXTINF:0,Tele 5 Poland
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Tele_5_Poland
+#EXTINF:0,Polonia 1
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Polonia_1
+#EXTINF:0,Water planet/iptv
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Water_planet/iptv
+#EXTINF:0,Novela TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Novela_TV
+#EXTINF:0,Antichita Chiossone
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Antichita_Chiossone
+#EXTINF:0,TVA Vicenza
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/TVA_Vicenza
+#EXTINF:0,ITV Italia
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/ITV_Italia
+#EXTINF:0,5 Sat
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/5_Sat
+#EXTINF:0,Sky 1 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_1_UK
+#EXTINF:0,Sky 1 UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1
+#EXTINF:0,Sky 2 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_2_UK
+#EXTINF:0,Pick UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Pick_UK
+#EXTINF:0,Pick UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Pick_UK_+1
+#EXTINF:0,More 4 Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/More_4_Ireland
+#EXTINF:0,Channel 4 Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Channel_4_Ireland
+#EXTINF:0,Channel 4 Ireland +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Channel_4_Ireland_+1
+#EXTINF:0,E4 Ireland +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/E4_Ireland_+1
+#EXTINF:0,E4 Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/E4_Ireland
+#EXTINF:0,Sky Atlantic HD UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Atlantic_UK
+#EXTINF:0,Sky Atlantic UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Atlantic_UK_+1
+#EXTINF:0,Sky Atlantic HD Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Atlantic_HD_Ireland
+#EXTINF:0,Community Channel
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Community_Channel
+#EXTINF:0,Discovery Channel UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Channel_UK
+#EXTINF:0,Animal planet/iptv Europe
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Animal_planet/iptv_Europe
+#EXTINF:0,Discovery Channel UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Channel_UK_+1
+#EXTINF:0,Discovery Science Channel UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Science_Channel_UK
+#EXTINF:0,Discovery History
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_History
+#EXTINF:0,Discovery Home&Health UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Home_-_Health_UK
+#EXTINF:0,Discovery Turbo UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Turbo_UK
+#EXTINF:0,Discovery Channel Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Discovery_Channel_Ireland
+#EXTINF:0,Investigation Discovery Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Investigation_Discovery_Ireland
+#EXTINF:0,TLC UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/TLC_UK
+#EXTINF:0,TLC Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/TLC_Ireland
+#EXTINF:0,Sky Living UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Living_UK
+#EXTINF:0,Sky Living UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Living_UK_+1
+#EXTINF:0,Sky Living Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Living_Ireland
+#EXTINF:0,Lifetime UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Lifetime_UK
+#EXTINF:0,Sky Arts
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Arts
+#EXTINF:0,Fox UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Fox_UK
+#EXTINF:0,Fox UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Fox_UK_+1
+#EXTINF:0,Comedy Central UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Comedy_Central_UK
+#EXTINF:0,Comedy Central Extra UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Comedy_Central_Extra_UK
+#EXTINF:0,TCM UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/TCM_UK
+#EXTINF:0,Sky Movies Showcase UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Showcase_HD
+#EXTINF:0,Sky Movies Action&Adventure UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Action-Adventure_UK
+#EXTINF:0,Sky Movies Comedy UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Comedy_UK
+#EXTINF:0,Sky Movies Sci-Fi&Horror UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Sci-Fi-Horror_UK
+#EXTINF:0,Sky Movies Select UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Select_UK
+#EXTINF:0,Sky Movies Disney UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Disney_UK
+#EXTINF:0,Sky Movies Family UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Family_UK
+#EXTINF:0,Sky Movies Premiere UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK
+#EXTINF:0,Sky Movies Premiere UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK_+1
+#EXTINF:0,Sky Movies Crime&Thriller UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Crime-Thriller_UK
+#EXTINF:0,Sky Movies Drama&Romance UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Drama-Romance_UK
+#EXTINF:0,Sky Movies Greats UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Movies_Greats_UK
+#EXTINF:0,Movies4Men
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Movies4Men
+#EXTINF:0,Sony Movie Channel UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK
+#EXTINF:0,Movies4Men +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Movies4Men-+1
+#EXTINF:0,Sony Movie Channel UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK-+1
+#EXTINF:0,PBS America
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/PBS_America
+#EXTINF:0,Sky Sports News HQ UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/new/Sky_Sports_2_UK
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_Sports_F1
+#EXTINF:0,BT Sport 1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/BT_Sport_1
+#EXTINF:0,BT Sport 2
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/BT_Sport_2
+#EXTINF:0,BT Sport ESPN
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/BT_Sport_ESPN
+#EXTINF:0,BT Sport Extra
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/BT_Sport_Extra
+#EXTINF:0,Chelsea TV
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Chelsea_TV
+#EXTINF:0,Racing UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Racing_UK
+#EXTINF:0,Motors TV UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Motors_TV_UK
+#EXTINF:0,British _Eurosport
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/British_Eurosport
+#EXTINF:0,British Eurosport 2
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/British_Eurosport_2
+#EXTINF:0,Setanta Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Setanta-Ireland
+#EXTINF:0,Premier Sports
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Premier-Sports
+#EXTINF:0,MTV UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-UK
+#EXTINF:0,VH1 UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/VH1-UK
+#EXTINF:0,MTV Rocks UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Rocks-UK
+#EXTINF:0,MTV UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-UK-+1
+#EXTINF:0,MTV Hits UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Hits-UK
+#EXTINF:0,MTV Base UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Base-UK
+#EXTINF:0,MTV Classic UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Classic-UK
+#EXTINF:0,Viva UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Viva-UK
+#EXTINF:0,MTV Music UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Music-UK
+#EXTINF:0,MTV Dance UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/MTV-Dance-UK
+#EXTINF:0,4Music
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/4Music
+#EXTINF:0,The Box UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/The_Box_UK
+#EXTINF:0,Kiss
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Kiss
+#EXTINF:0,Kerrang!
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Kerrang!
+#EXTINF:0,Smash! Hits TV
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Smash!_Hits_TV
+#EXTINF:0,Quest
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Quest
+#EXTINF:0,Cartoonito UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Cartoonito_UK
+#EXTINF:0,Disney XD UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_XD_UK
+#EXTINF:0,Disney Channel UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_Channel_UK
+#EXTINF:0,Disney Junior UK
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_Junior_UK
+#EXTINF:0,Disney XD UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_XD_UK_+1
+#EXTINF:0,Disney Channel UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_Channel_UK_+1
+#EXTINF:0,Disney Junior UK +1
+http://planetiptv-test.ddns.net:7088/sdtv/uktv/planet/iptv/Disney_Junior_UK_+1
+#EXTINF:0,Sky News UK
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_News_UK
+#EXTINF:0,Sky News Ireland
+http://planetiptv-test.ddns.net:7088/sdtv/skyuk/planet/iptv/Sky_News_Ireland
+#EXTINF:0, C More Sport
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/C-More-Sport
+#EXTINF:0, FR beIN Sports 1 HD
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/BEIN-SPORTS-1-HD
+#EXTINF:0, FR beIN Sports 2 HD
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/BEIN-SPORTS-2-HD
+#EXTINF:0, FR NRJ 12
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/NRJ-12
+#EXTINF:0, FR TF1 HD
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/TF1-HD
+#EXTINF:0, FR France O
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/France-O
+#EXTINF:0, FR France 2
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/France-2
+#EXTINF:0, FR France 3
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/France-3
+#EXTINF:0, FR France 4
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/France-4
+#EXTINF:0, FR France 5
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/France-5
+#EXTINF:0, FR Arte
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/Arte
+#EXTINF:0, FR TMC
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/TMC
+#EXTINF:0, FR Syfy
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/Syfy
+#EXTINF:0, FR Cine Frisson
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/Cine-Frisson
+#EXTINF:0, FR Cine Premier
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/Cine-Premier
+#EXTINF:0, FR Cine Classic
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/Cine-Classic
+#EXTINF:0, FR CANAL+
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/CANAL+
+#EXTINF:0, FR BFMTV
+http://planetiptv-test.ddns.net:7088/relay/frtv/planet/iptv/BFMTV
+#EXTINF:0,Redlight HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Redlight_HD
+#EXTINF:0,Hustler HD
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Hustler_HD
+#EXTINF:0,SCT HD
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/SCT_HD
+#EXTINF:0,Exotica TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Exotica_TV
+#EXTINF:0,Boy&Boy
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Boy-Boy
+#EXTINF:0,Privee TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Privee_TV
+#EXTINF:0,***to Senso
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/***to_Senso
+#EXTINF:0,SCT HQ
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/SCT_HQ
+#EXTINF:0,Platinum TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Platinum_TV
+#EXTINF:0,Pink o TV
+http://planetiptv-test.ddns.net:7088/hbird/sdtv/planet/iptv/Pink_o_TV
+
