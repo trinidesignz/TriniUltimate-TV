@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,Super Tennis HD
-http://109.87.250.52:8888/udp/238.0.16.63:1234
-
-#EXTINF:0,ТЕННИС
-http://185.38.12.19:8090/ch-499/index.m3u8
-
-#EXTINF:0,ТЕННИС
-http://85.255.183.203:1234/udp/239.0.0.166:1234
-
-#EXTINF:0,ТЕННИС
-http://tv.yoooo.tv/onstream/R4Q93ZUT/142.m3u8
+#EXTINF:0,zipsports
+http://www4.zippyshare.com/v/Uywbwags/file.html
 
 #EXTINF:0,NBA Basketball
 http://2co1.vp9.tv/chn/nba/v.m3u8
