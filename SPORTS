@@ -12,6 +12,9 @@ http://serv19.vintera.tv:8081/boxhd/FightboxHD_POL/playlist.m3u8
 #EXTINF:-1,Big Ten Network HD
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
+#EXTINF:-1,Fox3
+http://stream.primetime.to/hls/foxhd.m3u8
+
 #EXTINF:-1,Fox (EN)
 http://ift.tt/1S09fIA
 
