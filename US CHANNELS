@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Discovery
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Channel_UK_+1?auth=test+test
 #EXTINF:0,FastnFunBox HD
 http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
 #EXTINF:0,DocuBox HD
