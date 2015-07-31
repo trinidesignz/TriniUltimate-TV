@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Bein Sports 1 (FR)
+#EXTINF:-1,Bein Sports 1 (FR)
 rtmp://176.10.250.166:1935/tv/stream3
 #EXTINF:-1,Bein Sports 2 (FR)
 rtmp://176.10.250.166:1935/tv/stream2
