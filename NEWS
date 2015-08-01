@@ -12,12 +12,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/134.m3u8
 #EXTINF:-1,CCTV NEWS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/216.m3u8
 
-#EXTINF:-1,MSNBC
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/37.m3u8
-
-#EXTINF:-1,FOX BUSINESS
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/42.m3u8
-
 #EXTINF:-1,DISCOVERY NEWS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/46.m3u8
 
