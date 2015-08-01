@@ -19,16 +19,14 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/50.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/135.m3u8
 #EXTINF:-1,Sesame Street
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/231.m3u8
-#EXTINF:-1,Travel
+#EXTINF:-1,Travel 1
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/235.m3u8
 #EXTINF:-1,Beach TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/236.m3u8
 #EXTINF:-1,KEY TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/237.m3u8
-#EXTINF:-1,Travel Tv 2
+#EXTINF:-1,NO TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/239.m3u8
-#EXTINF:-1,12
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/240.m3u8
 #EXTINF:0,FastnFunBox HD
 http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
 #EXTINF:0,DocuBox HD
@@ -454,5 +452,13 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/187.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/202.m3u8
 #EXTINF:-1,
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/206.m3u8
-#EXTINF:-1,TBN
+#EXTINF:-1,
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/207.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/210.m3u8
+#EXTINF:-1, CCTV NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/216.m3u8
+#EXTINF:-1, (CHINESE)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/219.m3u8
+#EXTINF:-1, FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/224.m3u8
