@@ -24,53 +24,29 @@ rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e301000
 #EXTINF:-1,News 12 Westchester
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
 
-#EXTINF:-1,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, NEWSMAX TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/9.m3u8
 
-#EXTINF:-1,CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/5.m3u8
 
-#EXTINF:1,CNN USA
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, BBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/134.m3u8
 
-#EXTINF:-1,CNN International
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, CCTV NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/216.m3u8
 
-#EXTINF:-1,MSNBC
-rtmp://198.255.0.18:443/live?DmDvtZbWkrLVCvguUA208sT0U5yiXYlQ/live_breakingnewsnow
+#EXTINF:-1, MSNBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/37.m3u8
 
-#EXTINF:-1,Al Jazeera
-http://ift.tt/1CiXyeB
+#EXTINF:-1, FOX BUSINESS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/42.m3u8
 
-#EXTINF:-1,Euronews
-http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
+#EXTINF:-1, DISCOVERY NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/46.m3u8
 
-#EXTINF:-1, i24 News (English)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
- 
-#EXTINF:-1,ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
- 
-#EXTINF:1,7 NEWS Miami
-http://wsvn.mpl.miisolutions.net:1935/wsvn-live01/_definst_/mp4:apple_med/playlist.m3u8
-
-#EXTINF:-1,Bbc World News
-http://tinyurl.com/m6v9477
-
-#EXTINF:-1,Sky News International
-http://tinyurl.com/oabmxrx
-
-#EXTINF:-1,Cnbc News
-http://tinyurl.com/nwdh2fo
+#EXTINF:-1, C SPAN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/80.m3u8
 
 #EXTINF:-1, Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-
-#EXTINF:-1, RT America
-http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
-
-#EXTINF:-1, CCTV
-http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/79.m3u8
