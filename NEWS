@@ -24,29 +24,32 @@ rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e301000
 #EXTINF:-1,News 12 Westchester
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
 
-#EXTINF:-1, NEWSMAX TV
+#EXTINF:-1,NEWSMAX TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/9.m3u8
 
-#EXTINF:-1, CNN
+#EXTINF:-1,CNN
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/5.m3u8
 
-#EXTINF:-1, BBC
+#EXTINF:-1,BBC
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/134.m3u8
 
-#EXTINF:-1, CCTV NEWS
+#EXTINF:-1,CCTV NEWS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/216.m3u8
 
-#EXTINF:-1, MSNBC
+#EXTINF:-1,MSNBC
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/37.m3u8
 
-#EXTINF:-1, FOX BUSINESS
+#EXTINF:-1,FOX BUSINESS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/42.m3u8
 
-#EXTINF:-1, DISCOVERY NEWS
+#EXTINF:-1,DISCOVERY NEWS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/46.m3u8
 
-#EXTINF:-1, C SPAN
+#EXTINF:-1,C SPAN
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/80.m3u8
 
-#EXTINF:-1, Bloomberg
+#EXTINF:-1,Bloomberg
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/79.m3u8
+
+#EXTINF:-1,Global News
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/241.m3u8
