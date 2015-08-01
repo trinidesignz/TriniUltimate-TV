@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,UK 1
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/232.m3u8
-#EXTINF:-1,Bein Sports 1 (FR)
-rtmp://176.10.250.166:1935/tv/stream3
-#EXTINF:-1,Bein Sports 2 (FR)
-rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1,Sky Movies
+http://pastebin.com/mbjDHMqQ
