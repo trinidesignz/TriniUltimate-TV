@@ -1,185 +1,4 @@
 #EXTM3U
-#EXTINF:-1,UK 1
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/232.m3u8
-#EXTINF:-1,Sky Movies
-http://pastebin.com/mbjDHMqQ
-#EXTINF:0,beIN1
-http://91.109.20.227:8080/TV4001
-#EXTINF:0,beIN2
-http://91.109.20.227:8080/TV4002
-#EXTINF:0,beIN3
-http://91.109.20.227:8080/TV4003
-#EXTINF:0,beIN4
-http://91.109.20.227:8080/TV4004
-#EXTINF:0,beIN5
-http://91.109.20.227:8080/TV4005
-#EXTINF:0,beIN6
-http://91.109.20.227:8080/TV4006
-#EXTINF:0,beIN7
-http://91.109.20.227:8080/TV4007
-#EXTINF:0,beIN8
-http://91.109.20.227:8080/TV4008
-#EXTINF:0,beIN9
-http://91.109.20.227:8080/TV4009
-#EXTINF:0,beIN10
-http://91.109.20.227:8080/TV40010
-#EXTINF:0,beIN11
-http://91.109.20.227:8080/TV40011
-#EXTINF:0,beIN12
-http://91.109.20.227:8080/TV40012
-#EXTINF:0,beIN13
-http://91.109.20.227:8080/TV40013
-#EXTINF:0,beIN14
-http://91.109.20.227:8080/TV40014
-#EXTINF:0,beIN15
-http://91.109.20.227:8080/TV40015
-#EXTINF:0,beIN1
-http://91.109.20.227:8080/TV0801
-#EXTINF:0,beIN2
-http://91.109.20.227:8080/TV0802
-#EXTINF:0,beIN3
-http://91.109.20.227:8080/TV0803
-#EXTINF:0,beIN4
-http://91.109.20.227:8080/TV0804
-#EXTINF:0,beIN5
-http://91.109.20.227:8080/TV0805
-#EXTINF:0,32 beIN 6 s2
-http://91.109.20.227:8080/TV4006
-#EXTINF:0,beIN7
-http://91.109.20.227:8080/TV0807
-#EXTINF:0,beIN8
-http://91.109.20.227:8080/TV0808
-#EXTINF:0,beIN9
-http://91.109.20.227:8080/TV0809
-#EXTINF:0,osn sport1 hd
-http://185.27.237.105:8082/TV0104
-#EXTINF:0,SKY SPORTS 1 HD
-rtmp://167.114.117.208/live/sky1v
-#EXTINF:0,SKY SPORTS 2 HD
-rtmp://167.114.117.208/live/sky2v
-#EXTINF:0,SKY SPORTS3 HD
-rtmp://167.114.117.208/live/sky3v
-#EXTINF:0,SKY SPORTS 4 HD
-rtmp://167.114.117.208/live/sky4v
-#EXTINF:0,SKY SPORTS 5 HD
-rtmp://167.114.117.208/live/sky5v
-#EXTINF:0,BT SPORTS 1 HD
-rtmp://167.114.117.208/live/bt1v
-#EXTINF:0,BT SPORTS 2 HD
-rtmp://167.114.117.208/live/bt2v
-#EXTINF:0,SETANTA IRELAND
-rtmp://167.114.117.208/live/sentav
-#EXTINF:0,RACING UK
-rtmp://167.114.117.208/live/racingukv
-#EXTINF:0,BOX NATION HD
-rtmp://167.114.117.208/live/skynationv
-#EXTINF:0,SKY NEWS HD
-rtmp://167.114.117.208/live/skynewsv
- 
-#EXTINF:0,Bein Sports 1 FR
-rtmp://176.10.250.166:1935/tv/stream3
-#EXTINF:0,Bein Sports 2 FR
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:0,Canal + Sport FR
-rtmp://176.10.250.166:1935/tv/stream4
-#EXTINF:0,Eurosport FR
-rtmp://176.10.250.166:1935/tv/stream1
-#EXTINF:0,BeinSportFrance1
-http://mbox-addon.com/streams/69690-navix.m3u8
-#EXTINF:0,BeinSportFrance2
-http://mbox-addon.com/streams/70466-navix.m3u8
-#EXTINF:0,BeinSportFrance3
-http://mbox-addon.com/streams/70729-navix.m3u8
-#EXTINF:0,BeinEspanol
-http://mbox-addon.com/streams/68873-navix.m3u8
-#EXTINF:0,BeinSportUSA
-http://mbox-addon.com/streams/68874-navix.m3u8
-#EXTINF:0,EuroSport2
-http://mbox-addon.com/streams/68724-navix.m3u8
-#EXTINF:0,EuroSport1
-http://mbox-addon.com/streams/68723-navix.m3u8
-#EXTINF:0, Sky Sport 1
-http://195.154.227.38:1935/ive/skysports1lsh/playlist.m3u8
-#EXTINF:0, Sky Sport2
-http://195.154.227.38:1935/ive/skysports2lsh/playlist.m3u8
-#EXTINF:0, Sky Sport 3
-http://195.154.227.38:1935/ive/skysports3lsh/playlist.m3u8
-#EXTINF:0, Sky Sport 4
-http://195.154.227.38:1935/ive/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.227.38:1935/ive/skysports5lsh/playlist.m3u8
-#EXTINF:0, F1
-http://195.154.227.38:1935/ive/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.227.38:1935/ive/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.227.38:1935/ive/btsports1lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 1 HD
-http://195.154.227.38:1935/ive/bein1frlsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.227.38:1935/ive/bein2frlsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.227.38:1935/ive/espnuklsh/playlist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.227.38:1935/ive/vpremsplsh/playlist.m3u8
-#EXTINF:0, Arena Sport HD 1
-http://195.154.227.38:1935/ive/arhd1lsh/playlist.m3u8
-#EXTINF:0, ArenaS port HD2
-http://195.154.227.38:1935/ive/arhd2lsh/playlist.m3u8
-#EXTINF:0, Arena SportHD 3
-http://195.154.227.38:1935/ive/arhd3lsh/playlist.m3u8
-#EXTINF:0, Arena Sport HD 4
-http://195.154.227.38:1935/ive/arhd4lsh/playlist.m3u8
-#EXTINF:0,Sport Klub HD 1
-http://195.154.227.38:1935/ive/skhd1lsh/playlist.m3u8
-#EXTINF:0,Sport Klub HD 1
-http://195.154.227.38:1935/ive/skhd2lsh/playlist.m3u8
-#EXTINF:0,Sport Klub HD 3
-http://195.154.227.38:1935/ive/skhd3lsh/playlist.m3u8
-#EXTINF:-1,Canal + Sport (FR)
-rtmp://176.10.250.166:1935/tv/stream4
-#EXTINF:-1,Eurosport (FR)
-rtmp://176.10.250.166:1935/tv/stream1
-#EXTINF:-1, Bein Sports 1 (FR)
-rtmp://176.10.250.166:1935/tv/stream3
-#EXTINF:-1,Bein Sports 2 (FR)
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:0,beIN SPORTS 1HD
-http://185.56.30.127:8082/TV4001
-#EXTINF:0,beIN SPORTS 2HD
-http://185.56.30.127:8082/TV4002
-#EXTINF:0,beIN SPORTS 3HD
-http://185.56.30.127:8082/TV4003
-#EXTINF:0,beIN SPORTS 4HD
-http://185.56.30.127:8082/TV4004
-#EXTINF:0,beIN SPORTS 5HD
-http://185.56.30.127:8082/TV4005
-#EXTINF:0,beIN SPORTS 6HD
-http://185.56.30.127:8082/TV4006
-#EXTINF:0,beIN SPORTS 7HD
-http://185.56.30.127:8082/TV4007
-#EXTINF:0,beIN SPORTS 8HD
-http://185.56.30.127:8082/TV4008
-#EXTINF:0,beIN SPORTS 9HD
-http://185.56.30.127:8082/TV4009
-#EXTINF:0,beIN SPORTS 10HD
-http://185.56.30.127:8082/TV4010
-#EXTINF:0,beIN SPORTS 11HD
-http://185.56.30.127:8082/TV4011
-#EXTINF:0,beIN SPORTS 1HDEN
-http://185.56.30.127:8082/TV4012
-#EXTINF:0,beIN SPORTS 1HDFR
-http://185.56.30.127:8082/TV4013
-#EXTINF:0,beIN SPORTS 2HD
-http://185.56.30.127:8082/TV4014
-#EXTINF:0,BT Sport 1
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/164.ch
-#EXTINF:0,BT Sport 2
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/165.ch
-#EXTINF:0,BT Sports 1 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/200.ch
-#EXTINF:0,BT Sports 2 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/201.ch
 #EXTINF:0,SkySport 1
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/184.ch
 #EXTINF:0,SkySport 2
@@ -192,73 +11,43 @@ http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/1
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/188.ch
 #EXTINF:0,SkySport F1
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/183.ch
-#EXTINF:0,F1 HD
+F1 HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/207.ch
-#EXTINF:0,Sky Sports 1 HD
+Sky Sports 1 HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/202.ch
-#EXTINF:0,Sky Sports 2 HD
+Sky Sports 2 HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/203.ch
-#EXTINF:0,Sky Sports 3 HD
+Sky Sports 3 HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/204.ch
-#EXTINF:0,Sky Sports 4HD
+Sky Sports 4HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/205.ch
-#EXTINF:0,Sky Sports 5 HD
+Sky Sports 5 HD
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/206.ch
-#EXTINF:0,Sky Movie Sci-Fi & horror
+Sky Movie Sci-Fi & horror
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/190.ch
-#EXTINF:0,Sky Movies Action
+Sky Movies Action
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/191.ch
-#EXTINF:0,Sky Movies Comedy
+Sky Movies Comedy
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/192.ch
-#EXTINF:0,Sky Movies Disney
+Sky Movies Disney
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/196.ch
-#EXTINF:0,Sky Movies Drama & Romance
+Sky Movies Drama & Romance
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/198.ch
-#EXTINF:0,Sky Movies Family
+Sky Movies Family
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/197.ch
-#EXTINF:0,Sky Movies Greats
+Sky Movies Greats
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/199.ch
-#EXTINF:0,Sky Movies Premiere
+Sky Movies Premiere
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/193.ch
-#EXTINF:0,Sky Movies Premiere  1
+Sky Movies Premiere  1
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/194.ch
-#EXTINF:0,Sky Movies Select
+Sky Movies Select
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/189.ch
-#EXTINF:0,Sky Movies Thriller
+Sky Movies Thriller
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/195.ch
-#EXTINF:0,Sky Uk 1 +1
+Sky Uk 1 +1
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/397.ch
-#EXTINF:0,Sky Living
+Sky Living
 http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/398.ch
-#EXTINF:0,ESNUK
-http://mbox-addon.com/streams/70190-navix.m3u8
-#EXTINF:0,ESN2
-http://mbox-addon.com/streams/57977-navix.m3u8
-#EXTINF:0,ESN
-http://mbox-addon.com/streams/48051-navix.m3u8
-#EXTINF:0,BTSport2
-http://mbox-addon.com/streams/68721-navix.m3u8
-#EXTINF:0,BTSport1
-http://mbox-addon.com/streams/68720-navix.m3u8
-#EXTINF:0,SkyBundesliga1
-http://mbox-addon.com/streams/70728-navix.m3u8
-#EXTINF:0,SkySportF1
-http://mbox-addon.com/streams/68718-navix.m3u8
-#EXTINF:0,SkySport5
-http://mbox-addon.com/streams/68716-navix.m3u8
-#EXTINF:0,SkySport4
-http://mbox-addon.com/streams/68715-navix.m3u8
-#EXTINF:0,SkySport3
-http://mbox-addon.com/streams/68714-navix.m3u8
-#EXTINF:0,SkySport2
-http://mbox-addon.com/streams/68424-navix.m3u8
-#EXTINF:0,SkySport1
-http://mbox-addon.com/streams/68713-navix.m3u8
-#EXTINF:0,SkyMoviesComedy
-http://mbox-addon.com/streams/71664-navix.m3u8
-#EXTINF:0,SkyMoviesDrama
-http://mbox-addon.com/streams/71667-navix.m3u8
-#EXTINF:0,SkyMoviesFamily
-http://mbox-addon.com/streams/71666-navix.m3u8
 #EXTINF:0,SkyMoviesAction
 http://mbox-addon.com/streams/71665-navix.m3u8
