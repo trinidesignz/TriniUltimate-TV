@@ -1,5 +1,28 @@
 #EXTM3U
-
+#EXTINF:0,IT: Porq 2 XXX
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4288.m3u8
+#EXTINF:0,IT: Porq 1 XXX
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4289.m3u8
+#EXTINF:0,IT: Hot Club 9 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4291.m3u8
+#EXTINF:0,IT: Hot Club 8 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4292.m3u8
+#EXTINF:0,IT: Hot Club 7 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4293.m3u8
+#EXTINF:0,IT: Hot Club 6 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4294.m3u8
+#EXTINF:0,IT: Hot Club 5 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4295.m3u8
+#EXTINF:0,IT: Hot Club 4 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4296.m3u8
+#EXTINF:0,IT: Hot Club 3 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4297.m3u8
+#EXTINF:0,IT: Hot Club 2 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4298.m3u8
+#EXTINF:0,IT: Hot Club 10 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4290.m3u8
+#EXTINF:0,IT: Hot Club 1 HD
+http://portal.rapidiptv.com:8080/live/dknight/gdgMeexVvY/4299.m3u8
 #EXTINF:-1,SATISFACTION,
 http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
 #EXTINF:-1,PENTHOUSE HD
