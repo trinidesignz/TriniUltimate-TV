@@ -1,10 +1,20 @@
 #EXTM3U
-#EXTINF:-1, COOKING CHANNEL
+#EXTINF:-1,COOKING CHANNEL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
-#EXTINF:-1, DISCOVERY
+#EXTINF:-1,DISCOVERY
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/11.m3u8
-#EXTINF:-1, HALLMARK CHANNEL
+#EXTINF:-1,HALLMARK CHANNEL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/152.m3u8
+#EXTINF:-1,Comedy Central
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/86.m3u8
+#EXTINF:-1,TBS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/82.m3u8
+#EXTINF:-1,Disney Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/89.m3u8
+#EXTINF:-1,HGTV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/52.m3u8
+#EXTINF:-1,USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/50.m3u8
 #EXTINF:0,FastnFunBox HD
 http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
 #EXTINF:0,DocuBox HD
