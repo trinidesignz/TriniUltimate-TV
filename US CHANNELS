@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:0,Discovery Channel
-http://176.51.73.3:1234/udp/233.7.70.253:5000
+#EXTINF:-1, COOKING CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
+#EXTINF:-1, DISCOVERY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/11.m3u8
+#EXTINF:-1, HALLMARK CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/152.m3u8
 #EXTINF:0,FastnFunBox HD
 http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
 #EXTINF:0,DocuBox HD
