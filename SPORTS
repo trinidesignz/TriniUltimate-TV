@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1,NFL 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/227.m3u8
 
-#EXTINF:0,NFL
+#EXTINF:0,NFL 2
 http://mbox-addon.com/streams/70295-navix.m3u8
 
 #EXTINF:0,NBA Basketball
