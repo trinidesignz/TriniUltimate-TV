@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,News 12 Long Island
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-
-#EXTINF:-1,News 12 Bronx
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-
-#EXTINF:-1,News 12 Brooklyn
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-
-#EXTINF:-1,News 12 Connecticut
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-
-#EXTINF:-1,News 12 Hudson Valley
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-
-#EXTINF:-1,News 12 Long Island
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
-
-#EXTINF:-1,News 12 New Jersey
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-
-#EXTINF:-1,News 12 Westchester
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-
 #EXTINF:-1,NEWSMAX TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/9.m3u8
 
