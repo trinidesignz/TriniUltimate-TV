@@ -1,4 +1,47 @@
 #EXTM3U
+
+#EXTINF:-1,SATISFACTION,
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
+#EXTINF:-1,PENTHOUSE HD
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+#EXTINF:-1,HYHD
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+#EXTINF:-1,BUTGO,
+http://edge2.everyon.tv:1935/etv2sb/phd772/paz.m3u85
+#EXTINF:-1,HOT MOVIES,
+http://edge2.everyon.tv:1935/etv2sb/phd511/paz.m3u8
+#EXTINF:-1,SAKURA,
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:-1,PARADISE,
+http://edge2.everyon.tv:1935/etv2/phd1008/paz.m3u8
+#EXTINF:-1,HOT GIRL,
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+#EXTINF:-1,THE O,
+http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
+#EXTINF:-1,CINERO,
+http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
+#EXTINF:-1,OKADAI HD,
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+#EXTINF:-1,PINK TV,,
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
+#EXTINF:-1,GIRLS TV,
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1,DELIGHT EMPIRE,
+http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
+#EXTINF:-1,PLUS,
+http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
+#EXTINF:-1,OHDEOK,
+http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
+#EXTINF:-1,LIVETHING,
+http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
+#EXTINF:-1,PREMIUM,
+http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+#EXTINF:-1,ASK TV,
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:-1,tvgirls
+http://digiteletv.ddns.net:8000/live/aandradepty/Yac9lI3Qey/76.ts 
+
+
 #EXTINF:-1,ADOLDT PORN
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
 
