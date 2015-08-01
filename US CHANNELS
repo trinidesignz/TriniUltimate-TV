@@ -17,16 +17,9 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/52.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/50.m3u8
 #EXTINF:-1,VERIA LIVING
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/135.m3u8
-
-#EXTINF:-1,4
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/230.m3u8
-#EXTINF:-1,5
+#EXTINF:-1,Sesame Street
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/231.m3u8
-#EXTINF:-1,6
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/232.m3u8
-#EXTINF:-1,7
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/233.m3u8
-#EXTINF:-1,8
+#EXTINF:-1,Travel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/235.m3u8
 #EXTINF:-1,9
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/236.m3u8
