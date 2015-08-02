@@ -1,22 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Playboy TV
-http://88.204.68.5:1238/51
-#EXTINF:-1,Brazzers TV Europe
-http://88.204.68.5:1238/52
-#EXTINF:-1,Private TV
-http://88.204.68.5:1238/53
-#EXTINF:-1,Hustler HD
-http://88.204.68.5:1238/54
-#EXTINF:-1,Candyman http://88.204.68.5:1238/55
-#EXTINF:-1,Русская ночь
-http://88.204.68.5:1238/56
-#EXTINF:-1,French Lover TV
-http://88.204.68.5:1238/57 Ночной Клуб
-#EXTINF:-1,Candy
-http://88.204.68.5:1238/61
-
-
+http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Redlight_HD
 #EXTINF:-1,SATISFACTION,
 http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
 #EXTINF:-1,PENTHOUSE HD
