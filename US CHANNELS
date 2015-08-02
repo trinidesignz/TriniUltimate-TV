@@ -5,8 +5,10 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/11.m3u8
 #EXTINF:-1,HALLMARK CHANNEL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/152.m3u8
-#EXTINF:-1, Hot Rod Garage
+#EXTINF:-1,Hot Rod Garage
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/95.m3u8
+#EXTINF:-1,My Damn Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/87.m3u8
 #EXTINF:-1,Comedy Central
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/86.m3u8
 #EXTINF:-1,TBS
