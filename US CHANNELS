@@ -173,8 +173,6 @@ http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
 #EXTINF:0,USA Network
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
-
 #EXTINF:-1,Howcast
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/91.m3u8
 #EXTINF:-1,
