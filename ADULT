@@ -1,5 +1,14 @@
 #EXTM3U
-
+#EXTINF:-1,PRIVATE
+http://62.210.88.244:8081/private/private/playlist.m3u8
+#EXTINF:-1,SEXZONE HD
+http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+#EXTINF:-1,SEXY HOT
+http://62.210.82.241:8081/sexhothd/sexhothd/chunklist_w1565017858.m3u8
+#EXTINF:-1,BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:-1,Playboy TV
 http://planetiptv-test.ddns.net:7088/hbird/hdtv/planet/iptv/Redlight_HD
 #EXTINF:-1,SATISFACTION,
