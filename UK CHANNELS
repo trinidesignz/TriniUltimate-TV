@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,  Eurosport 1 uk
+#EXTINF:0,Eurosport 1 uk
 http://195.154.231.213:1935/live/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
+#EXTINF:0,Eurosport 2 uk
 http://195.154.231.213:1935/live/vesp2lsh/playlist.m3u8
