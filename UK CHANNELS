@@ -1,33 +1,5 @@
 #EXTM3U
-#EXTINF:0,Pink Premium
-http://balkanstream.com/stream/pinkpremium/rajko/rajko
-#EXTINF:0,Pink Comedy
-http://balkanstream.com/stream/PinkComedy/rajko/rajko
-#EXTINF:0,Pink Romance
-http://balkanstream.com/stream/pinkmovie2/rajko/rajko
-#EXTINF:0,Pink Horror
-http://balkanstream.com/stream/pinkhoror/rajko/rajko
-#EXTINF:0,pinkmovie3
-http://balkanstream.com/stream/pinkmovie3/rajko/rajko
-#EXTINF:0,pinkaction2
-http://balkanstream.com/stream/pinkaction2/rajko/rajko
-#EXTINF:0,pinkaction3
-http://balkanstream.com/stream/pinkaction3/rajko/rajko
-#EXTINF:0,Pink Film
-http://balkanstream.com/stream/pinkfilm/rajko/rajko
-#EXTINF:0,Pink Kids
-http://balkanstream.com/stream/PinkKids/rajko/rajko
-#EXTINF:0,Pink Soap
-http://balkanstream.com/stream/PinkSoap/rajko/rajko
-#EXTINF:0,Pink World
-http://balkanstream.com/stream/PinkWorld/rajko/rajko
-#EXTINF:0,Pink Zabava
-http://balkanstream.com/stream/pinkzabava/rajko/rajko
-#EXTINF:0,Pink Reality
-http://balkanstream.com/stream/pinkreality/rajko/rajko
-#EXTINF:0,Pink Folk
-http://balkanstream.com/stream/pinkfolk/rajko/rajko
-#EXTINF:0,Pink Folk 2
-http://balkanstream.com/stream/PinkFolk2/rajko/rajko
-#EXTINF:0,Pink Hits 2
-http://balkanstream.com/stream/PinkMusic3/rajko/rajko
+#EXTINF:0,  Eurosport 1 uk
+http://195.154.231.213:1935/live/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.231.213:1935/live/vesp2lsh/playlist.m3u8
