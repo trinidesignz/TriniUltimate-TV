@@ -43,7 +43,7 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 rtmp://kv2.ts33.net/sat/us011
 
 #EXTINF:-1,ESPN HD 
-http://80.80.160.168/live/6/live.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://185.63.252.155:19350/live/ playpath=TwcIrDgBHcB8 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.espa.me/embed.php?channel=200&vw=650&vh=400 token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1,Extreme Sports (EN)
 http://ift.tt/1S09fsi
