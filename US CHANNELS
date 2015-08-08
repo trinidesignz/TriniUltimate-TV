@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Hot Rod Garage
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/95.m3u8 
+#EXTINF:0,BET
+http://mbox-addon.com/streams/50652-navix.m3u8
 #EXTINF:-1,COOKING CHANNEL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
 #EXTINF:-1,DISCOVERY
