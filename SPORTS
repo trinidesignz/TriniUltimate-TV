@@ -1,21 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1,SUPER SPORT 1
-http://dstvdm_hd1_hls-lh.akamaihd.ne...33/master.m3u8
-#EXTINF:-1,SUPER SPORT 2
-http://dstvdm_hd1_hls-lh.akamaihd.ne...55/master.m3u8
-#EXTINF:-1,SUPER SPORT 3
-http://dstvdm_hls_in-i.akamaihd.net/...S2/master.m3u8
-#EXTINF:-1,SUPER SPORT 4
-http://dstvdm_hls_in-i.akamaihd.net/...SS/master.m3u8
-#EXTINF:-1,SUPER SPORT 5
-http://dstvdm_hd1_hls-lh.akamaihd.ne...25/master.m3u8
-#EXTINF:-1,SUPER SPORT 6
-http://dstvdm_hls_in-i.akamaihd.net/...O3/master.m3u8
-#EXTINF:-1,SUPER SPORT 7
-http://dstvdm_hd1_hls-lh.akamaihd.ne...72/master.m3u8
-#EXTINF:-1,SPORT BG
-http://t.co/0LvQuvp6q1
+\
 #EXTINF:-1,BIG BTN
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/149.m3u8 
 
