@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:0,Fox
-http://balkanstream.com/stream/fox/rajko/rajko
-#EXTINF:0,Fox Life
-http://balkanstream.com/stream/foxlife/rajko/rajko
-#EXTINF:0,Fox Crime
-http://balkanstream.com/stream/foxcrime/rajko/rajko
-#EXTINF:0,Fox Movies
-http://balkanstream.com/stream/foxmovies/rajko/rajko
-#EXTINF:0,AXN
-http://balkanstream.com/stream/axn/rajko/rajko
-#EXTINF:0,AXN Spin
-http://balkanstream.com/stream/axnspin/rajko/rajko
-#EXTINF:0,SKY Cinema DE
-http://balkanstream.com/stream/SKYcinema/rajko/rajko
-#EXTINF:0,SKY Emotion DE
-http://balkanstream.com/stream/SKYEmotion/rajko/rajko
-#EXTINF:0,SKY Comedy DE
-http://balkanstream.com/stream/SKYcomedy/rajko/rajko
-#EXTINF:0,BET
-http://mbox-addon.com/streams/50652-navix.m3u8 
+EXTINF:-1, Hot Rod Garage
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/95.m3u8 
 #EXTINF:-1,COOKING CHANNEL
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
 #EXTINF:-1,DISCOVERY
