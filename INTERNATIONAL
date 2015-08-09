@@ -1,6 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title=\"Caribbean Channels\", CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
-
-#EXTINF:-1,CHEF TV
-rtmp://$OPT:rtmp-raw=rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf pageUrl=http://www.assistirtvgratisonline.org/canais/chef-tv.php
+#EXTINF:0,C MORE- Sport 
+http://188.138.9.228:8023 
+#EXTINF:0,C MORE- Hits 
+http://188.138.9.228:8020 
+#EXTINF:0,C MORE- Series 
+http://188.138.9.228:8021 
+#EXTINF:0,C MORE- ComedyCentral 
+http://188.138.9.228:8022 
+#EXTINF:0,C MORE- First 
+http://188.138.9.228:8024 
+#EXTINF:0,C MORE- Emotion 
+http://188.138.9.228:8025 
+#EXTINF:0,C MORE- Action 
+http://188.138.9.228:8035 
+#EXTINF:0,C MORE HITS 
+http://188.138.9.228:8020 
+#EXTINF:0,C MORE SERIES 
+http://188.138.9.228:8021 
+#EXTINF:0,C MORE COMEDY CENTRAL 
+http://188.138.9.228:8022 
+#EXTINF:0,C MORE SPORT 
+http://188.138.9.228:8023 
+#EXTINF:0,C MORE FIRST 
+http://188.138.9.228:8024 
+#EXTINF:0,C MORE EMOTION 
+http://188.138.9.228:8025 
