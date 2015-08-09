@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1,REDLIGHT +18
-http://93.155.252.134:12349/udp/239.1.1.244:4000
-#EXTINF:-1,EXOTICA TV +18
-http://93.155.252.134:12349/udp/239.1.1.245:4000
-#EXTINF:-1,FRENCHLOVER +18
-http://93.155.252.134:12349/udp/239.1.1.246:4000
-#EXTINF:-1,CENTOXCENTO TV +18
-http://93.155.252.134:12349/udp/239.1.1.249:4000
-#EXTINF:-1,T6SENSO TV +18
-http://93.155.252.134:12349/udp/239.1.1.250:4000
-#EXTINF:-1,P.B
-http://iptv.sat-elit.net/iptv/$securekey/527/index.m3u8
-#EXTINF:-1,egoist
-http://iptv.sat-elit.net/iptv/securekey/526/index.m3u8
-#EXTINF:-1,??????? ????
-http://iptv.sat-elit.net/iptv/securekey/147/index.m3u8
 #EXTINF:-1,PRIVATE
 http://62.210.88.244:8081/private/private/playlist.m3u8
 #EXTINF:-1,SEXZONE HD
