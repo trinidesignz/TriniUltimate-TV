@@ -235,3 +235,124 @@ rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=htt
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title=" 1.00 mls N.Y.RED BULLS - NEW YORK CITY ",sky sports 1 uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:0, SPORTS
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/166.ts
+#EXTINF:0,Sport Klub 1
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/43.ts
+#EXTINF:0,Sport Klub 2
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/44.ts
+#EXTINF:0,Sport Klub 3
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/45.ts
+#EXTINF:0,Sport Klub 4
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/137.ts
+#EXTINF:0,Sport Klub 5
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/138.ts
+#EXTINF:0,Sport Klub 6
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/139.ts
+#EXTINF:0,Sport Klub Golf
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/336.ts
+#EXTINF:0,Sport Klub Start
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/355.ts
+#EXTINF:0,Sport Klub 1 HR
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/335.ts
+#EXTINF:0,Sport Klub 1 SLO
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/317.ts
+#EXTINF:0,Sport Klub Special
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/411.ts
+#EXTINF:0,Sport Klub HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/313.ts
+#EXTINF:0,Sport Klub 1 HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/264.ts
+#EXTINF:0,Sport Klub 2 HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/265.ts
+#EXTINF:0,Sport Klub 3 HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/266.ts
+#EXTINF:0,Arena Sport 1
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/38.ts
+#EXTINF:0,Arena Sport 2
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/39.ts
+#EXTINF:0,Arena Sport 3
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/40.ts
+#EXTINF:0,Arena Sport 4
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/41.ts
+#EXTINF:0,Arena Sport 5
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/42.ts
+#EXTINF:0,Arena Sport 1 SRB HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/405.ts
+#EXTINF:0,Arena Sport 2 SRB HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/406.ts
+#EXTINF:0,Arena Sport 3 SRB HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/407.ts
+#EXTINF:0,Arena Sport 4 SRB HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/408.ts
+#EXTINF:0,Arena Sport 1 HR HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/48.ts
+#EXTINF:0,Arena Sport 2 HR HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/49.ts
+#EXTINF:0,Arena Sport 3 HR HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/50.ts
+#EXTINF:0,Arena Sport 4 HR HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/51.ts
+#EXTINF:0,Arena Sport 5 HR HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/262.ts
+#EXTINF:0,Euro Sport 1 HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/46.ts
+#EXTINF:0,Euro Sport 2 HD
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/47.ts
+#EXTINF:0,SportTv 1
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/331.ts
+#EXTINF:0,SportTv 2
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/332.ts
+#EXTINF:0,SportTv 3
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/333.ts
+#EXTINF:0,Fight Channel
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/315.ts
+#EXTINF:0,Fight Network
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/370.ts
+#EXTINF:0,Sportska Tv
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/170.ts
+#EXTINF:0,Sky Sport 1 DE
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/130.ts
+#EXTINF:0,Sky Sport 2 DE
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/131.ts
+#EXTINF:0,Sky Bundesliga
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/132.ts
+#EXTINF:0,Sky Sport News DE
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/377.ts
+#EXTINF:0,Sky Sport 1 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/196.ts
+#EXTINF:0,Sky Sport 2 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/197.ts
+#EXTINF:0,Sky Sport 3 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/198.ts
+#EXTINF:0,Sky Sport 4 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/199.ts
+#EXTINF:0,Sky Sport 5 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/200.ts
+#EXTINF:0,Sky Sport F1 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/201.ts
+#EXTINF:0,BT Sport 1 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/202.ts
+#EXTINF:0,BT Sport 2 UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/203.ts
+#EXTINF:0,Espn UK
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/353.ts
+#EXTINF:0,Super Sport 1
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/275.ts
+#EXTINF:0,Super Sport 2
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/276.ts
+#EXTINF:0,Super Sport 3
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/277.ts
+#EXTINF:0,Super Sport 4
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/278.ts
+#EXTINF:0,BEIN Sport 1 HD Test
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/425.ts
+#EXTINF:0,BEIN Sport 2 HD Test
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/426.ts
+#EXTINF:0,BEIN Sport 3 HD Test
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/427.ts
+#EXTINF:0,BEIN Sport 4 HD Test
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/428.ts
+#EXTINF:0,BEIN Sport 5 HD Test
+http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/429.ts
