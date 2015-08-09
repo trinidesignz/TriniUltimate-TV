@@ -141,19 +141,97 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1,AR:Bein1
-http://iptv:sport@37.59.164.230:3300/AR:Bein1
-#EXTINF:-1,AR:Bein2
-http://iptv:sport@37.59.164.230:3300/AR:Bein2
-#EXTINF:-1,AR:Bein3
-http://iptv:sport@37.59.164.230:3300/AR:Bein3
-#EXTINF:-1,AR:Bein4
-http://iptv:sport@37.59.164.230:3300/AR:Bein4
-#EXTINF:-1,AR:Bein5
-http://iptv:sport@37.59.164.230:3300/AR:Bein5
-#EXTINF:-1,AR:Bein6
-http://iptv:sport@37.59.164.230:3300/AR:Bein6
-#EXTINF:-1,AR:Bein7
-http://iptv:sport@37.59.164.230:3300/AR:Bein7
-#EXTINF:-1,AR:Bein8
-http://iptv:sport@37.59.164.230:3300/AR:Bein8
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",ntv+futbol 1 ru ace
+e81bd04edfd09cc0aa70ad8f1d1f992e27791108
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",s@y sports 2 de
+http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",tv3 sport 2 ace
+acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+
+
+#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL 10 etapa ",rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL 10 etapa ",rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+
+#EXTINF:-1 group-title=" 17.00 fra BORDEAUX - REIMS ",beIN FR 1 ace
+acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
+
+
+#EXTINF:-1 group-title=" 17.00 fra TOULOUSE - ST.ETIENNE ",beIN FR 2 ace
+acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
+#EXTINF:-1 group-title=" 17.00 fra TOULOUSE - ST.ETIENNE ",bt sport europe uk ace
+acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
+
+#EXTINF:-1 group-title=" 17.30 swe HAMMARBY - ELFSBORG ",c more sport se
+http://188.138.9.228:8023
+
+
+#EXTINF:-1 group-title=" 18.00 bel SP.CHARLEROI - CLUB BRUGGE ",Sportitalia
+rtmp://spi.hystream.com:1935/spilive/spistream_480
+#EXTINF:-1 group-title=" 18.00 bel SP.CHARLEROI - CLUB BRUGGE ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+
+#EXTINF:-1 group-title=" 19.00 aus RAPID WIEN - WAC ",sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+
+
+#EXTINF:-1 group-title=" 19.00 friendly ESPANOL - REAL BETIS ",tv3 catalunya
+http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
+
+
+#EXTINF:-1 group-title=" 19.45 friendly ALMERIA - LAS PALMAS ",tv canaria es
+rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+
+#EXTINF:-1 group-title=" 20.00 moto.gp GP INDIANAPOLIS ",rsi la 2 ch
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=" 21.00 fra LYON - LORIENT ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 21.00 fra LYON - LORIENT ",bt sport europe uk ace
+acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
+
+
+#EXTINF:-1 group-title=" 21.00 bra SAO PAULO - CORINTHIANS ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.00 bra SAO PAULO - CORINTHIANS ",bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+#EXTINF:-1 group-title=" 21.00 ita.cup CAGLIARI - VIRTUS ENTELLA ",rai sport 1 it
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 group-title=" 21.00 ita.cup BARI - FOGGIA ",raisport 2 it (geo)
+http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(696000)/Manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 21.00 ita.cup BARI - FOGGIA ",raisport 2 it
+http://81.92.105.134:5555/pl.m3u8?channel=535&key=&client=freeAllTVUser
+
+
+#EXTINF:-1 group-title=" 21.45 por.Supercup BENFICA - SP.LISBON ",rtp int pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title=" 22.00 mls LA GALAXY - SEATTLE SOUNDERS ",eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 22.00 mls LA GALAXY - SEATTLE SOUNDERS ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+#EXTINF:-1 group-title=" 1.00 mls N.Y.RED BULLS - NEW YORK CITY ",eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 1.00 mls N.Y.RED BULLS - NEW YORK CITY ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
