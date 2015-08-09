@@ -1,35 +1,15 @@
 #EXTM3U
-#EXTINF:0,Eurosport 1 uk
-http://195.154.231.213:1935/live/vesplsh/playlist.m3u8
-#EXTINF:0,Eurosport 2 uk
-http://195.154.231.213:1935/live/vesp2lsh/playlist.m3u8
-#EXTINF:0,Bein SPORTS 1HD
-http://bit.ly/1PB0hTY
-#EXTINF:0,Bein SPORTS 2HD
-http://bit.ly/1IGVlw8
-#EXTINF:0,Bein SPORTS 3HD
-http://bit.ly/1ON2pWR
-#EXTINF:0,Bein SPORTS 4HD
-http://bit.ly/1ScPe7a
-#EXTINF:0,Bein SPORTS 5HD
-http://bit.ly/1LQ5mpU
-#EXTINF:0,Bein SPORTS 6HD
-http://bit.ly/1MwoMBI
-#EXTINF:0,Bein SPORTS 7HD
-http://bit.ly/1KvCh4j
-#EXTINF:0,Bein SPORTS 8HD
-http://bit.ly/1U4geTV
-#EXTINF:0,Bein SPORTS 9HD
-http://bit.ly/1JPgw9U
-#EXTINF:0,Bein SPORTS 10HD
-http://bit.ly/1LUhckr
-#EXTINF:0,Bein SPORTS 11HD
-http://bit.ly/1ScPK4Z
-#EXTINF:0,Bein SPORTS 12HD
-http://bit.ly/1SLg3dI
-#EXTINF:0,Bein SPORTS 13HD
-http://bit.ly/1Mt5eNE
-#EXTINF:0,Bein SPORTS 14HD
-http://bit.ly/1D9efJv
-#EXTINF:0,Bein SPORTS 15HD
-http://bit.ly/1OzjpPE
+#EXTINF:-1,IPTVSAGA: Sky Sports F1
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/96.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1, Sky Sports 1
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/98.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1, Sky Sports 2
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/97.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1, Sky Sports 3
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/99.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1,Sky Sports 4
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/106.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1, Sky Sports 5
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/105.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1,Sky Sports News HQ
+http://37.187.149.103:8000/live/93fef074c09cdf9a/a21ffa2ae921e6e1/133.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
