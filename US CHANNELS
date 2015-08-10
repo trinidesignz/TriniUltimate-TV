@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,BET
+rtmp://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl
 #EXTINF:-0,TLC USA
 http://80.80.160.168/live/2/500000/playlist.m3u8
  
