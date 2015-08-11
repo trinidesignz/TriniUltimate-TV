@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:0,  Sky Sports 1
-http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8
-#EXTINF:0, Sky Sports 2
-http://195.154.231.213:1935/live/skysports2lsh/playlist.m3u8
-#EXTINF:0, Sky Sports 3
-http://195.154.231.213:1935/live/skysports3lsh/playlist.m3u8
-#EXTINF:0, Sky Sports 4
-http://195.154.231.213:1935/live/skysports4lsh/playlist.m3u8
-#EXTINF:0, Sky Sports 5
-http://195.154.231.213:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:-1,NFL 1
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/227.m3u8
-
 #EXTINF:0,NFL 2
 http://mbox-addon.com/streams/70295-navix.m3u8
 
@@ -121,219 +108,91 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",idman tv Az_opz 2
-http://bak01-edge03.itdc.ge/idman/index.m3u8
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",ntv+futbol 1 ru ace
-e81bd04edfd09cc0aa70ad8f1d1f992e27791108
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",s@y sports 2 de
-http://balkanstream.com/stream/skysport02/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",tv3 sport 2 ace
-acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",viasat sport baltic ace
-acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
-#EXTINF:-1 group-title=" 17.00 eng STOKE CITY - LIVERPOOL ",irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-
-
-#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL 10 etapa ",rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL 10 etapa ",rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
-
-#EXTINF:-1 group-title=" 17.00 fra BORDEAUX - REIMS ",beIN FR 1 ace
-acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
-
-
-#EXTINF:-1 group-title=" 17.00 fra TOULOUSE - ST.ETIENNE ",beIN FR 2 ace
-acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
-#EXTINF:-1 group-title=" 17.00 fra TOULOUSE - ST.ETIENNE ",bt sport europe uk ace
-acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
-
-#EXTINF:-1 group-title=" 17.30 swe HAMMARBY - ELFSBORG ",c more sport se
-http://188.138.9.228:8023
-
-
-#EXTINF:-1 group-title=" 18.00 bel SP.CHARLEROI - CLUB BRUGGE ",Sportitalia
-rtmp://spi.hystream.com:1935/spilive/spistream_480
-#EXTINF:-1 group-title=" 18.00 bel SP.CHARLEROI - CLUB BRUGGE ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-
-#EXTINF:-1 group-title=" 19.00 aus RAPID WIEN - WAC ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-
-
-#EXTINF:-1 group-title=" 19.00 friendly ESPANOL - REAL BETIS ",tv3 catalunya
-http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
-
-
-#EXTINF:-1 group-title=" 19.45 friendly ALMERIA - LAS PALMAS ",tv canaria es
-rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
-
-#EXTINF:-1 group-title=" 20.00 moto.gp GP INDIANAPOLIS ",rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=" 21.00 fra LYON - LORIENT ",supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 21.00 fra LYON - LORIENT ",bt sport europe uk ace
-acestream://46f1a7f1774400e6b7b73990edb89803f98a4215
-
-
-#EXTINF:-1 group-title=" 21.00 bra SAO PAULO - CORINTHIANS ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.00 bra SAO PAULO - CORINTHIANS ",bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-
-#EXTINF:-1 group-title=" 21.00 ita.cup CAGLIARI - VIRTUS ENTELLA ",rai sport 1 it
-http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 group-title=" 21.00 ita.cup BARI - FOGGIA ",raisport 2 it (geo)
-http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(696000)/Manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 21.00 ita.cup BARI - FOGGIA ",raisport 2 it
-http://81.92.105.134:5555/pl.m3u8?channel=535&key=&client=freeAllTVUser
-
-
-#EXTINF:-1 group-title=" 21.45 por.Supercup BENFICA - SP.LISBON ",rtp int pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title=" 22.00 mls LA GALAXY - SEATTLE SOUNDERS ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 22.00 mls LA GALAXY - SEATTLE SOUNDERS ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-
-#EXTINF:-1 group-title=" 1.00 mls N.Y.RED BULLS - NEW YORK CITY ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 1.00 mls N.Y.RED BULLS - NEW YORK CITY ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:0, SPORTS
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/166.ts
-#EXTINF:0,Sport Klub 1
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/43.ts
-#EXTINF:0,Sport Klub 2
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/44.ts
-#EXTINF:0,Sport Klub 3
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/45.ts
-#EXTINF:0,Sport Klub 4
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/137.ts
-#EXTINF:0,Sport Klub 5
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/138.ts
-#EXTINF:0,Sport Klub 6
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/139.ts
-#EXTINF:0,Sport Klub Golf
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/336.ts
-#EXTINF:0,Sport Klub Start
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/355.ts
-#EXTINF:0,Sport Klub 1 HR
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/335.ts
-#EXTINF:0,Sport Klub 1 SLO
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/317.ts
-#EXTINF:0,Sport Klub Special
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/411.ts
-#EXTINF:0,Sport Klub HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/313.ts
-#EXTINF:0,Sport Klub 1 HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/264.ts
-#EXTINF:0,Sport Klub 2 HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/265.ts
-#EXTINF:0,Sport Klub 3 HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/266.ts
-#EXTINF:0,Arena Sport 1
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/38.ts
-#EXTINF:0,Arena Sport 2
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/39.ts
-#EXTINF:0,Arena Sport 3
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/40.ts
-#EXTINF:0,Arena Sport 4
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/41.ts
-#EXTINF:0,Arena Sport 5
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/42.ts
-#EXTINF:0,Arena Sport 1 SRB HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/405.ts
-#EXTINF:0,Arena Sport 2 SRB HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/406.ts
-#EXTINF:0,Arena Sport 3 SRB HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/407.ts
-#EXTINF:0,Arena Sport 4 SRB HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/408.ts
-#EXTINF:0,Arena Sport 1 HR HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/48.ts
-#EXTINF:0,Arena Sport 2 HR HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/49.ts
-#EXTINF:0,Arena Sport 3 HR HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/50.ts
-#EXTINF:0,Arena Sport 4 HR HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/51.ts
-#EXTINF:0,Arena Sport 5 HR HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/262.ts
-#EXTINF:0,Euro Sport 1 HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/46.ts
-#EXTINF:0,Euro Sport 2 HD
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/47.ts
-#EXTINF:0,SportTv 1
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/331.ts
-#EXTINF:0,SportTv 2
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/332.ts
-#EXTINF:0,SportTv 3
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/333.ts
-#EXTINF:0,Fight Channel
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/315.ts
-#EXTINF:0,Fight Network
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/370.ts
-#EXTINF:0,Sportska Tv
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/170.ts
-#EXTINF:0,Sky Sport 1 DE
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/130.ts
-#EXTINF:0,Sky Sport 2 DE
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/131.ts
-#EXTINF:0,Sky Bundesliga
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/132.ts
-#EXTINF:0,Sky Sport News DE
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/377.ts
-#EXTINF:0,Sky Sport 1 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/196.ts
-#EXTINF:0,Sky Sport 2 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/197.ts
-#EXTINF:0,Sky Sport 3 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/198.ts
-#EXTINF:0,Sky Sport 4 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/199.ts
-#EXTINF:0,Sky Sport 5 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/200.ts
-#EXTINF:0,Sky Sport F1 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/201.ts
-#EXTINF:0,BT Sport 1 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/202.ts
-#EXTINF:0,BT Sport 2 UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/203.ts
-#EXTINF:0,Espn UK
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/353.ts
-#EXTINF:0,Super Sport 1
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/275.ts
-#EXTINF:0,Super Sport 2
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/276.ts
-#EXTINF:0,Super Sport 3
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/277.ts
-#EXTINF:0,Super Sport 4
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/278.ts
-#EXTINF:0,BEIN Sport 1 HD Test
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/425.ts
-#EXTINF:0,BEIN Sport 2 HD Test
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/426.ts
-#EXTINF:0,BEIN Sport 3 HD Test
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/427.ts
-#EXTINF:0,BEIN Sport 4 HD Test
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/428.ts
-#EXTINF:0,BEIN Sport 5 HD Test
-http://media-future.eu:80/live/ka@jgaNAaa/Ka@jGA1naa/429.ts
+#EXTINF:0,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:0,SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:0,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:0,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
+EXTINF:-1,UK:UK-SkySports1,
+http://bit.ly/1UwYBwb
+EXTINF:-1,UK:UK-Sky_Sports2,
+http://bit.ly/1J456EO
+EXTINF:-1,UK:UK-Sky_Sports3,
+http://bit.ly/1WamGKW
+EXTINF:-1,UK:UK-Sky_Sports4,
+http://bit.ly/1f1urRH
+EXTINF:-1,UK:UK-Sky_Sports5,
+http://bit.ly/1IBzJf9
+EXTINF:-1,UK: Sky BT Sport 2
+http://bit.ly/1IBzLDR
+#EXTINF:-1,UK: Setanta Sports
+http://bit.ly/1IWYSEN
+#EXTINF:-1,UK: Premier Sports
+http://bit.ly/1DzKy50
+#EXTINF:-1,UK: BT Sport 1
+http://bit.ly/1KbOs0p
+#EXTINF:-1,SUPER PRORT HD 1
+http://bit.ly/1J45fIj
+#EXTINF:-1,SUPER PRORT HD2
+http://bit.ly/1Ivpqvq
+#EXTINF:-1,SUPER PRORT HD3
+http://bit.ly/1DFcC6G
+#EXTINF:-1,SUPER PRORT HD4
+http://bit.ly/1IQKycx
+EXTINF:-1,AR_beINSport1HD,
+http://bit.ly/1NjlKy0
+EXTINF:-1,AR_beINSport2HD,
+http://bit.ly/1PeFc00
+EXTINF:-1,AR_beINSport3HD,
+http://bit.ly/1gUqMa3
+EXTINF:-1,AR_beINSport4HD,
+http://bit.ly/1NjlPle
+EXTINF:-1,AR_beINSport5HD,
+http://bit.ly/1DFcIeB
+EXTINF:-1,:AR_beINSport6HD,
+http://bit.ly/1UwYSiB
+EXTINF:-1,AR_beINSport7HD,
+http://bit.ly/1N0Incu
+EXTINF:-1,AR_beINSport8HD,
+http://bit.ly/1NjlXBd
+EXTINF:-1,AR_beINSport9HD,
+http://bit.ly/1Wan1gT
+EXTINF:-1,AR_beINSport10HD,
+http://bit.ly/1gUqZdx
+EXTINF:-1,DE_SKY_SPORT1,
+http://bit.ly/1IWZbQ1
+EXTINF:-1,E_SKY_SPORT2,
+http://bit.ly/1Hzh5Ts
+EXTINF:-1,ARENA SPORT1
+http://bit.ly/1T9iXhQ
+EXTINF:-1,ARENA SPORT2
+http://bit.ly/1EhxprK
+EXTINF:-1,ARENA SPORT3
+http://bit.ly/1hrvkVt
+EXTINF:-1,ARENA SPORT4
+http://bit.ly/1Ehxrjr
+EXTINF:-1,SPORT KULB1
+http://bit.ly/1DzLg26
+EXTINF:-1,:SPORT KULB2
+http://bit.ly/1KXbVW7
+EXTINF:-1,SPORT KULB3
+http://bit.ly/1f1v0Ld
+EXTINF:-1,:FOX SPORT1
+http://bit.ly/1gUriVE
+EXTINF:-1,:FOX SPORT2
+http://bit.ly/1f1v2mv
+EXTINF:-1,FOX SPORT3
+http://bit.ly/1N0INQb
+EXTINF:-1,FOX SPORT4
+http://bit.ly/1IWZqKP
+EXTINF:-1,:FOX SPORT5
+http://bit.ly/1MixDa8
+EXTINF:-1,it:SKY SPORT IT1
+http://bit.ly/1f1v8dy
+EXTINF:-1,it:SKY SPORT IT2
+http://bit.ly/1MixFz4
+EXTINF:-1,it:SKY SPORT IT F1
+http://bit.ly/1hrvxIc
