@@ -19,6 +19,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:0,FilmOn Rock TV
 http://198.179.31.197/live/311.high.stream/playlist.m3u8?id=b7d646bb2ea72a246675322e5e3502b07451050a221925400464a5117fc1221cc256adbcb6005ce282fb44a1972135f9d4bfd2bcd7a75a10eb6f02c0da6b901659c7918b8debfdb25245cacfb0c5bf9a45f89f27bebc652cecc6369bc967a9c6a6e20536d2fdc9058cc58835ef16ef244bd901ca0a14d21b5b3b901a422c3d50d85de48c8a63dabc55f6ae9a7d3fbf1bb6eaa8529cd600fe
 
+#EXTINF:0,Urban Music Network
+http://198.179.31.197/live/347.high.stream/playlist.m3u8?id=65d4e131e0b3a56363d8454c2893f2167a15ef0ba81a6bef538e77b008a48e931bb2b859e2b67f1803d1eaebde3795c4976d098bb947a553110627863e1a81912589997fdbbe502440f916672c9d6798761e760eedd419fc7294c95db93b3097b2178bf37ef9c11fd32b403d9e4b047d5d84936230333857cf98bb065fbffbb98b55abcf14ad45ca5a23c4754a3dc89be604f17a1ded4442
+
 #EXTINF:-1,USA:Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
