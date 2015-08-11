@@ -211,3 +211,12 @@ rtmp://141.255.160.202:1935/stream playpath=1Kq68GX6Kc.stream swfUrl=http://thec
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?
 #EXTINF:-1 tvg-logo=îbtsport.pngî, Bt sports 2
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:-1,Saudi Arabia Sport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
+
+#EXTINF:-1, CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1, Super Sport News
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
