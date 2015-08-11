@@ -1,13 +1,6 @@
 #EXTM3U
-#EXTINF:-1, MTV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/156.m3u8
-
-#EXTINF:-1,MUSiK Channel
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/202.m3u8
-
-#EXTINF:-1,NRP
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/228.m3u8
-
+#EXTINF:0,THE COOL TV
+http://198.179.31.201/live/272.high.stream/playlist.m3u8?id=e7ac64b82426f77bacc74f1a820e8704b23fb09f0dc5f2d57fe92d37f03173e74779007083bb30f682792ee38d83810c4d6dc022c745c6ba47bc9ab64cd264bba0dd5a3d44193ad42284447545a68af1b4afa7d3b86eeaf7f4a94e8ea21b2fc27fa3c32a2a75d76aa0261124ef6223cf739b45291734d2c3b69834533a6b892d8039253bf7ba62dedf5edc4b62af93ab0f2dcca1e67ba776
 #EXTINF:1,ServusHD
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-b.m3u8
 
