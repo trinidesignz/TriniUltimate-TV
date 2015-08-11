@@ -82,7 +82,8 @@ http://89.163.220.96:8000/live/primo/primo/391.m3u8
 http://89.163.220.96:8000/live/primo/primo/458.m3u8
 #EXTINF:-1,. XXX Hot Clube XXX
 http://89.163.220.96:8000/live/primo/primo/242.m3u8
-
+#EXTINF:0,After Dark TV
+http://198.179.31.197/live/345.high.stream/playlist.m3u8?id=1858b75cd25c550e063e3579850489f65011d62b8b626451c3a19aed3dd20e737177abd8c391b05b85fe2219d8a2592114356bef430e583970d85aebda488ad5953d78875b5183d4e6fde43ba7bcb59ffb3473bb2fd22f7739e201fe7ccc61c70e2d02e1f09981582d8fb52cd8d2bc58a07318a8bcf7d90b4899e3a66db2cc6d8f5eb77fd06391142466d9848dcce87f32c95ef9bf3b28a4
 #EXTINF:-1,XXX Primafila Hot Club 1
 http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/809.ts
 #EXTINF:-1,XXX Primafila Hot Club 2
