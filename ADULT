@@ -168,3 +168,5 @@ http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/1341.ts
 http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/2061.ts
 #EXTINF:-1,XXX Venus
 http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/2619.ts
+#EXTINF:0,Bikini TeeVee
+http://198.179.31.196/live/380.high.stream/playlist.m3u8?id=cf36a53d362cfa62b0c6e1c9d9eb4ac33e79f6c99390555836a56e86e6c9834df1ae50b497ee079d9253f6fcad4dc925036917b771547ead14cb4fad104c1863b4cfd93c48f8830c2646ddacdc60b950ab174eff2e280ca89787addd6d5cb827b012206f4ad36aa9faea58e464be0fde90c9938cb6a1f69c03e4b56f284faee3c549536a426b3c37a4f266c8d5ee55eab9b8bbedafe9696f
