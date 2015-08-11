@@ -16,6 +16,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,USA:Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
+#EXTINF:0,FilmOn Rock TV
+http://198.179.31.197/live/311.high.stream/playlist.m3u8?id=b7d646bb2ea72a246675322e5e3502b07451050a221925400464a5117fc1221cc256adbcb6005ce282fb44a1972135f9d4bfd2bcd7a75a10eb6f02c0da6b901659c7918b8debfdb25245cacfb0c5bf9a45f89f27bebc652cecc6369bc967a9c6a6e20536d2fdc9058cc58835ef16ef244bd901ca0a14d21b5b3b901a422c3d50d85de48c8a63dabc55f6ae9a7d3fbf1bb6eaa8529cd600fe
+
 #EXTINF:-1,USA:Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
