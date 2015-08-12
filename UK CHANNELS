@@ -1,25 +1,201 @@
 #EXTM3U
-#EXTINF:0,ITV
-http://204.107.27.136/live/11.high.stream/playlist.m3u8?id=8138c16062a63f4ce2dffd99892b0fdf9168b91fb6490bea2f22bd6202840596ad11b0e9052966d386032b122d09e5e26077051ed14155e02397046637a2169510a43a2af2d911dc218be6079b19d8bb3ef145794d5ab574f05584c9abf38c32f31cc63d2701ea41a4b45760d897478d58ada496a8db9a87b219853d5ed51fbb1821e45583a8652eafa3b0cb053cb9f1380adc6c11e362b4
-#EXTINF:0,ITV3
-http://204.107.27.136/live/26.high.stream/playlist.m3u8?id=666d1fc8cb6ba41690a64271f8382bc5e5ef001ef4e27d5eaaf4fccbe3bc7e7d1a7fe9a2d6382f51db5497f371d1c9558e852a5416dff21bdd57a6971e80ff7e88dc0e13dc569813c37302ddc3c36c1420148bc1249fb5087c03fa382cee40ca5b54d43c1f49765585ced786b3edae95ed6a7762bbc384f019e3854173c02425ffa5491a3e67731329d71ea0d14d618d8b0e4bccb613bdfd
-#EXTINF:0,ITV2
-http://204.107.27.136/live/67.high.stream/playlist.m3u8?id=bf9261416f96f1a40c1dfe3e50c396f2c0f7da3a71075f5b674bcd325c66f407f1a8d8abc653dd8e94c8d030ad3aca912fdb95cbeb1768103daa61c006c668210e0955cde05218128cedfd7ef5ab453ce49eb0982cc98547a18bd3ce1e4e2d034ab564a103cd67efdde0c6fd6e0489721a43f5a9883483eb121e85d3be66cd33c839f7a1fa994bbbd2191b8d495cb564ad6e38b12f5d639f
-#EXTINF:0,ITV4
-http://204.107.27.136/live/101.high.stream/playlist.m3u8?id=931ad73fa9c3912ee669dc1e075b55f87032d500d8ca7a20ec021c99b4a37f1f105431adcc5f5b4205aded3c813e7da3e898d61820c817106514eb7527ccf6ce4d6adf1d3d01febf0e3bae1394fdc3ba0b28fee1c4867e3cf6a38826720fff7d70f459c0602472a3472e774c983aeff7ed1dab3fce7338f355e6be3bd344848ebca52ea7beca5727bac659ad55d43ceeb56842e2327d6818
-#EXTINF:0,Macabre Theater
-http://198.179.31.197/live/315.high.stream/playlist.m3u8?id=5e24383f2f407cec05f1cfadaaca5778fc5da0c8f9ee1398a2362f144f6dd9729252d9ad91a46eff0f59b7fd39a82f2d76a39cb270a7b1be01065c5a8bf8bb6a33801189e0e6bd0b1a891f169a5fa6aab7e01d913f5bd20ebc903ee03746373b36964555378ad80086837a4330837633c9a203ed1016ffa61c6cbab892e66ef8497309c0379ac52372119ea3961b59c709d89ccef5683436
-#EXTINF:-1,. Sky Movies Sci-Fi & Horror UK
-http://37.187.160.187:8000/live/ressler/skype/121.ts
-#EXTINF:-1,. Sky Movies Premiere UK
-http://37.187.160.187:8000/live/ressler/skype/115.ts
-#EXTINF:-1,. Sky Movies Family UK
-http://37.187.160.187:8000/live/ressler/skype/116.ts
-#EXTINF:-1,. Sky Movies Drama & Romance UK
-http://37.187.160.187:8000/live/ressler/skype/120.ts
-#EXTINF:-1,. Sky Movies Crime & Thriller UK
-http://37.187.160.187:8000/live/ressler/skype/119.ts
-#EXTINF:-1,. Sky Movies Comedy UK
-http://37.187.160.187:8000/live/ressler/skype/118.ts
-#EXTINF:-1,. Sky Movies Action & Adventure UK
-http://37.187.160.187:8000/live/ressler/skype/117.ts
+#EXTINF:0,BBC 1
+http://84.232.5.115/liveedge/bbc1.stream/playlist.m3u8
+#EXTINF:0,BBC 2
+http://84.232.5.115/liveedge/bbc2.stream/playlist.m3u8
+#EXTINF:0,BBC 3
+http://84.232.5.115/liveedge/bbc3.stream/playlist.m3u8
+#EXTINF:0,BBC 4
+http://84.232.5.115/liveedge/bbc4.stream/playlist.m3u8
+#EXTINF:0,BBC Alba
+http://84.232.5.115/liveedge/bbcalba.stream/playlist.m3u8
+#EXTINF:0,Channel 4
+http://84.232.5.115/liveedge/ch4.stream/playlist.m3u8
+#EXTINF:0,Channel 5
+http://84.232.5.115/liveedge/ch5.stream/playlist.m3u8
+#EXTINF:0,Bliss
+http://84.232.5.115/liveedge/bliss.stream/playlist.m3u8
+#EXTINF:0,4 Seven
+http://84.232.5.115/liveedge/4seven.stream/playlist.m3u8
+#EXTINF:0,5 Star
+http://84.232.5.115/liveedge/5star.stream/playlist.m3u8
+#EXTINF:0,5 USA
+http://84.232.5.115/liveedge/5usa.stream/playlist.m3u8
+#EXTINF:0,Alibi
+http://84.232.5.115/liveedge3/alibi.stream/playlist.m3u8
+#EXTINF:0,At The Races
+http://84.232.5.115/liveedge3/attheraces.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+#EXTINF:0,BT Sport ESPN
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://84.232.5.115/liveedge3/cartoon.stream/playlist.m3u8
+#EXTINF:0,CBS Reality
+http://84.232.5.115/liveedge/cbsreality.stream/playlist.m3u8
+#EXTINF:0,Challenge
+http://84.232.5.115/liveedge/challenge.stream/playlist.m3u8
+#EXTINF:0,Comedy Central
+http://84.232.5.115/liveedge3/comedy.stream/playlist.m3u8
+#EXTINF:0,Dave
+http://84.232.5.115/liveedge3/dave.stream/playlist.m3u8
+#EXTINF:0,Discovery History
+http://84.232.5.115/liveedge3/discovhistory.stream/playlist.m3u8
+#EXTINF:0,Discovery Science
+http://84.232.5.115/liveedge3/discovsci.stream/playlist.m3u8
+#EXTINF:0,Discovery Shed
+http://84.232.5.115/liveedge3/shed.stream/playlist.m3u8
+#EXTINF:0,Discovery Turbo
+http://84.232.5.115/liveedge3/discovturbo.stream/playlist.m3u8
+#EXTINF:0,Disney Channel
+http://84.232.5.115/liveedge3/disney.stream/playlist.m3u8
+#EXTINF:0,Disney Jr
+http://84.232.5.115/liveedge3/disneyjr.stream/playlist.m3u8
+#EXTINF:0,Disney XD
+http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
+#EXTINF:0,DMax
+http://84.232.5.115/liveedge3/dmax.stream/playlist.m3u8
+#EXTINF:0,Drama
+http://84.232.5.115/liveedge3/drama.stream/playlist.m3u8
+#EXTINF:0,E4
+http://84.232.5.115/liveedge/e4.stream/playlist.m3u8
+#EXTINF:0,E!
+http://84.232.5.115/liveedge/e.stream/playlist.m3u8
+#EXTINF:0,Eden
+http://84.232.5.115/liveedge3/eden.stream/playlist.m3u8
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+#EXTINF:0,Film 4
+http://84.232.5.115/liveedge/film4.stream/playlist.m3u8
+#EXTINF:0,Flava
+http://84.232.5.115/liveedge/flava.stream/playlist.m3u8
+#EXTINF:0,Food Network
+http://84.232.5.115/liveedge/foodnetwork.stream/playlist.m3u8
+#EXTINF:0,FOX
+http://84.232.5.115/liveedge3/fox.stream/playlist.m3u8
+#EXTINF:0,FX
+http://84.232.5.115/liveedge/fx.stream/playlist.m3u8
+#EXTINF:0,Gold
+http://84.232.5.115/liveedge3/gold.stream/playlist.m3u8
+#EXTINF:0,H2
+http://84.232.5.115/liveedge3/h2.stream/playlist.m3u8
+#EXTINF:0,History
+http://84.232.5.115/liveedge3/history.stream/playlist.m3u8
+#EXTINF:0,ITV 1
+http://84.232.5.115/liveedge/itv1.stream/playlist.m3u8
+#EXTINF:0,ITV 2
+http://84.232.5.115/liveedge/itv2.stream/playlist.m3u8
+#EXTINF:0,ITV 3
+http://84.232.5.115/liveedge/itv3.stream/playlist.m3u8
+#EXTINF:0,ITV 4
+http://84.232.5.115/liveedge/itv4.stream/playlist.m3u8
+#EXTINF:0,ITV be
+http://84.232.5.115/liveedge/itvbe.stream/playlist.m3u8
+#EXTINF:0,ITV Encore
+http://84.232.5.115/liveedge3/itvencore.stream/playlist.m3u8
+#EXTINF:0,More 4
+http://84.232.5.115/liveedge/more4.stream/playlist.m3u8
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+#EXTINF:0,Movies 24
+http://84.232.5.115:80/liveedge3/movies24.stream/playlist.m3u8
+#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+#EXTINF:0,Nat Geo
+http://84.232.5.115/liveedge3/natgeo.stream/playlist.m3u8
+#EXTINF:0,Nat Geo Wild
+http://84.232.5.115/liveedge3/natgeowild.stream/playlist.m3u8
+#EXTINF:0,Pick
+http://84.232.5.115/liveedge/pick.stream/playlist.m3u8
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+#EXTINF:0,Quest
+http://84.232.5.115/liveedge3/quest.stream/playlist.m3u8
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+#EXTINF:0,Really
+http://84.232.5.115/liveedge3/really.stream/playlist.m3u8
+#EXTINF:0,RTE 1
+http://84.232.5.115/liveedge3/rte1.stream/playlist.m3u8
+#EXTINF:0,RTE 2
+http://84.232.5.115/liveedge3/rte2.stream/playlist.m3u8
+#EXTINF:0,Scuzz
+http://84.232.5.115/liveedge/scuzz.stream/playlist.m3u8
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+#EXTINF:0,Sky 1
+http://84.232.5.115/liveedge3/sky1.stream/playlist.m3u8
+#EXTINF:0,Sky 2
+http://84.232.5.115/liveedge3/sky2.stream/playlist.m3u8
+#EXTINF:0,Sky Atlantic
+http://84.232.5.115/liveedge/atlantic.stream/playlist.m3u8
+#EXTINF:0,Sky Living
+http://84.232.5.115/liveedge/living.stream/playlist.m3u8
+#EXTINF:0,Sky LivingIt
+http://84.232.5.115/liveedge3/livingit.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Action & Adventure
+http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Comedy
+http://84.232.5.115/liveedge3/movcomedy.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Crime & Thriller
+http://84.232.5.115/liveedge3/movthriller.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Disney
+http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Drama & Romance
+http://84.232.5.115/liveedge3/movdrama.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Family
+http://84.232.5.115/liveedge3/movfamily.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Greats
+http://84.232.5.115/liveedge3/movgreats.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Premiere
+http://84.232.5.115/liveedge3/movpremier.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Sci-Fi & Horror
+http://84.232.5.115/liveedge3/movscifi.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Select
+http://84.232.5.115/liveedge3/movselect.stream/playlist.m3u8
+#EXTINF:0,Sky Movies Showcase
+http://84.232.5.115/liveedge3/movshowcase.stream/playlist.m3u8
+#EXTINF:0,Sky News
+http://84.232.5.115/liveedge/skynews.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+#EXTINF:0,Spike
+http://84.232.5.115/liveedge/spike.stream/playlist.m3u8
+#EXTINF:0,SyFy
+http://84.232.5.115/liveedge3/syfy.stream/playlist.m3u8
+#EXTINF:0,TG4
+http://84.232.5.115/liveedge3/tg4.stream/playlist.m3u8
+#EXTINF:0,The Vault
+http://84.232.5.115/liveedge/vault.stream/playlist.m3u8
+#EXTINF:0,TLC
+http://84.232.5.115/liveedge3/tlc.stream/playlist.m3u8
+#EXTINF:0,True Drama
+http://84.232.5.115/liveedge/truedrama.stream/playlist.m3u8
+#EXTINF:0,True Entertainment
+http://84.232.5.115/liveedge/trueent.stream/playlist.m3u8
+#EXTINF:0,True Movies 1
+http://84.232.5.115/liveedge/true1.stream/playlist.m3u8
+#EXTINF:0,True Movies 2
+http://84.232.5.115/liveedge/true2.stream/playlist.m3u8
+#EXTINF:0,TruTV
+http://84.232.5.115/liveedge/trutv.stream/playlist.m3u8
+#EXTINF:0,Universal
+http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
+#EXTINF:0,Watch
+http://84.232.5.115/liveedge3/watch.stream/playlist.m3u8
+#EXTINF:0,Yesterday
+http://84.232.5.115/liveedge3/yesterday.stream/playlist.m3u8
