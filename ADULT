@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF‬ SuperOne
+http://46.223.24.59:8001/1:0:1:409:2:1:E0831B3:0:0:0:
 #EXTINF:-1,PRIVATE
 http://62.210.88.244:8081/private/private/playlist.m3u8
 #EXTINF:-1,SEXZONE HD
