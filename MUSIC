@@ -1,47 +1,37 @@
 #EXTM3U
-EXTINF:-1 group-title=INSPIRATIONLINKS,BEST MUSIC
+EXTINF:-1,INSPIRATIONLINKS,BEST MUSIC
+rtmp://stream.smcloud.net/live2/best/best_720p
 
- rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,INSPIRATIONLINKS,HIP HOP
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 
- #EXTINF:-1 group-title=INSPIRATIONLINKS,HIP HOP
+#EXTINF:-1,INSPIRATIONLINKS,NOW MUSIC
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
- http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,INSPIRATIONLINKS,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
 
- #EXTINF:-1 group-title=INSPIRATIONLINKS,NOW MUSIC
+#EXTINF:-1,INSPIRATIONLINKS,VEVO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
- http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,INSPIRATIONLINKS,VEVO1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
- #EXTINF:-1 group-title=INSPIRATIONLINKS,CAPITAL TV
+#EXTINF:-1,INSPIRATIONLINKS,VEVO2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#sthash.5BTmv7D4.dpuf
 
- http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+#EXTINF:-1,INSPIRATIONLINKS,M6 MUSIC
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
- #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO
+#EXTINF:-1,INSPIRATIONLINKS,COLOSAL TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 
- http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,INSPIRATIONLINKS,1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
 
- #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO1
+#EXTINF:-1,INSPIRATIONLINKS, HOT HOT HOT
+http://www.djing.com/tv/hothothot.m3u8
 
- http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
- #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO2
-
- http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#sthash.5BTmv7D4.dpuf
-
- #EXTINF:-1 group-title=INSPIRATIONLINKS,M6 MUSIC
-
- https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
- #EXTINF:-1 group-title=INSPIRATIONLINKS,COLOSAL TV
-
- rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-
- #EXTINF:-1 group-title=INSPIRATIONLINKS,1HD
-
- http://109.239.142.62:1935/live/livestream3/playlist.m3u8
-
- #EXTINF:-1 group-title=INSPIRATIONLINKS, HOT HOT HOT
-
- http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1, OLD SCHOOL RAP
 http://208.77.21.13:14930
 
