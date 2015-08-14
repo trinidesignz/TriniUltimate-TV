@@ -1,122 +1,47 @@
 #EXTM3U
-#EXTINF:0,THE COOL TV
-http://198.179.31.201/live/272.high.stream/playlist.m3u8?id=e7ac64b82426f77bacc74f1a820e8704b23fb09f0dc5f2d57fe92d37f03173e74779007083bb30f682792ee38d83810c4d6dc022c745c6ba47bc9ab64cd264bba0dd5a3d44193ad42284447545a68af1b4afa7d3b86eeaf7f4a94e8ea21b2fc27fa3c32a2a75d76aa0261124ef6223cf739b45291734d2c3b69834533a6b892d8039253bf7ba62dedf5edc4b62af93ab0f2dcca1e67ba776
-#EXTINF:1,ServusHD
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-b.m3u8
+EXTINF:-1 group-title=INSPIRATIONLINKS,BEST MUSIC
 
-#EXTINF:-1,VEVO Originals
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/136.m3u8
+ rtmp://stream.smcloud.net/live2/best/best_720p
 
-#EXTINF:-1,USA:Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,HIP HOP
 
-#EXTINF:-1,USA:Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 
-#EXTINF:-1,USA:Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,NOW MUSIC
 
-#EXTINF:0,The Soundtrack Channel
-http://198.179.31.196/live/350.high.stream/playlist.m3u8?id=5d971a4e1e5ffd0054b491b2221c2ee7dd8b3956de4899e064264a2896142f68e57f7109241ce4edd9e45aa48a0655ac3268f6c4318c62bc45e7cdce33536c0d62748030817ac4bc363b20aa4c9a40dc2a6a9a8df392274a48ebd49ebe217bce108d8e27544e1698396dbd4c5a777180dc0145708c87dfd1875b29f96903548fbeefe2cb2d59477b03c37aa9c54c3ecc013cfc965911f2cf
+ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:0,FilmOn Rock TV
-http://198.179.31.197/live/311.high.stream/playlist.m3u8?id=b7d646bb2ea72a246675322e5e3502b07451050a221925400464a5117fc1221cc256adbcb6005ce282fb44a1972135f9d4bfd2bcd7a75a10eb6f02c0da6b901659c7918b8debfdb25245cacfb0c5bf9a45f89f27bebc652cecc6369bc967a9c6a6e20536d2fdc9058cc58835ef16ef244bd901ca0a14d21b5b3b901a422c3d50d85de48c8a63dabc55f6ae9a7d3fbf1bb6eaa8529cd600fe
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,CAPITAL TV
 
-#EXTINF:0,Urban Music Network
-http://198.179.31.197/live/347.high.stream/playlist.m3u8?id=65d4e131e0b3a56363d8454c2893f2167a15ef0ba81a6bef538e77b008a48e931bb2b859e2b67f1803d1eaebde3795c4976d098bb947a553110627863e1a81912589997fdbbe502440f916672c9d6798761e760eedd419fc7294c95db93b3097b2178bf37ef9c11fd32b403d9e4b047d5d84936230333857cf98bb065fbffbb98b55abcf14ad45ca5a23c4754a3dc89be604f17a1ded4442
+ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
 
-#EXTINF:-1,USA:Kiss Tv Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO
 
-#EXTINF:0,360 TuneBox
-http://serv19.vintera.tv:8081/boxhd/360Tune/playlist.m3u8
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:0,Radio Monte Carlo TV
-http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO1
 
-#EXTINF:-1,AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:-1,Amazing
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,VEVO2
 
-#EXTINF:-1,ARABIC:GEM MIFA MUSIC
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-SDq?ref=www.gemonline.tv&USER=MIFA+MUSIC
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#sthash.5BTmv7D4.dpuf
 
-#EXTINF:-1,BRASIL First Music HD 1080p
-rtmp://109.239.142.62/live/livestream3
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,M6 MUSIC
 
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1,Film ON TV Clubbing
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,COLOSAL TV
 
-#EXTINF:-1,One Classic HD 720
-rtmp://91.201.78.3:1935/live/classicshd
+ rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 
-#EXTINF:-1,One Dance HD 720
-rtmp://91.201.78.3:1935/live/dancehd
+ #EXTINF:-1 group-title=INSPIRATIONLINKS,1HD
 
-#EXTINF:-1,One Jazz HD 720
-rtmp://91.201.78.3:1935/live/jazzhd
+ http://109.239.142.62:1935/live/livestream3/playlist.m3u8
 
-#EXTINF:-1,One Live Mix HD 720
-rtmp://91.201.78.3:1935/live/onehdhd
+ #EXTINF:-1 group-title=INSPIRATIONLINKS, HOT HOT HOT
 
-#EXTINF:-1,One Pop HD 720
-rtmp://91.201.78.3:1935/live/pophd
-
-#EXTINF:-1,One Rock HD 720
-rtmp://91.201.78.3:1935/live/rockhd
-
-#EXTINF:-1, MTV Hits
-http://edge.ailetv.net/org16/mtvhits_me/playlist.m3u8
-
-#EXTINF:-1, MTV Dance Rus
-http://edge.ailetv.net/org6/mtvdance_me/playlist.m3u8
-
-#EXTINF:-1, MCM Top
-http://edge.ailetv.net/org7/mcmtop_me/playlist.m3u8
-
-#EXTINF:-1, VIVA TV
-http://edge.ailetv.net/org17/vivatv_me/playlist.m3u8
-
-Bridge TV
-http://edge.ailetv.net/org6/bridgetv_me/playlist.m3u8
-
-#EXTINF:-1, A-One
-http://edge.ailetv.net/org5/aone_me/playlist.m3u8
-
-#EXTINF:-1, VH-1 Classic
-http://edge.ailetv.net/org13/vh1classic_me/playlist.m3u8
-
-#EXTINF:-1, Music Box
-http://edge.ailetv.net/org17/musicbox_me/playlist.m3u8
-
-#EXTINF:-1, U TV
-http://edge.ailetv.net/org17/yutv_me/playlist.m3u8
-
-#EXTINF:-1, Music First
-http://edge.ailetv.net/org15/muzikapervogo_me/playlist.m3u8
-
-#EXTINF:-1 group-title="Muzik",Vevo TV 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",Vevo TV 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",Vevo TV 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 group-title="Muzik",FRANSA:Music Box 80 7h-19h
-http://teleclub.fr/musicbox80.mp4
-#EXTINF:-1 group-title="Muzik",VIETNAM VMusic
-http://83.170.111.147:1935/liveStream/mtv_1/HasBahCa.m3u8
-#EXTINF:-1 group-title="Muzik",Virgin TV
-rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:-1 group-title="Muzik",VM Channel HD 720
-http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",Yumor TV
-http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
-
+ http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1, OLD SCHOOL RAP
 http://208.77.21.13:14930
 
