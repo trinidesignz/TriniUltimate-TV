@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0,Dorcel TV
-http://46.223.24.59:8001/1:0:1:364C:...:820000:0:0:0:
-#EXTINF:0,Premium Redlight
-http://46.223.24.59:8001/1:0:1:35C0:...:820000:0:0:0:
-#EXTINF:0,EXOTICA TV
-http://46.223.24.59:8001/1:0:1:35C1:...:820000:0:0:0:
-#EXTINF:-1,SuperOne
-http://46.223.24.59:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF:0,Hustler HD
+http://tvservice.broke-it.net:8000/l...nato/2337.m3u8
+#EXTINF:0,Redlight HD
+http://tvservice.broke-it.net:8000/l...nato/2462.m3u8
+#EXTINF:0,xxx-Paradise
+http://tvservice.broke-it.net:8000/l...nato/1572.m3u8
+#EXTINF:0,Dorcel XXX
+http://tvservice.broke-it.net:8000/l...nato/1573.m3u8
 #EXTINF:-1,PRIVATE
 http://62.210.88.244:8081/private/private/playlist.m3u8
 #EXTINF:-1,SEXZONE HD
