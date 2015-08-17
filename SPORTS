@@ -1,19 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#EXTINF:-1,Fox3
-http://stream.primetime.to/hls/foxhd.m3u8
-
-#EXTINF:-1,Fox (EN)
-http://ift.tt/1S09fIA
-
-#EXTINF:-1,FOX
-http://tinyurl.com/p4ybokc
-
-#EXTINF:-1,FOX
-http://tinyurl.com/ovhxfrf
 
 #EXTINF:-1,SN360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
@@ -83,168 +70,35 @@ rtmp://tv1.streampulse.eu/tilesport/movie1
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
 
 
-
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 #EXTINF:-1,USA Live TV Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
 http://xrxs.net/video/live-p12ariz-1164.m3u8
-
 #EXTINF:-1,USA-BASKET UNI.(Los Angeles)
 http://xrxs.net/video/live-p12losa-1164.m3u8
-
 #EXTINF:-1,USA-BASKET UNI.(Moutain)
 http://xrxs.net/video/live-p12moun-1164.m3u8
-
 #EXTINF:-1,USA-BASKET UNI.(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:0,SUPER SPORT HD1
-http://bit.ly/1h7ph8k
-#EXTINF:0,SUPER SPORT HD2
-http://bit.ly/1OQlpUp
-#EXTINF:0,SUPER SPORT HD3
-http://bit.ly/1I3WTgh
-#EXTINF:0,SUPER SPORT HD4
-http://bit.ly/1LSLeDl
-EXTINF:-1,UK:UK-SkySports1,
-http://bit.ly/1UwYBwb
-EXTINF:-1,UK:UK-Sky_Sports2,
-http://bit.ly/1J456EO
-EXTINF:-1,UK:UK-Sky_Sports3,
-http://bit.ly/1WamGKW
-EXTINF:-1,UK:UK-Sky_Sports4,
-http://bit.ly/1f1urRH
-EXTINF:-1,UK:UK-Sky_Sports5,
-http://bit.ly/1IBzJf9
-EXTINF:-1,UK: Sky BT Sport 2
-http://bit.ly/1IBzLDR
-#EXTINF:-1,UK: Setanta Sports
-http://bit.ly/1IWYSEN
-#EXTINF:-1,UK: Premier Sports
-http://bit.ly/1DzKy50
-#EXTINF:-1,UK: BT Sport 1
-http://bit.ly/1KbOs0p
-#EXTINF:-1,SUPER PRORT HD 1
-http://bit.ly/1J45fIj
-#EXTINF:-1,SUPER PRORT HD2
-http://bit.ly/1Ivpqvq
-#EXTINF:-1,SUPER PRORT HD3
-http://bit.ly/1DFcC6G
-#EXTINF:-1,SUPER PRORT HD4
-http://bit.ly/1IQKycx
-#EXTINF:0,M1 Hungary
-http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
-#EXTINF:0,M2 Hungary
-http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
-#EXTINF:-1,M2 HD
-http://152.66.115.226:8090/bysid/200
-#EXTINF:-1,RTL Klub
-http://152.66.115.226:8090/bysid/203
-#EXTINF:-1,TV2
-http://152.66.115.226:8090/bysid/204
-#EXTINF:-1,MinDig TV Plusz Info
-http://152.66.115.226:8090/bysid/214
-#EXTINF:-1,M1 HD
-http://152.66.115.226:8091/bysid/100
-#EXTINF:-1,M4 Sport HD
-http://152.66.115.226:8091/bysid/101
-#EXTINF:-1,Duna World
-http://152.66.115.226:8091/bysid/120
-#EXTINF:-1,Duna HD
-http://152.66.115.226:8091/bysid/121
-#EXTINF:-1,sevillafc
-http://flash0.80137-live0.dna.qbrick.com:1935/80137-live0/sevillafc/playlist.m3u8
-#EXTINF:-1,AZTECA DEPORTES
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:0,SPORTV AMERICAS
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:0,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,BARCELONA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
-#EXTINF:0,LIGA BBVA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
-#EXTINF:0,SEVILLA FC
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-#EXTINF:0,LIVERPOOL
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-#EXTINF:0,CHELSEA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:0,MANCHESTER CITY
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
-#EXTINF:0,AZTECA DEPORTES
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:0,SPORT1 (GER)
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, MOTOR SPORT 
-http://motorsport.hopto.org:8080/
-#EXTINF:0,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:0,TRTSPOR1
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:0,EUROSPORT (ENG)
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,EUROSPORT 1 (FR)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8#sthash.ulpTrB7G.dpuf
-#EXTINF:0,CDN-SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Eurosport
-http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
-#EXTINF:-1,BTN
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,Sportsnetnow WWE
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,NTV SPORT
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1,Sports TV3
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1,Sport 10
-http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
-#EXTINF:-1,Sporttime
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1,Sporttime
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1,StarSports 1
-rtsp://live2.dabang.pk/tv/sports1
-#EXTINF:-1,Sporttime
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1,Motorsport TV
-http://motorsport.hopto.org:8080
-#EXTINF:-1 tvg-logo=înba.pngî, ESPN
-rtmp://141.255.160.202:1935/stream playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3z5b4d4t4w3x2x4h5n244z294u2u28424w2u2w2t223f4&adx=&stream=54y2n5i57494y264d4k544b4v2a494n244v4n4y2w2i304c4x4l5t22433y234y2x2p2t274y2z32363y3q2x4y5b4e4f3v3c4t4i2k4j4v5k474n33574a414p4h4z33456t226c4n424r2p2z294b434h5233314y2k5b4a4j5u24494j5s244v264338444d4y2z264b494m56434t2y3s2p224r2p2o2&sooor=NA==&str=is&ok=&cat=2&link=1&idom=www.gofeed2all.eu
-#EXTINF:-1 tvg-logo=îtracesports.pngî group-title=îDeportesî,Trace Sports eng
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1 tvg-logo=îbtsport.pngî, Bt sports 2
-rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
-
-#EXTINF:-1,Saudi Arabia Sport
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
-
-#EXTINF:-1, CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1, Super Sport News
-http://80.80.160.201/http_livestr.m3u8?id=ssnews
