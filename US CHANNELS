@@ -1,57 +1,137 @@
 #EXTM3U
-#EXTINF:0,fox news
-http://64.100.15.201/udp/239.255.2.1:10001
-#EXTINF:0,tnt
-http://64.100.15.201/udp/239.255.2.2:10001
-#EXTINF:0,cnn
-http://64.100.15.201/udp/239.255.2.3:10001
-#EXTINF:0,tru tv
-http://64.100.15.201/udp/239.255.2.4:10001
-#EXTINF:0,nlf
-http://64.100.15.201/udp/239.255.2.5:10001
-#EXTINF:0,ngtv
-http://64.100.15.201/udp/239.255.2.6:10001
-#EXTINF:0,sport
-http://64.100.15.201/udp/239.255.2.7:10001
-#EXTINF:0,bravo
+#EXTINF:0,UFC
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
+#EXTINF:0,Top News-CNN HD
+http://167.114.157.40:1935/flu555/_definst_/jcnn/playlist.m3u8?token=
+#EXTINF:0,Top Entertainment – AMC HD
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+#EXTINF:0,Top Kids-Disney XD
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
+#EXTINF:0,Top Movies-HBO Comedy
+http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+#EXTINF:0,Top Documentary-Nat Geo
+http://167.114.101.188:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+#EXTINF:0,Top Lifestyle-HGTV
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,BEST CHANNEL LINEUP NOW AVAILABLE!
 http://64.100.15.201/udp/239.255.2.8:10001
-#EXTINF:0,fx
-http://64.100.15.201/udp/239.255.2.9:10001
-#EXTINF:0,amc
-http://64.100.15.201/udp/239.255.2.10:10001
-#EXTINF:0,FilmOn Kids
-http://198.179.31.196/live/7.high.stream/playlist.m3u8?id=d56ba7f0771e834aba00e1b33e0efe14c8235c3ad9491d57545396ed2a045cab4a61d02c6fda53a193bc676725aa021f1f8516d6e9775699d9c63bc6637ad0f62dd9ca9c37b59e7967217bc78cd77fc3ed0c87332104c9a79f26ce23228ead263e1db39133537abbc990ccb60a28e9256e37555b2bd72589c3ada3be52be4f6bc1e80042440ceb19590e3013930215d1551196d7f5d07b06
-#EXTINF:0,The Florida Channel
-http://198.179.31.198/live/305.high.stream/playlist.m3u8?id=655d8af6950f3e0665b9f1616e20ad46d8df53fb1a676d610a05a4ee9e7f93d7dc9befb3cc9f0433d00e1c722c4c0db60796bad26ddc4427be59426c85a58661a86cc580dc7f3287dc481ab90acfcdb14ead612b646ff02cbf6874ddc1f1f06b503d1d671df0b5ae4d7b6a4cab560c38aa08f132947e0a02cde59700d3bfb5a16db86fa8e407bb62451f1d181a8f7b8bd93138840dbb2b97
-#EXTINF:0,Jewelry TV
-http://198.179.31.198/live/306.high.stream/playlist.m3u8?id=28e6a09208520bbc6a6a5db229bdd82b3488b5262af03f9da5e04fbe421f01713b5e66ab03f576e1341d57ba97d8ebe464dd042dcc12b87b6b89f199a0ec4326241bb372d22eb6c22ff3e13eb3dad9437251ca0c91a543471ae95eca8bdbdf97bba0fd6febdadada94a98113163390ec1c84510fced1b9486ae98b378311ec988fe63316c4b3a8b85e5d9bfb3200670501d94c293fffd685
-#EXTINF:0,Classic Arts Showcase
-http://198.179.31.198/live/309.high.stream/playlist.m3u8?id=f5919484db5826088291c734b50da86d51c5a4fec58679bea18da20727c508b8ebba98d7ed7d773375cbf3f0ea10f5940e444eba3a4c310c5687bfd26672ca984e3c3d7e0aad0e1f88bf7e448740eee3727c7a67c87771af54e98f44d7bab1387efccfbb9ddc4824f8f622108c692a3b0c063c8638d9037546e1223c0e393f134eee73e6e0a5ccf5d5000eeb7bcb9b4178077828e855bc6a
-#EXTINF:0,FilmOn Grab Bag TV
-http://198.179.31.197/live/310.high.stream/playlist.m3u8?id=50cac0225c54d44e516d4bee143ed5f866d7f3c60c4da7d36e18ec1d98ae07114c17fef4466d301ce08d91de5d515e866bc1d62cd58e0a1908a66e4b25a2941ff12f26d5653a7c4e407721e3c218a6908d8a192905d14ddb6078c259ce2e49f9ed995f8fe515d5e30b5332de666473487662945685e2059b98658dfd32ad16d32e1ca1bb21290457410ed09c33e04a31ef2d4a5f8176dd45
-#EXTINF:0,NASA HD
-http://198.179.31.198/live/330.high.stream/playlist.m3u8?id=b3a44f73949b3b7170a7807d22d30a875a601dc3626fdddf3caaa9f302ed187caf7aa8d23ed7e3be0f211dc76201aff4f4a898655dc0c5540c3037c685a5a4808ddb481a927a817cd0a01008d6c7d14e6f4201e68c2f1ed63c63dcd1d46fb14762b70110055a304a1273f7a7e038bb0e6d69c94d55ecc7c193477c18d1235f6e6671a750fca8a8b149a878b4fe0ebfa85dddf63935cda340
-#EXTINF:0,Pentagon
-http://198.179.31.198/live/333.high.stream/playlist.m3u8?id=bf448d96efbe9afe78bcc73e27859f92196ce460d418d1ed93762ded16e5d27c4976985f30c535f21b336f66c1b77114e8b3112ed43167b659ccdac58f5c64888b0b5c5d1e329eafa7aa9366e512c27613f265232adad3c4dda444cabd41c4394deeebd74519710e0d0b51420054c4a3a572ca6d6269594cb7e18ed6fea76bb03aebd615766433ee44acfe984430fc0fb36b7f81edda1be5
-#EXTINF:0,Terror-Flix
-http://198.179.31.196/live/339.high.stream/playlist.m3u8?id=fb03ceeab2d399e94330aef402cd67983faf32f85127b89f1984e1388bfb1984fd1ddef97c9b180ae5721c7aec1182f2026b01f8c3e9f29cc224f19fce086ba8af7163e1d14aceb2a96e71c0c749e253b50f0eedb987a4bb7bdb578946ce5f43c3bc7de54bad80f05f4d082d3f3ff7d964536cb2e48e5a3abb008c732b51119eb78ce3b9f78b50c0f397c1b040fa8d550c18106893b16526
-#EXTINF:0,The Walk TV
-http://198.179.31.198/live/340.high.stream/playlist.m3u8?id=2280e3b08def874fad1f6d6c83e5a443206e677c4892c3d5901fe629e32c7cfffe4ffbbdd83554e829bfe59af90bd991c22b5489888a56e97422970f2f36bd5a7ac3cb1a3f014cce7a755d12d8df52fd8241a642f9b99349d0037d8041dc4e75c07403511570b460dc28e3b41b31341a0906761ee901c0975c4b8f4fb393ce8e780cbffaac67ee234a0092a508a9ca5b5bb05fef1af61bc5
-#EXTINF:0,BizTV
-http://198.179.31.198/live/343.high.stream/playlist.m3u8?id=e491e9f5fda2f6bfe7aaa329f480c6b986a855d921d8caaae01abb36e9c2f95a443f1d826cacc6f63a20beb521e57559e3af81a39d3b04b187e68e3e197b53290e8af521b236089b7138f3dc419cc340b3eb6c9c3c6112521c6747ee995569c8f440f536eca2e198bcc5437875f8c02171f08ccd2e6c5e96890da659e6b87623482ed404059a36f2abd40e3e0f09d7554737fc9d70dec3d7
-#EXTINF:0,ComedyTime TV
-http://198.179.31.197/live/344.high.stream/playlist.m3u8?id=4e1ad1203aa010fa8f4e8d87ece2daa3e2ae838345cf1175c72484345dfba6ac06ecef8f9feb0a94cabad7dca977d10103335c7688e8ddc6316b3e34d279f24796ac2ad0aec171deabb64661dd3ec334ddc3835560eca6ad66deead02eb9324478d51413f77a14d2e33d5330fe238e9f9deb3ee9e867343fbb8cb822185f8a0b427ae0016e4a6d817e7d96814ee4898f38ae477a06d8d81f
-#EXTINF:0,Pursuit Channel
-http://198.179.31.198/live/349.high.stream/playlist.m3u8?id=d49e43585eeaaea22d8ba54081d92ff45b5bb4208a6815da5718b92752f6493dab4131ae6c86f76ab79a4f00b61c82b4815886fe24a71361a44bceb9c262190940f3310ef7b6bd91e1e557df9c6699fe0afc60e3bc207c81329301d066173671aed249b697d7d8c37e4afeaeee98721975eea91f45c6e4fcf8d70461ba12182906b693ee98b3f3d7c2e697427e751f70c1a5362dd83901c1
-#EXTINF:0,NWA Wrestling
-http://198.179.31.196/live/373.high.stream/playlist.m3u8?id=5cc184273aafe3e51cbbbee51a406d98e4ba36523f3aae4ee121f0be6177437f20147982f91ade62f53a2da43f84a9930ffe38612d96652ae092ee576284d278d9e2f5011bf77ad353d68a24a38631f5b68cd24806e1bdcb79bc098ab19b35e911a0808fbb89473735a8d1ce3ceb58779faac3c6fa2a6a3ad7904572fd34ec1fce77341411ebf959f691820f8f432aed614b8215d9a5ad61
-#EXTINF:0,WW2 TeeVee
-http://198.179.31.196/live/381.high.stream/playlist.m3u8?id=56468b271e9e59a519d2abe88daab19f6071e5ae7e22a3afe5fe8232dd48cd34556acb844124e2fb863b601d779e615e851153efe03a03e4e4c4956255921ea76a395b06d154ff5e33ef7d9dacd8c26830023daeacb89ca6aa6112cc777804cd10f2b2d9aa0df1226c18dfe7df6d31c3bbf78b296870b26172e5e7705928eabe2d78030feca8fdb6d4ac918ba1f784e23b8a0459a21ae76c
-#EXTINF:0,The Church Channel
-http://198.179.31.198/live/399.high.stream/playlist.m3u8?id=66a8456c5fd8dafea95f29763e8a33da9a1f80c1ed6f9617fe7479827fed927572399bb3b6a289022901112e580cb8be78ce3f25e9f4d191b9f234da48551709201f38a0f40894bf1808f673d88f4c8a04eec3172ba7f392a9ddc3ccaccb9931557f872861fc7e64a5b9b52e609c507e4f6ee206edf868b0167232e2839592f539c031419df1dc75636e0eb76834fc930889f5ef94bfdd73
-#EXTINF:0,JCTV
-http://198.179.31.198/live/400.high.stream/playlist.m3u8?id=8a3612bdbf89c608ab4ddc4cc51f09520bcff0623f2611fd83a7c2feb50c6140ece7af3ad596da6fde501ef7d5b7f5350ee97e9b124763a31a739fbc463de790df211b8f6cc1a483b5d33ee7fcdb2f5fa810bf07919c4737fd9505b33b36944cc1b5373deeb4cfbd9fb602049c7ef2695d49c5048b1048268dbdfa68abb93322af98ace201af6b0d8fc7fb6017ae1207197d29af7cc41434
-#EXTINF:0,TBN
-http://198.179.31.198/live/398.high.stream/playlist.m3u8?id=a6bb9d771a6f0faac26a8c8e8bb692797875b19f3999c57438569fb239de9417e8b38ab6d49698423cd62ca3c24c27b7a94fb91d089648605a858b15b9bb1dc110c7cf3eef338e576e7e9a888c38df3e8b3b37e822689923ef176afe6efaa039443219d015bb1cbb5373a7c0bd83e788d145e06923ec6514d66f4c028692b96a40d60b50334a82a916086d5d44dcef372b64e37c960235cd
-#EXTINF:0,Smile of a Child
-http://198.179.31.198/live/401.high.stream/playlist.m3u8?id=29c92ad4ebd71eb119dad6319e6f699fd532fa7ee4733c020a5f6db9ab54e42bea480765adb368f2d129b80bb9b7aff0e5e367ecc804157455489400d56d28e41b5175d12a01392cb67a3038be020d452a4d1824257017fad46b52db255cd30fe3602ffc9d8f6d088fd8291ce8f30ac8fd57a7a81de861ea710cf977d1bf510f604840f6a27c7de37c5b194ee49269281385768f4303ba35
+#EXTINF:0,Updated:8/15-BBC World News
+http://81.92.105.134:5555/pl.m3u8?channel=144
+#EXTINF:0,Updated:8/15-CNN HD
+http://167.114.157.40:1935/flu555/_definst_/jcnn/playlist.m3u8?token=
+#EXTINF:0,WGN (CW)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,CTV 1
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:0,CTV 2
+http://198.179.31.198/live/2054.high.stream/2054.high.stream/index.m3u8
+#EXTINF:0,CTV 3
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+#EXTINF:0,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0,WPIX
+http://167.114.119.209:1935/flu555/_definst_/wpix/playlist.m3u8?token=
+#EXTINF:0,KTLA
+http://192.99.39.240:1935/flu555/_definst_/ktla/playlist.m3u8?token=
+#EXTINF:0,ABC HD
+http://167.114.101.188:1935/flu555/_definst_/abc/playlist.m3u8?token=
+#EXTINF:0,CBS HD
+http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token=
+#EXTINF:0,NBC HD
+http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
+#EXTINF:0,FOX 5 HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+#EXTINF:0,E!
+http://167.114.101.188:1935/flu555/_definst_/e/playlist.m3u8?token=
+#EXTINF:0,Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0,Disney XD
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
+#EXTINF:0,Nick JR
+http://192.99.39.240:1935/flu555/_definst_/nick/playlist.m3u8?token=
+#EXTINF:0,TBS
+http://192.99.19.98:1935/flu555/_definst_/tbs/playlist.m3u8?token=
+#EXTINF:0,Bravo
+http://167.114.119.209:1935/flu555/_definst_/jbravo/playlist.m3u8?token=
+#EXTINF:0,Comedy Central
+http://192.99.19.98:1935/flu555/_definst_/comedycentral/playlist.m3u8?token=
+#EXTINF:0,BET
+http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
+#EXTINF:0,USA Network
+http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+#EXTINF:0,SYFY
+http://192.99.39.240:1935/flu555/_definst_/syfy/playlist.m3u8?token=
+#EXTINF:0,AMC
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+#EXTINF:0,FX
+http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token=
+#EXTINF:0,TNT
+http://167.114.156.30:1935/flu555/_definst_/tnt/playlist.m3u8?token=
+#EXTINF:0,MOVIES HBO EAST
+http://192.99.39.240:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
+#EXTINF:0,HBO Comedy
+http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+#EXTINF:0,HBO Signature
+http://192.99.39.240:1935/flu555/_definst_/hbosignature/playlist.m3u8?token=
+#EXTINF:0,HBO Zone
+http://192.99.39.240:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
+#EXTINF:0,Starz Cinema
+http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token=
+#EXTINF:0,Starz Edge
+http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token=
+#EXTINF:0,Starz East
+http://167.114.101.188:1935/flu555/_definst_/starzeast/playlist.m3u8?token=
+#EXTINF:0,Showcase
+http://167.114.101.188:1935/flu555/_definst_/showcase/playlist.m3u8?token=
+#EXTINF:0,Space
+http://167.114.156.30:1935/flu555/_definst_/space/playlist.m3u8?token=
+#EXTINF:0,Lifetime Movie Network
+http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token=
+#EXTINF:0,MBC Movies Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+#EXTINF:0,MBC Movies Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+#EXTINF:0,MBC Movies Drama
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
+#EXTINF:0,MBC Movies Msr
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
+#EXTINF:0,MBC Movies MAX
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+#EXTINF:0,History Channel
+http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token=
+#EXTINF:0,History 2
+http://167.114.101.188:1935/flu555/_definst_/h2/playlist.m3u8?token=
+#EXTINF:0,National Geographic
+http://192.99.39.240:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+#EXTINF:0,Nat Geo Wild
+http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
+#EXTINF:0,Discovery Channel
+http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
+#EXTINF:0,TLC
+http://167.114.119.209:1935/flu555/_definst_/jtlc/playlist.m3u8?token=
+#EXTINF:0,Animal Planet
+http://167.114.156.29:1935/flu555/_definst_/animal/playlist.m3u8?token=
+#EXTINF:0,HGTV
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,Food Channel
+http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
+#EXTINF:0,Cooking Channel
+http://192.99.39.240:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
+#EXTINF:0,DIY
+http://167.114.101.188:1935/flu555/_definst_/diy/playlist.m3u8?token=
+#EXTINF:0,TNT
+http://64.100.15.201/udp/239.255.2.2:10001
+#EXTINF:0,CNN
+http://64.100.15.201/udp/239.255.2.3:10001
+#EXTINF:0,RU TV
+http://64.100.15.201/udp/239.255.2.4:10001
+#EXTINF:0,NLF
+http://64.100.15.201/udp/239.255.2.5:10001
+#EXTINF:0,NGTV
+http://64.100.15.201/udp/239.255.2.6:10001
+#EXTINF:0,Sport
+http://64.100.15.201/udp/239.255.2.7:10001
+#EXTINF:0,Bravo
+http://64.100.15.201/udp/239.255.2.8:10001i=bvRwBdiy
