@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,NBC 
+rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=kelltgkxow1s084 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
 #EXTINF:-1,NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
