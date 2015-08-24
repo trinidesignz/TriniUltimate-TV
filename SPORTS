@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:0,Arena Sport 1 SR - Arena Sport 1 SR
+http://sangajstream.dyndns.biz:80/live?channelId=77&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,Arena Sport 2 SR - Arena Sport 2 SR
+http://alphaone.dyndns.tv:1293/live?channelId=79&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,Arena Sport 3 SR - Arena Sport 3 SR
+http://alphaone.dyndns.tv:1293/live?channelId=81&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,Arena Sport 4 SR - Arena Sport 4 SR
+http://alphaone.dyndns.tv:1293/live?channelId=83&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,ARENA SPORT 5 SR - ARENA SPORT 5 SR
+http://alphaone.dyndns.tv:1293/live?channelId=85&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,ARENA SPORT 4 HD CRO - ARENA SPORT 4 HD CRO
+http://freeiptv2search.dyndns.tv:2801/live?channelId=84&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,Eurosport 1 - Euro Sport 1
+http://srv2.narodnatv.info:80/live?channelId=19&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,Eurosport 2 - Eurosport 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=20&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
+http://stream6.dyndns.tv:8888/live?channelId=109&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://stream6.dyndns.tv:8888/live?channelId=110&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://stream6.dyndns.tv:8888/live?channelId=111&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
 #EXTINF:-1,NBC 
 rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=kelltgkxow1s084 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
