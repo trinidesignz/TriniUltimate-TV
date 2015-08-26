@@ -1,33 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title=\"Caribbean Channels\", CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0,C MORE- Sport 
-http://188.138.9.228:8023 
-#EXTINF:0,C MORE- Hits 
-http://188.138.9.228:8020 
-#EXTINF:0,C MORE- Series 
-http://188.138.9.228:8021 
-#EXTINF:0,C MORE- ComedyCentral 
-http://188.138.9.228:8022 
-#EXTINF:0,C MORE- First 
-http://188.138.9.228:8024 
-#EXTINF:0,C MORE- Emotion 
-http://188.138.9.228:8025 
-#EXTINF:0,C MORE- Action 
-http://188.138.9.228:8035 
-#EXTINF:0,C MORE HITS 
-http://188.138.9.228:8020 
-#EXTINF:0,C MORE SERIES 
-http://188.138.9.228:8021 
-#EXTINF:0,C MORE COMEDY CENTRAL 
-http://188.138.9.228:8022 
-#EXTINF:0,C MORE SPORT 
-http://188.138.9.228:8023 
-#EXTINF:0,C MORE FIRST 
-http://188.138.9.228:8024 
-#EXTINF:0,TVC Latino
-http://198.179.31.201/live/213.high.stream/playlist.m3u8?id=d2d4b95c40ff20227a66675b168587e71c029e389df1fb4221a391960f46711dda0c581e03fd39d14411539e295eafd7aa48601cd9de8b74765c3ac7ac0ffe3cf34694370188108c8d5ff97b2a81f363863a1865f0150b8c4d7da51915c808abef8260e3e629e9e4f486220a076acc7da4547ccb440631e653aa44d7b7116bb11518cd2deb0901b562df6ebb44143bb162b51552d43f4858
-#EXTINF:0,C MORE EMOTION 
-http://188.138.9.228:8025 
-
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+ 
+#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO (2)
+#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
 
