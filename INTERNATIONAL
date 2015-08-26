@@ -1,11 +1,57 @@
 #EXTM3U
 #EXTINF:-1 group-title=\"Caribbean Channels\", CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
-rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
-#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
-rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
- 
-#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO (2)
-#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
-
+#EXTINF:0,PINK FOLK
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKFOLK
+#EXTINF:0,PINK MUSIC
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKMUSIC
+#EXTINF:0,PINK KIDS
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKKIDS
+#EXTINF:0,PINK
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINK
+#EXTINF:0,PINK 2
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINK2
+#EXTINF:0,PINK 3
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINK3
+#EXTINF:0,PINK BIH
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKBIH
+#EXTINF:0,PINK FILM
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKFILM
+#EXTINF:0,PINK KUVAR
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKKUVAR
+#EXTINF:0,PINK FANTASY
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKFANTASY
+#EXTINF:0,PINK PLUS
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKPLUS
+#EXTINF:0,PINK REALITY
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKREALITY
+#EXTINF:0,PINK TRILLER
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKTRILLER
+#EXTINF:0,PINK PREMIUM
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKPREMIUM
+#EXTINF:0,PINK CLASSIC
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKCLASSIC
+#EXTINF:0,PINK HOROR
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKHOROR
+#EXTINF:0,PINK ACTION
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKACTION
+#EXTINF:0,PINK COMEDY
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKCOMEDY
+#EXTINF:0,PINK MOVIES
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKMOVIES
+#EXTINF:0,PINK ROMANCE
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKROMANCE
+#EXTINF:0,PINK CRIME
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKCRIME
+#EXTINF:0,PINK WESTERN
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKWESTERN
+#EXTINF:0,PINK EXTRA
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKEXTRA
+#EXTINF:0,PINK FOLK 2
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKFOLK2
+#EXTINF:0,PINK SOAP
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKSOAP
+#EXTINF:0,PINK WORLD
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKWORLD
+#EXTINF:0,PINK ZABAVA
+http://185.35.64.6:8000/radionovigrad/radionovigrad/PINKZABAVA
