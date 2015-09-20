@@ -1,122 +1,23 @@
 #EXTM3U
-#EXTINF:-1,Sky Sports News
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/16.ts
-#EXTINF:-1,Racing UK
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/23.ts
-#EXTINF:-1,Box Nation
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/25.ts
-#EXTINF:-1,Sky Sports F1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/17.ts
-#EXTINF:-1,Sky Sports 5
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/15.ts
-#EXTINF:-1,Sky Sports 4
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/14.ts
-#EXTINF:-1,Sky Sports 3
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/13.ts
-#EXTINF:-1,Sky Sports 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/12.ts
-#EXTINF:-1,Sky Sports 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/11.ts
-#EXTINF:-1,CTH Stadium X
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/164.ts
-#EXTINF:-1,CTH Stadium 6
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/163.ts
-#EXTINF:-1,CTH Stadium 5
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/162.ts
-#EXTINF:-1,CTH Stadium 4
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/161.ts
-#EXTINF:-1,CTH Stadium 3
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/160.ts
-#EXTINF:-1,CTH Stadium 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/159.ts
-#EXTINF:-1,CTH Stadium 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/158.ts
-#EXTINF:-1,BT Sport 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/21.ts
-#EXTINF:-1,BT Sport 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/20.ts
-#EXTINF:-1,Bein Sports 16
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/691.ts
-#EXTINF:-1,Bein Sports 15
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/690.ts
-#EXTINF:-1,Bein Sports 14
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/689.ts
-#EXTINF:-1,Bein Sports 13
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/688.ts
-#EXTINF:-1,Bein Sports 12
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/687.ts
-#EXTINF:-1,Bein Sports 11
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/686.ts
-#EXTINF:-1,Bein Sports 10
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/685.ts
-#EXTINF:-1,Bein Sports 9
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/684.ts
-#EXTINF:-1,Bein Sports 8
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/683.ts
-#EXTINF:-1,Bein Sports 7
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/682.ts
-#EXTINF:-1,Bein Sports 6
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/681.ts
-#EXTINF:-1,Bein Sports 5
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/680.ts
-#EXTINF:-1,Bein Sports 4
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/679.ts
-#EXTINF:-1,Bein Sports 3
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/678.ts
-#EXTINF:-1,Bein Sports 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/677.ts
-#EXTINF:-1,Bein Sports 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/676.ts
-
-
-#EXTINF:-1,NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,SPORTSTV 
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1,Warner
-rtmp://kv2.ts33.net/sat/us071
-
-#EXTINF:-1,TileSport TV
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-#EXTINF:-1,CANADA:TVA Sport
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-
-
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,SPORTES 7 HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-#EXTINF:-1,USA Live TV Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:1,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:1,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:1,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:-1, CTH STADIUM 1HD
+http://103.7.56.114/vit2/stadium1new.stream/playlist.m3u8
+#EXTINF:-1, CTH STADIUM 2HD
+http://103.7.56.114/vit2/stadium2new.stream/playlist.m3u8
+#EXTINF:-1, CTH STADIUM 3HD
+http://103.7.56.114/vit2/stadium3new.stream/playlist.m3u8
+#EXTINF:-1, CTH STADIUM 4HD
+http://103.7.56.114/vit2/stadium4new.stream/playlist.m3u8
+#EXTINF:-1, CTH STADIUM 5HD
+http://103.7.56.114/vit2/stadium5new.stream/playlist.m3u8
