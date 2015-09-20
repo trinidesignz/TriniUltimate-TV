@@ -1,12 +1,261 @@
 #EXTM3U
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,COOKING Channel usa 10.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
+#EXTINF:-1,usa 100.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/100.m3u8
+#EXTINF:-1,usa 101.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/101.m3u8
+#EXTINF:-1,usa 102.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
+#EXTINF:-1,usa 103.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/103.m3u8
+#EXTINF:-1,usa 11.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
+#EXTINF:-1,usa 110.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/110.m3u8
+#EXTINF:-1,usa 111.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/111.m3u8
+#EXTINF:-1,usa 112.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/112.m3u8
+#EXTINF:-1,usa 113.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
+#EXTINF:-1,usa 114.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/114.m3u8
+#EXTINF:-1,usa 115.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/115.m3u8
+#EXTINF:-1,usa 116.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
+#EXTINF:-1,usa 118.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/118.m3u8
+#EXTINF:-1,usa 119.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
+#EXTINF:-1,usa 12.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/12.m3u8
+#EXTINF:-1,usa 120.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/120.m3u8
+#EXTINF:-1,usa 121.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u8
+#EXTINF:-1,usa 122.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/122.m3u8
+#EXTINF:-1,usa 123.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/123.m3u8
+#EXTINF:-1,usa 124.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/124.m3u8
+#EXTINF:-1,usa 125.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/125.m3u8
+#EXTINF:-1,usa 127.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/127.m3u8
+#EXTINF:-1,usa 128.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
+#EXTINF:-1,usa 129.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/129.m3u8
+#EXTINF:-1,usa 130.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/130.m3u8
+#EXTINF:-1,usa 131.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/131.m3u8
+#EXTINF:-1,usa 132.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/132.m3u8
+#EXTINF:-1,usa 133.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/133.m3u8
+#EXTINF:-1,usa 134.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/134.m3u8
+#EXTINF:-1,usa 135.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/135.m3u8
+#EXTINF:-1,usa 136.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/136.m3u8
+#EXTINF:-1,usa 138.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1,usa 139.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/139.m3u8
+#EXTINF:-1,usa 14.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/14.m3u8
+#EXTINF:-1,usa 140.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/140.m3u8
+#EXTINF:-1,usa 141.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/141.m3u8
+#EXTINF:-1,usa 142.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/142.m3u8
+#EXTINF:-1,usa 144.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/144.m3u8
+#EXTINF:-1,usa 145.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/145.m3u8
+#EXTINF:-1,usa 146.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/146.m3u8
+#EXTINF:-1,usa 147.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/147.m3u8
+#EXTINF:-1,usa 148.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/148.m3u8
+#EXTINF:-1,usa 149.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/149.m3u8
+#EXTINF:-1,usa 150.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/150.m3u8
+#EXTINF:-1,usa 152.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/152.m3u8
+#EXTINF:-1,usa 153.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/153.m3u8
+#EXTINF:-1,usa 154.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/154.m3u8
+#EXTINF:-1,usa 155.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/155.m3u8
+#EXTINF:-1,usa 156.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+#EXTINF:-1,usa 157.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/157.m3u8
+#EXTINF:-1,usa 16.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/16.m3u8
+#EXTINF:-1,usa 161.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/161.m3u8
+#EXTINF:-1,usa 162.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/162.m3u8
+#EXTINF:-1,usa 163.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/163.m3u8
+#EXTINF:-1,usa 164.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/164.m3u8
+#EXTINF:-1,usa 165.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/165.m3u8
+#EXTINF:-1,usa 167.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/167.m3u8
+#EXTINF:-1,usa 17.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/17.m3u8
+#EXTINF:-1,usa 172.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/172.m3u8
+#EXTINF:-1,usa 174.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/174.m3u8
+#EXTINF:-1,usa 178.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/178.m3u8
+#EXTINF:-1,usa 181.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/181.m3u8
+#EXTINF:-1,usa 182.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/182.m3u8
+#EXTINF:-1,usa 183.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/183.m3u8
+#EXTINF:-1,usa 186.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/186.m3u8
+#EXTINF:-1,usa 187.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/187.m3u8
+#EXTINF:-1,usa 21.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/21.m3u8
+#EXTINF:-1,usa 22.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/22.m3u8
+#EXTINF:-1,usa 23.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/23.m3u8
+#EXTINF:-1,usa 28.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/28.m3u8
+#EXTINF:-1,usa 29.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/29.m3u8
+#EXTINF:-1,usa 30.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8
+#EXTINF:-1,usa 32.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/32.m3u8
+#EXTINF:-1,usa 33.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/33.m3u8
+#EXTINF:-1,usa 35.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
+#EXTINF:-1,usa 36.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/36.m3u8
+#EXTINF:-1,usa 38.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/38.m3u8
+#EXTINF:-1,usa 39.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/39.m3u8
+#EXTINF:-1,usa 4.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/4.m3u8
+#EXTINF:-1,usa 40.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
+#EXTINF:-1,usa 41.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/41.m3u8
+#EXTINF:-1,usa 42.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/42.m3u8
+#EXTINF:-1,usa 43.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/43.m3u8
+#EXTINF:-1,usa 45.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/45.m3u8
+#EXTINF:-1,usa 46.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/46.m3u8
+#EXTINF:-1,usa 47.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/47.m3u8
+#EXTINF:-1,usa 48.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/48.m3u8
+#EXTINF:-1,usa 49.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/49.m3u8
+#EXTINF:-1,usa 5.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/5.m3u8
+#EXTINF:-1,usa 50.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/50.m3u8
+#EXTINF:-1,usa 52.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/52.m3u8
+#EXTINF:-1,usa 53.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
+#EXTINF:-1,usa 54.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/54.m3u8
+#EXTINF:-1,usa 6.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
+#EXTINF:-1,usa 60.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/60.m3u8
+#EXTINF:-1,usa 61.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/61.m3u8
+#EXTINF:-1,usa 62.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+#EXTINF:-1,usa 63.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/63.m3u8
+#EXTINF:-1,usa 64.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8
+#EXTINF:-1,usa 65.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/65.m3u8
+#EXTINF:-1,usa 66.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
+#EXTINF:-1,usa 67.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
+#EXTINF:-1,usa 68.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
+#EXTINF:-1,usa 69.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/69.m3u8
+#EXTINF:-1,usa 7.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/7.m3u8
+#EXTINF:-1,usa 70.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
+#EXTINF:-1,usa 71.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
+#EXTINF:-1,usa 72.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
+#EXTINF:-1,usa 74.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/74.m3u8
+#EXTINF:-1,usa 78.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8
+#EXTINF:-1,usa 79.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/79.m3u8
+#EXTINF:-1,usa 80.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8
+#EXTINF:-1,usa 81.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/81.m3u8
+#EXTINF:-1,usa 82.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/82.m3u8
+#EXTINF:-1,usa 83.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/83.m3u8
+#EXTINF:-1,usa 84.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
+#EXTINF:-1,usa 85.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/85.m3u8
+#EXTINF:-1,usa 86.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/86.m3u8
+#EXTINF:-1,usa 87.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/87.m3u8
+#EXTINF:-1,usa 9.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/9.m3u8
+#EXTINF:-1,usa 91.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/91.m3u8
+#EXTINF:-1,usa 92.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/92.m3u8
+#EXTINF:-1,usa 93.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/93.m3u8
+#EXTINF:-1,usa 94.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/94.m3u8
+#EXTINF:-1,usa 95.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8
+#EXTINF:-1,usa 96.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
+#EXTINF:-1,usa 97.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/97.m3u8
+#EXTINF:-1,usa 98.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
+#EXTINF:-1,usa 99.m3u8
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/99.m3u8
